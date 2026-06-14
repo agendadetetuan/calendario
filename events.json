@@ -1,17 +1,5 @@
 [
   {
-    "id": "69a6df54dc",
-    "title": "El maravilloso mundo de las abejas",
-    "datetime": "2026-06-13T11:00:00",
-    "end_datetime": null,
-    "location": "Huerto de La Ventilla",
-    "description": "Si te interesa conocer a este gran polinizador te esperamos",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/69a6df54dc.jpg",
-    "image_hash": "7ed0622d102ae36e3f0d2aecf5725412",
-    "source_id": "img_120_0",
-    "created_at": "2026-06-04T04:15:40.966374+00:00"
-  },
-  {
     "id": "b40be41477",
     "title": "Partida a FIELDS OF ETERNIA El juego de mesa de MOTU",
     "datetime": "2026-06-13T15:00:00.000Z",
