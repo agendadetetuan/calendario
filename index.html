@@ -221,10 +221,10 @@
 
 <main>
   <div class="top-bar">
-    <button class="filter-btn active" data-filter="proximos">Próximos</button>
+    <button class="filter-btn active" data-filter="todos">Todos</button>
+    <button class="filter-btn" data-filter="hoy">Hoy</button>
+    <button class="filter-btn" data-filter="manana">Mañana</button>
     <button class="filter-btn" data-filter="semana">Esta semana</button>
-    <button class="filter-btn" data-filter="mes">Este mes</button>
-    <button class="filter-btn" data-filter="todos">Todos</button>
     <div class="view-toggle">
       <button class="view-btn active" id="btn-grid" title="Cuadrícula">⊞</button>
       <button class="view-btn" id="btn-list" title="Lista">☰</button>
@@ -377,7 +377,7 @@ const MESES   = ['Ene','Feb','Mar','Abr','May','Jun','Jul','Ago','Sep','Oct','No
 const MESES_L = ['Enero','Febrero','Marzo','Abril','Mayo','Junio','Julio','Agosto','Septiembre','Octubre','Noviembre','Diciembre'];
 const DIAS    = ['Dom','Lun','Mar','Mié','Jue','Vie','Sáb'];
 
-let allEvents=[], currentFilter='proximos', isGrid=true, adminUnlocked=false, editingId=null;
+let allEvents=[], currentFilter='todos', isGrid=true, adminUnlocked=false, editingId=null;
 
 async function loadEvents(){
   try{
@@ -394,14 +394,15 @@ async function loadEvents(){
 
 function filterEvents(f){
   const hoy=new Date();hoy.setHours(0,0,0,0);
+  const manana=new Date(hoy);manana.setDate(hoy.getDate()+1);
+  const pasadomanana=new Date(hoy);pasadomanana.setDate(hoy.getDate()+2);
   const sem=new Date(hoy);sem.setDate(hoy.getDate()+7);
-  const mes=new Date(hoy);mes.setDate(hoy.getDate()+31);
   return allEvents.filter(ev=>{
     const d=new Date(ev.datetime);
-    if(f==='proximos') return d>=hoy;
+    if(f==='hoy') return d>=hoy&&d<manana;
+    if(f==='manana') return d>=manana&&d<pasadomanana;
     if(f==='semana') return d>=hoy&&d<=sem;
-    if(f==='mes') return d>=hoy&&d<=mes;
-    return true;
+    return d>=hoy; // todos = próximos
   });
 }
 
@@ -613,7 +614,10 @@ document.getElementById('btn-update-event').onclick=async()=>{
   const idx=allEvents.findIndex(e=>e.id===editingId);if(idx<0)return;
   const title=document.getElementById('e-title').value.trim(),dt=document.getElementById('e-datetime').value;
   if(!title||!dt){showMsg('edit-msg','Rellena al menos el título y la fecha','error');return;}
-  allEvents[idx]={...allEvents[idx],title,datetime:new Date(dt).toISOString(),end_datetime:document.getElementById('e-end').value?new Date(document.getElementById('e-end').value).toISOString():null,location:document.getElementById('e-location').value.trim()||null,description:document.getElementById('e-desc').value.trim()};
+  let image_url=allEvents[idx].image_url||null;
+  const imgFile=document.getElementById('e-image').files[0];
+  if(imgFile){showMsg('edit-msg','Subiendo imagen…');image_url=await uploadImageViaBot(imgFile,editingId+'-edit');}
+  allEvents[idx]={...allEvents[idx],title,datetime:new Date(dt).toISOString(),end_datetime:document.getElementById('e-end').value?new Date(document.getElementById('e-end').value).toISOString():null,location:document.getElementById('e-location').value.trim()||null,description:document.getElementById('e-desc').value.trim(),image_url};
   allEvents.sort((a,b)=>new Date(a.datetime)-new Date(b.datetime));
   await saveEvents();renderEvents(currentFilter);renderAdminList();
   showMsg('edit-msg','✅ Guardado');setTimeout(()=>document.getElementById('edit-overlay').classList.remove('open'),900);
