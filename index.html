@@ -601,11 +601,21 @@ async function uploadImageViaBot(file, eventId){
 
 function renderAdminList(){
   const c=document.getElementById('admin-event-list');
+  const hoy=new Date();hoy.setHours(0,0,0,0);
+  const upcoming=[...allEvents].filter(ev=>new Date(ev.datetime)>=hoy).sort((a,b)=>new Date(a.datetime)-new Date(b.datetime));
+  const past=[...allEvents].filter(ev=>new Date(ev.datetime)<hoy).sort((a,b)=>new Date(b.datetime)-new Date(a.datetime));
   if(!allEvents.length){c.innerHTML='<p style="color:var(--gris-texto);font-size:0.85rem;">No hay eventos todavía</p>';return;}
-  c.innerHTML=[...allEvents].sort((a,b)=>new Date(a.datetime)-new Date(b.datetime)).map(ev=>{
+  const makeRow=(ev,isPast)=>{
     const d=new Date(ev.datetime);
-    return`<div class="admin-event-item"><span class="aei-date">${d.getDate()} ${MESES[d.getMonth()]}</span><span class="aei-title">${ev.title}</span><button onclick="openEdit('${ev.id}')">Editar</button><button class="del" onclick="deleteEvent('${ev.id}')">Borrar</button></div>`;
-  }).join('');
+    const style=isPast?'opacity:0.5;':'';
+    return`<div class="admin-event-item" style="${style}"><span class="aei-date">${d.getDate()} ${MESES[d.getMonth()]}</span><span class="aei-title">${ev.title}</span><button onclick="openEdit('${ev.id}')">Editar</button><button class="del" onclick="deleteEvent('${ev.id}')">Borrar</button></div>`;
+  };
+  let html=upcoming.map(ev=>makeRow(ev,false)).join('');
+  if(past.length){
+    html+=`<div style="margin:12px 0 6px;font-size:0.75rem;color:var(--gris-texto);border-top:1px solid var(--gris-borde);padding-top:10px;">— Eventos pasados —</div>`;
+    html+=past.map(ev=>makeRow(ev,true)).join('');
+  }
+  c.innerHTML=html;
 }
 
 function openEdit(id){const ev=allEvents.find(e=>e.id===id);if(!ev)return;editingId=id;document.getElementById('e-title').value=ev.title||'';document.getElementById('e-datetime').value=toLocal(ev.datetime);document.getElementById('e-end').value=toLocal(ev.end_datetime);document.getElementById('e-location').value=ev.location||'';document.getElementById('e-desc').value=ev.description||'';document.getElementById('e-image').value='';const curImg=document.getElementById('e-current-img');curImg.innerHTML=ev.image_url?`<img src="${ev.image_url}" style="max-height:80px;border-radius:6px;margin-top:4px;" /> <small style="color:var(--gris-texto)">Imagen actual</small>`:'';document.getElementById('edit-msg').style.display='none';document.getElementById('edit-overlay').classList.add('open');}
