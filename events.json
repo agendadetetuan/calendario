@@ -71,6 +71,18 @@
     "created_at": "2026-06-16T06:57:28.453083+00:00"
   },
   {
+    "id": "4f0ae5bd9d",
+    "title": "La Enredadera",
+    "datetime": "2026-06-27T11:00:00",
+    "end_datetime": null,
+    "location": "C/ de la Coruña, 5 Tetuán, Madrid",
+    "description": "Presentamos nuestro proyecto para crear una comunidad libre con economía compartida. Bienvenid@s a la revolución integral. www.hebracomunidad.org",
+    "image_url": "https://agendadetetuan.github.io/calendario/images/4f0ae5bd9d.jpg",
+    "image_hash": "91e79bd2102e9acdf0b7b38ccc82811b",
+    "source_id": "img_211_0",
+    "created_at": "2026-06-16T07:03:19.896825+00:00"
+  },
+  {
     "id": "94936faa0f",
     "title": "Ciclo de cine 'Directores. Richard Thorpe'",
     "datetime": "2026-06-28T19:00:00",
