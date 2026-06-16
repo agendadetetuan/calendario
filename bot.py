@@ -402,24 +402,18 @@ def add_event(event_data: dict, source_id: str, image_bytes: bytes = None) -> bo
     return save_events(events, sha)
 
 # ─── UTILIDADES ───────────────────────────────────────────────────────────────
-def escape_md(text: str) -> str:
-    """Escapa caracteres especiales de Markdown de Telegram."""
-    for ch in ['_', '*', '[', ']', '(', ')', '~', '`', '>', '#', '+', '-', '=', '|', '{', '}', '.', '!']:
-        text = text.replace(ch, f'\\{ch}')
-    return text
-
 async def notify_admin(context, event_data: dict, ok: bool):
     if not REVIEW_CHAT_ID:
         return
-    title = escape_md(event_data.get('title', ''))
-    loc   = escape_md(event_data.get('location') or 'Sin ubicacion')
+    title = event_data.get('title', '')
+    loc   = event_data.get('location') or 'Sin ubicacion'
     dt    = event_data.get('datetime', '')
     if ok:
-        text = f"✅ *Evento añadido*\n\n*{title}*\n📅 {dt}\n📍 {loc}"
+        text = f"Evento anadido\n\n{title}\nFecha: {dt}\nLugar: {loc}"
     else:
-        text = f"⚠️ *No se pudo guardar*\n\n*{title}*"
+        text = f"No se pudo guardar\n\n{title}"
     try:
-        await context.bot.send_message(chat_id=REVIEW_CHAT_ID, text=text, parse_mode="MarkdownV2")
+        await context.bot.send_message(chat_id=REVIEW_CHAT_ID, text=text)
     except Exception as e:
         log.error(f"Error enviando notificacion: {e}")
 
