@@ -188,8 +188,10 @@ def extract_events(raw: str) -> list[dict]:
             if idx > 0: clean = clean[idx:]
         data = json.loads(clean)
         items = data if isinstance(data, list) else [data]
-        return [e for e in items if isinstance(e, dict) and e.get("es_evento")]
-    except Exception:
+        result = [e for e in items if isinstance(e, dict) and e.get("es_evento")]
+        log.info(f"  JSON OK: {len(items)} items, {len(result)} eventos")
+        return result
+    except Exception as e1:
         # Intentar reparar JSON truncado
         try:
             repaired = repair_truncated_json(clean)
@@ -197,11 +199,11 @@ def extract_events(raw: str) -> list[dict]:
             items = data if isinstance(data, list) else [data]
             result = [e for e in items if isinstance(e, dict) and e.get("es_evento")]
             if result:
-                log.info(f"  JSON reparado con exito")
+                log.info(f"  JSON reparado: {len(result)} eventos")
                 return result
-        except Exception:
+        except Exception as e2:
             pass
-        log.error(f"Error parseando JSON | raw: {raw[:200]}")
+        log.error(f"Error parseando JSON: {e1} | raw: {raw[:300]}")
         return []
 
 def extract_event_fallback(text: str) -> list[dict]:
