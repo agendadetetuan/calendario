@@ -308,6 +308,41 @@ def save_events(events: list, sha: str) -> bool:
         log.error(f"Error GitHub: {e}")
         return False
 
+STATS_JSON_PATH = "stats.json"
+
+def load_stats() -> tuple[dict, str]:
+    try:
+        f = repo.get_contents(STATS_JSON_PATH)
+        return json.loads(f.decoded_content.decode("utf-8")), f.sha
+    except GithubException:
+        return {"total": 0, "by_year": {}}, ""
+
+def save_stats(stats: dict, sha: str) -> bool:
+    content = json.dumps(stats, ensure_ascii=False, indent=2)
+    try:
+        if sha:
+            repo.update_file(STATS_JSON_PATH, "Actualizar estadisticas", content, sha)
+        else:
+            repo.create_file(STATS_JSON_PATH, "Crear stats.json", content)
+        return True
+    except GithubException as e:
+        log.error(f"Error guardando stats: {e}")
+        return False
+
+def increment_stats(event_datetime: str):
+    """Incrementa el contador historico de eventos. Se llama SOLO al crear un evento nuevo,
+    nunca al borrar, para que el total no baje con la limpieza nocturna."""
+    try:
+        stats, sha = load_stats()
+        year = event_datetime[:4] if event_datetime else str(datetime.now().year)
+        stats["total"] = stats.get("total", 0) + 1
+        by_year = stats.get("by_year", {})
+        by_year[year] = by_year.get(year, 0) + 1
+        stats["by_year"] = by_year
+        save_stats(stats, sha)
+    except Exception as e:
+        log.error(f"Error incrementando stats: {e}")
+
 def upload_image_to_github(image_bytes: bytes, filename: str) -> str | None:
     try:
         path = f"images/{filename}"
@@ -399,7 +434,10 @@ def add_event(event_data: dict, source_id: str, image_bytes: bytes = None) -> bo
         "created_at":   datetime.now(timezone.utc).isoformat(),
     })
     events.sort(key=lambda e: e.get("datetime", ""))
-    return save_events(events, sha)
+    ok = save_events(events, sha)
+    if ok:
+        increment_stats(event_data.get("datetime", ""))
+    return ok
 
 # ─── UTILIDADES ───────────────────────────────────────────────────────────────
 async def notify_admin(context, event_data: dict, ok: bool):
@@ -524,9 +562,14 @@ class APIHandler(BaseHTTPRequestHandler):
                 resp = json.dumps({"ok": ok}).encode()
             elif action == "save":
                 events = body.get("events", [])
-                _, sha = load_events()
+                old_events, sha = load_events()
+                old_ids = {e.get("id") for e in old_events}
+                new_ones = [e for e in events if e.get("id") not in old_ids]
                 ok = save_events(events, sha)
-                log.info(f"Admin guardo {len(events)} eventos")
+                if ok:
+                    for ne in new_ones:
+                        increment_stats(ne.get("datetime", ""))
+                log.info(f"Admin guardo {len(events)} eventos ({len(new_ones)} nuevos)")
                 resp = json.dumps({"ok": ok}).encode()
             elif action == "upload-image":
                 img_b64  = body.get("image_b64", "")

@@ -367,6 +367,10 @@
   <button onclick="document.getElementById('faq-overlay').classList.add('open')" style="background:none;border:none;color:var(--azul);cursor:pointer;font-size:0.75rem;font-family:'DM Sans',sans-serif;padding:0;text-decoration:underline;">Preguntas frecuentes</button>
 </footer>
 
+<div id="stats-footer" style="background:#001E52;color:#fff;padding:14px 24px;text-align:center;font-size:0.75rem;letter-spacing:0.3px;">
+  <span id="stats-text">Cargando estadísticas…</span>
+</div>
+
 <script>
 const EVENTS_JSON_URL = './events.json';
 const BOT_API_URL     = 'https://agendadetetuan.onrender.com';
@@ -391,6 +395,23 @@ async function loadEvents(){
     document.getElementById('events-container').innerHTML=
       '<div class="empty-state"><h2>Sin eventos todavía</h2><p>Publica en @agendatetuan y aparecerán aquí</p></div>';
   }
+  loadStats();
+}
+
+async function loadStats(){
+  try{
+    const r=await fetch('./stats.json?t='+Date.now(),{cache:'no-store'});
+    if(!r.ok) throw new Error();
+    const stats=await r.json();
+    const year=new Date().getFullYear();
+    const thisYear=stats.by_year && stats.by_year[year] ? stats.by_year[year] : 0;
+    const total=stats.total || 0;
+    const actuales=allEvents.length;
+    document.getElementById('stats-text').textContent=
+      `${actuales} eventos actuales · ${thisYear} eventos este ${year} · ${total} eventos en total`;
+  }catch{
+    document.getElementById('stats-text').textContent=`${allEvents.length} eventos actuales`;
+  }
 }
 
 function filterEvents(f){
@@ -405,6 +426,12 @@ function filterEvents(f){
     if(f==='semana') return d>=hoy&&d<=sem;
     return d>=hoy; // todos = próximos
   });
+}
+
+function stripLeadingEmoji(text){
+  if(!text) return text;
+  // Quita emojis al principio del texto (uno o varios seguidos de espacio)
+  return text.replace(/^[\u{1F000}-\u{1FFFF}\u{2600}-\u{27BF}\u{2190}-\u{21FF}\u{2B00}-\u{2BFF}\uFE0F\s]+/u, '').trim() || text;
 }
 
 function getEventIcon(text){
@@ -453,7 +480,7 @@ function renderEvents(f){
       <div class="card-top">
         <div class="date-block"><div class="date-weekday">${DIAS[d.getDay()]}</div><div class="date-day">${d.getDate()}</div><div class="date-month">${MESES[mes]}</div></div>
         <div class="card-info">
-          <div class="event-title" onclick="openModal(${i})">${icon} ${ev.title}${esHoy?'<span class="badge-hoy">Hoy</span>':''}</div>
+          <div class="event-title" onclick="openModal(${i})">${icon} ${stripLeadingEmoji(ev.title)}${esHoy?'<span class="badge-hoy">Hoy</span>':''}</div>
           <div class="meta-item"><span class="meta-icon">🕐</span>${hora}</div>
           ${ev.location?`<div class="meta-item"><span class="meta-icon">📍</span>${ev.location}</div>`:''}
         </div>
@@ -515,7 +542,7 @@ async function nativeShare(idx){
 function openModal(idx){
   const ev=filterEvents(currentFilter)[idx];
   const d=new Date(ev.datetime),hora=d.toLocaleTimeString('es-ES',{hour:'2-digit',minute:'2-digit'});
-  document.getElementById('modal-title').textContent=ev.title;
+  document.getElementById('modal-title').textContent=stripLeadingEmoji(ev.title);
   document.getElementById('modal-meta').innerHTML=`
     <div class="meta-item"><span class="meta-icon">📅</span>${d.getDate()} de ${MESES_L[d.getMonth()]} · ${hora}</div>
     ${ev.location?`<div class="meta-item"><span class="meta-icon">📍</span>${ev.location}</div>`:''}`;
