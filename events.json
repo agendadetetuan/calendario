@@ -47,6 +47,18 @@
     "created_at": "2026-06-11T22:36:05.844653+00:00"
   },
   {
+    "id": "a921e9fe7e",
+    "title": "Teatro: \"Historia de una escalera\"",
+    "datetime": "2026-06-20T12:30:00",
+    "end_datetime": null,
+    "location": "Teatro El Globo",
+    "description": "Teatro: \"Historia de una escalera\"\n\nDe Antonio Buero Vallejo. A cargo de la cía. Teatro El Globo.\n\nEs una obra que sigue a varias familias en una escalera de vecindad durante treinta años, mostrando sus vidas, sueños y frustraciones a través de tres generaciones, revelando el inmovilismo social, la falta de oportunidades y la incapacidad para escapar de la pobreza y las propias limitaciones, donde las promesas de un futuro mejor se repiten trágicamente en la siguiente generación, evidenciando el determinismo social y personal en la España de posguerra.\n\nDuración: 45 minutos.\n\nEdad recomendada: todos los públicos.\n\nGratuito\n\nSábado 20 de junio de 2026 a las 12:30 horas\n\nCentro Sociocultural José de Espronceda (Tetuán)\nCALLE  ALMANSA,  9   MADRID",
+    "image_url": "https://agendadetetuan.github.io/calendario/images/a921e9fe7e.jpg",
+    "image_hash": "d953f70c31bc744980d7576814738a4c",
+    "source_id": "img_220_0",
+    "created_at": "2026-06-16T08:35:59.328035+00:00"
+  },
+  {
     "id": "54c722756d",
     "title": "Escenas del Teatro Universal",
     "datetime": "2026-06-20T19:00:00",
