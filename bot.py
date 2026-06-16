@@ -241,24 +241,32 @@ def extract_event_fallback(text: str) -> list[dict]:
     return [{"es_evento": True, "title": title, "datetime": dt, "end_datetime": None,
              "location": location, "description": text}]
 
-def extract_from_text(text: str) -> tuple[list[dict], str | None]:
+def extract_from_text(text: str) -> tuple[list[dict], str | None, str | None]:
+    """Devuelve (eventos, error, raw_response_para_debug)"""
     try:
         raw, error = call_openrouter([
             {"role": "system", "content": PROMPT},
             {"role": "user", "content": text}
         ])
         events = extract_events(raw) if raw else []
-        if not events and error:
+        if not events and not error:
+            error = "json_invalido"
+        if not events and error == "json_invalido":
+            log.info(f"  JSON invalido, intentando regex...")
+            events = extract_event_fallback(text)
+            if events:
+                log.info("  Fallback regex exitoso")
+        elif not events and error:
             log.info(f"  IA fallo ({error}), intentando regex...")
             events = extract_event_fallback(text)
             if events:
                 log.info("  Fallback regex exitoso")
-        return events, error
+        return events, error, raw
     except Exception as e:
         log.error(f"Error extrayendo texto: {e}")
-        return [], "error_desconocido"
+        return [], "error_desconocido", None
 
-def extract_from_image(image_bytes: bytes, caption: str = "") -> tuple[list[dict], str | None]:
+def extract_from_image(image_bytes: bytes, caption: str = "") -> tuple[list[dict], str | None, str | None]:
     try:
         b64 = base64.standard_b64encode(image_bytes).decode("utf-8")
         text = PROMPT
@@ -273,10 +281,12 @@ def extract_from_image(image_bytes: bytes, caption: str = "") -> tuple[list[dict
             ]}
         ])
         events = extract_events(raw) if raw else []
-        return events, error
+        if not events and not error:
+            error = "json_invalido"
+        return events, error, raw
     except Exception as e:
         log.error(f"Error extrayendo imagen: {e}")
-        return [], "error_desconocido"
+        return [], "error_desconocido", None
 
 # ─── GITHUB ───────────────────────────────────────────────────────────────────
 def load_events() -> tuple[list, str]:
@@ -437,12 +447,12 @@ async def handle_text(update: Update, context: ContextTypes.DEFAULT_TYPE):
     if not msg or not msg.text:
         return
     log.info(f"Texto recibido (id={msg.message_id})")
-    events, error = extract_from_text(msg.text)
+    events, error, raw = extract_from_text(msg.text)
     if not events:
         reason = build_ignore_reason(error)
         log.info(f"   Ignorado: {reason}")
-        preview = msg.text[:80] + ("..." if len(msg.text) > 80 else "")
-        await send_ignore_msg(context, reason, f"\n\n{preview}")
+        debug_info = f"\n\nRespuesta IA: {raw[:300]}" if raw else ""
+        await send_ignore_msg(context, reason, debug_info)
         return
     for i, event_data in enumerate(events):
         log.info(f"   Evento {i+1}/{len(events)}: {event_data.get('title')}")
@@ -461,11 +471,11 @@ async def handle_photo(update: Update, context: ContextTypes.DEFAULT_TYPE):
     image_bytes = buf.getvalue()
     caption = msg.caption or ""
 
-    events, error = extract_from_image(image_bytes, caption)
+    events, error, raw = extract_from_image(image_bytes, caption)
 
     if not events and len(caption) > 30:
         log.info("   Imagen no procesada, intentando con pie de foto...")
-        events, error = extract_from_text(caption)
+        events, error, raw = extract_from_text(caption)
         if events:
             log.info("   Evento extraido del pie de foto")
 
@@ -473,7 +483,8 @@ async def handle_photo(update: Update, context: ContextTypes.DEFAULT_TYPE):
         reason = build_ignore_reason(error)
         log.info(f"   Ignorado: {reason}")
         extra = f"\nPie de foto: {caption[:100]}" if caption else ""
-        await send_ignore_msg(context, reason, extra)
+        debug_info = f"\n\nRespuesta IA: {raw[:300]}" if raw else ""
+        await send_ignore_msg(context, reason, extra + debug_info)
         return
 
     for i, event_data in enumerate(events):
