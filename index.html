@@ -454,7 +454,7 @@ function renderEvents(f){
         <div class="date-block"><div class="date-weekday">${DIAS[d.getDay()]}</div><div class="date-day">${d.getDate()}</div><div class="date-month">${MESES[mes]}</div></div>
         <div class="card-info">
           <div class="event-title" onclick="openModal(${i})">${icon} ${ev.title}${esHoy?'<span class="badge-hoy">Hoy</span>':''}</div>
-          <div class="meta-item"><span class="meta-icon">🕐</span>${DIAS[d.getDay()]} · ${hora}</div>
+          <div class="meta-item"><span class="meta-icon">🕐</span>${hora}</div>
           ${ev.location?`<div class="meta-item"><span class="meta-icon">📍</span>${ev.location}</div>`:''}
         </div>
       </div>
@@ -517,7 +517,7 @@ function openModal(idx){
   const d=new Date(ev.datetime),hora=d.toLocaleTimeString('es-ES',{hour:'2-digit',minute:'2-digit'});
   document.getElementById('modal-title').textContent=ev.title;
   document.getElementById('modal-meta').innerHTML=`
-    <div class="meta-item"><span class="meta-icon">📅</span>${DIAS[d.getDay()]}, ${d.getDate()} de ${MESES_L[d.getMonth()]} · ${hora}</div>
+    <div class="meta-item"><span class="meta-icon">📅</span>${d.getDate()} de ${MESES_L[d.getMonth()]} · ${hora}</div>
     ${ev.location?`<div class="meta-item"><span class="meta-icon">📍</span>${ev.location}</div>`:''}`;
   document.getElementById('modal-desc').innerHTML=linkify(ev.description||'');
   const imgEl=document.getElementById('modal-img');
