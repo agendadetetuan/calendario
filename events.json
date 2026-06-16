@@ -12,6 +12,18 @@
     "created_at": "2026-06-03T12:30:33.338811+00:00"
   },
   {
+    "id": "27183dd82c",
+    "title": "Variedades TEATRALES",
+    "datetime": "2026-06-16T19:00:00",
+    "end_datetime": "2026-06-16T20:15:00",
+    "location": "Centro Sociocultural Tetuán\nCALLE  BRAVO MURILLO,  251   MADRID",
+    "description": "A cargo de Tartufo Teatro.\n\nCuadros cómicos de diferentes autores con anécdotas de la vida misma. No hay excusas\npara no reír y pasar un buen rato.\n\nDuración: 75 minutos.\n\nEdad recomendada: mayores de 16 años.\n\nGratuito\n\nColabora: MADRID Distrito Tetuán",
+    "image_url": "https://agendadetetuan.github.io/calendario/images/27183dd82c.jpg",
+    "image_hash": "b2bfcdec3ba6170595ef9c3728847670",
+    "source_id": "img_228_0",
+    "created_at": "2026-06-16T20:35:34.736704+00:00"
+  },
+  {
     "id": "manual-1781467948620",
     "title": "Taller de pancartas contra el ASI",
     "datetime": "2026-06-18T16:00:00.000Z",
