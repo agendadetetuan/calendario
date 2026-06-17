@@ -167,6 +167,18 @@
     "created_at": "2026-06-16T06:57:28.453083+00:00"
   },
   {
+    "id": "355d58adae",
+    "title": "Dando el cante",
+    "datetime": "2026-06-26T18:00:00",
+    "end_datetime": null,
+    "location": "Centro Cultural Eduardo Úrculo (Tetuán) PLAZA DONOSO, 5 MADRID",
+    "description": "Alumnado de teatro del Centro Cultural Eduardo Úrculo Actividad gratuita",
+    "image_url": "https://agendadetetuan.github.io/calendario/images/355d58adae.jpg",
+    "image_hash": "fa57d8408584d824d2c523e4d525ad4c",
+    "source_id": "img_4986_0",
+    "created_at": "2026-06-17T13:20:28.549563+00:00"
+  },
+  {
     "id": "4f0ae5bd9d",
     "title": "Presentación de \"Hebra comunidad\"",
     "datetime": "2026-06-27T09:00:00.000Z",
