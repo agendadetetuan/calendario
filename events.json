@@ -36,17 +36,6 @@
     "created_at": "2026-06-17T11:14:47.417953+00:00"
   },
   {
-    "id": "manual-1781467948620",
-    "title": "Taller de pancartas contra el ASI",
-    "datetime": "2026-06-18T16:00:00.000Z",
-    "end_datetime": null,
-    "location": "Centro Social La Enredadera. Calle La Coruña 5 Madrid. Metro Estrecho. Línea 1",
-    "description": "Las pancartas creadas será expuestas el 26 de junio en el evento de conmemoración del Día de la Vergüenza Pederasta, 23 de junio. Inscríbete en retogulabi@gmail.com. Ni silencio, ni impunidad",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1781467948620.jpg",
-    "source_id": "manual",
-    "created_at": "2026-06-14T20:12:34.479Z"
-  },
-  {
     "id": "d5a46740f8",
     "title": "Cuentacuentos “Palabra palabritas, palabrón” Con Andrea Ortúzar",
     "datetime": "2026-06-18T17:30:00",
@@ -57,6 +46,17 @@
     "image_hash": "d977eed8e49f65bb0812a7f6f122d340",
     "source_id": "img_217_0",
     "created_at": "2026-06-16T07:30:58.750266+00:00"
+  },
+  {
+    "id": "manual-1781467948620",
+    "title": "Taller de pancartas contra el ASI",
+    "datetime": "2026-06-18T16:00:00.000Z",
+    "end_datetime": null,
+    "location": "Centro Social La Enredadera. Calle La Coruña 5 Madrid. Metro Estrecho. Línea 1",
+    "description": "Las pancartas creadas será expuestas el 26 de junio en el evento de conmemoración del Día de la Vergüenza Pederasta, 23 de junio. Inscríbete en retogulabi@gmail.com. Ni silencio, ni impunidad",
+    "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1781467948620.jpg",
+    "source_id": "manual",
+    "created_at": "2026-06-14T20:12:34.479Z"
   },
   {
     "id": "403d4864f8",
@@ -169,26 +169,14 @@
   {
     "id": "355d58adae",
     "title": "Dando el cante",
-    "datetime": "2026-06-26T18:00:00",
+    "datetime": "2026-06-26T16:00:00.000Z",
     "end_datetime": null,
-    "location": "Centro Cultural Eduardo Úrculo (Tetuán) PLAZA DONOSO, 5 MADRID",
+    "location": "Centro Cultural José Espronceda. Calle Almansa 9",
     "description": "Alumnado de teatro del Centro Cultural Eduardo Úrculo Actividad gratuita",
     "image_url": "https://agendadetetuan.github.io/calendario/images/355d58adae.jpg",
     "image_hash": "fa57d8408584d824d2c523e4d525ad4c",
     "source_id": "img_4986_0",
     "created_at": "2026-06-17T13:20:28.549563+00:00"
-  },
-  {
-    "id": "4f0ae5bd9d",
-    "title": "Presentación de \"Hebra comunidad\"",
-    "datetime": "2026-06-27T09:00:00.000Z",
-    "end_datetime": null,
-    "location": "La Enredadera. C/ de la Coruña, 5 Tetuán, Madrid",
-    "description": "Presentamos nuestro proyecto para crear una comunidad libre con economía compartida. Bienvenid@s a la revolución integral. www.hebracomunidad.org",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/4f0ae5bd9d.jpg",
-    "image_hash": "91e79bd2102e9acdf0b7b38ccc82811b",
-    "source_id": "img_211_0",
-    "created_at": "2026-06-16T07:03:19.896825+00:00"
   },
   {
     "id": "60e2d9a96f",
@@ -201,6 +189,18 @@
     "image_hash": "b22dc60fee78ea31148bf9b440e31981",
     "source_id": "img_4982_0",
     "created_at": "2026-06-16T13:49:58.231413+00:00"
+  },
+  {
+    "id": "4f0ae5bd9d",
+    "title": "Presentación de \"Hebra comunidad\"",
+    "datetime": "2026-06-27T09:00:00.000Z",
+    "end_datetime": null,
+    "location": "La Enredadera. C/ de la Coruña, 5 Tetuán, Madrid",
+    "description": "Presentamos nuestro proyecto para crear una comunidad libre con economía compartida. Bienvenid@s a la revolución integral. www.hebracomunidad.org",
+    "image_url": "https://agendadetetuan.github.io/calendario/images/4f0ae5bd9d.jpg",
+    "image_hash": "91e79bd2102e9acdf0b7b38ccc82811b",
+    "source_id": "img_211_0",
+    "created_at": "2026-06-16T07:03:19.896825+00:00"
   },
   {
     "id": "3ae23c976b",
