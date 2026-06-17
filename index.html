@@ -475,12 +475,12 @@ function renderEvents(f){
       lastMonth=mes;
     }
     const esHoy=isToday(d),hora=d.toLocaleTimeString('es-ES',{hour:'2-digit',minute:'2-digit'});
-    const icon=getEventIcon(ev.title+' '+(ev.description||''));
+    const evTitle=ev.title||'';
     html+=`<div class="event-card">
       <div class="card-top">
         <div class="date-block"><div class="date-weekday">${DIAS[d.getDay()]}</div><div class="date-day">${d.getDate()}</div><div class="date-month">${MESES[mes]}</div></div>
         <div class="card-info">
-          <div class="event-title" onclick="openModal(${i})">${icon} ${stripLeadingEmoji(ev.title)}${esHoy?'<span class="badge-hoy">Hoy</span>':''}</div>
+          <div class="event-title" onclick="openModal(${i})">${evTitle}${esHoy?'<span class="badge-hoy">Hoy</span>':''}</div>
           <div class="meta-item"><span class="meta-icon">🕐</span>${hora}</div>
           ${ev.location?`<div class="meta-item"><span class="meta-icon">📍</span>${ev.location}</div>`:''}
         </div>
@@ -542,7 +542,7 @@ async function nativeShare(idx){
 function openModal(idx){
   const ev=filterEvents(currentFilter)[idx];
   const d=new Date(ev.datetime),hora=d.toLocaleTimeString('es-ES',{hour:'2-digit',minute:'2-digit'});
-  document.getElementById('modal-title').textContent=stripLeadingEmoji(ev.title);
+  document.getElementById('modal-title').textContent=ev.title;
   document.getElementById('modal-meta').innerHTML=`
     <div class="meta-item"><span class="meta-icon">📅</span>${d.getDate()} de ${MESES_L[d.getMonth()]} · ${hora}</div>
     ${ev.location?`<div class="meta-item"><span class="meta-icon">📍</span>${ev.location}</div>`:''}`;
