@@ -36,18 +36,6 @@
     "created_at": "2026-06-17T11:14:47.417953+00:00"
   },
   {
-    "id": "eced61cf42",
-    "title": "Programa fiestas Dehesa de la Villa. 18 a 21 de junio.",
-    "datetime": "2026-06-17T22:00:00.000Z",
-    "end_datetime": null,
-    "location": null,
-    "description": "Programa fiestas Dehesa de la Villa. 18 a 21 de junio.",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/eced61cf42-edit.jpg",
-    "image_hash": null,
-    "source_id": "4991_0",
-    "created_at": "2026-06-18T08:53:46.711757+00:00"
-  },
-  {
     "id": "d5a46740f8",
     "title": "Cuentacuentos “Palabra palabritas, palabrón” Con Andrea Ortúzar",
     "datetime": "2026-06-18T17:30:00",
@@ -69,6 +57,18 @@
     "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1781467948620.jpg",
     "source_id": "manual",
     "created_at": "2026-06-14T20:12:34.479Z"
+  },
+  {
+    "id": "eced61cf42",
+    "title": "Programa fiestas Dehesa de la Villa. 18 a 21 de junio",
+    "datetime": "2026-06-18T22:00:00.000Z",
+    "end_datetime": null,
+    "location": null,
+    "description": "Programa fiestas Dehesa de la Villa. 18 a 21 de junio",
+    "image_url": "https://agendadetetuan.github.io/calendario/images/eced61cf42-edit.jpg",
+    "image_hash": null,
+    "source_id": "4991_0",
+    "created_at": "2026-06-18T08:53:46.711757+00:00"
   },
   {
     "id": "403d4864f8",
