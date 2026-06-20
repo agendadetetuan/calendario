@@ -143,18 +143,6 @@
     "created_at": "2026-06-17T14:53:37.969763+00:00"
   },
   {
-    "id": "6b9ae76739",
-    "title": "Guerra de agua",
-    "datetime": "2026-06-20T11:30:00",
-    "end_datetime": null,
-    "location": "IDB Antonio Machado- Sinesio Delgado",
-    "description": "Guerra de agua.",
-    "image_url": null,
-    "image_hash": null,
-    "source_id": "img_251_1",
-    "created_at": "2026-06-20T17:36:53.387859+00:00"
-  },
-  {
     "id": "9b469eece7",
     "title": "PRESENTACIÓN HORIZONTAL",
     "datetime": "2026-06-20T12:00:00",
@@ -203,52 +191,40 @@
     "created_at": "2026-06-16T07:34:46.412572+00:00"
   },
   {
-    "id": "bb535b3810",
-    "title": "Entrega premio “Mejor Rincón Verde”",
-    "datetime": "2026-06-20T19:30:00",
+    "id": "7266c4e35f",
+    "title": "Taller de arte urbano",
+    "datetime": "2026-06-20T19:00:00",
     "end_datetime": null,
-    "location": "Centro Cultural Julio Cortázar",
-    "description": "Entrega premio “Mejor Rincón Verde”",
+    "location": "Casetas AA.VV. (Recinto Ferial Francos Rodríguez)",
+    "description": "Taller de arte urbano.",
     "image_url": null,
     "image_hash": null,
-    "source_id": "img_251_9",
-    "created_at": "2026-06-20T17:37:20.925294+00:00"
+    "source_id": "img_251_3",
+    "created_at": "2026-06-20T17:37:00.238481+00:00"
   },
   {
-    "id": "51d0a61a98",
-    "title": "Concierto de la “Coral Ciudad de los Poetas”",
-    "datetime": "2026-06-20T19:45:00",
-    "end_datetime": null,
-    "location": "Centro Cultural Julio Cortázar",
-    "description": "Concierto de la “Coral Ciudad de los Poetas”.",
-    "image_url": null,
-    "image_hash": null,
-    "source_id": "img_251_10",
-    "created_at": "2026-06-20T17:37:24.257625+00:00"
-  },
-  {
-    "id": "f50f316286",
-    "title": "Puesto de limonada y picoteo",
-    "datetime": "2026-06-20T20:15:00",
-    "end_datetime": null,
-    "location": "Plaza Lugar Poetas (C/ Antonio Machado, 20)",
-    "description": "Puesto de limonada y picoteo.",
-    "image_url": null,
-    "image_hash": null,
-    "source_id": "img_251_11",
-    "created_at": "2026-06-20T17:37:27.756160+00:00"
-  },
-  {
-    "id": "9783684c6a",
-    "title": "Actuación del Dj Coleman",
-    "datetime": "2026-06-20T23:45:00",
+    "id": "77b4dc2372",
+    "title": "Actuación de Flamenco Pasión y Tacón",
+    "datetime": "2026-06-20T21:00:00",
     "end_datetime": null,
     "location": "Escenario (Recinto Ferial Francos Rodríguez)",
-    "description": "Actuación del Dj Coleman.",
+    "description": "Actuación de Flamenco Pasión y Tacón. Grupo del Baile de Alumnas Centro Cultural Juan Gris.",
     "image_url": null,
     "image_hash": null,
-    "source_id": "img_251_8",
-    "created_at": "2026-06-20T17:37:17.455322+00:00"
+    "source_id": "img_251_6",
+    "created_at": "2026-06-20T17:37:10.616865+00:00"
+  },
+  {
+    "id": "ac89a17832",
+    "title": "Actuación de Banda Ochentera",
+    "datetime": "2026-06-20T22:00:00",
+    "end_datetime": null,
+    "location": "Escenario (Recinto Ferial Francos Rodríguez)",
+    "description": "Actuación de Banda Ochentera",
+    "image_url": null,
+    "image_hash": null,
+    "source_id": "img_251_7",
+    "created_at": "2026-06-20T17:37:14.088319+00:00"
   },
   {
     "id": "ff3d4d8d93",
