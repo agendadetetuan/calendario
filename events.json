@@ -203,18 +203,6 @@
     "created_at": "2026-06-20T17:37:00.238481+00:00"
   },
   {
-    "id": "bb535b3810",
-    "title": "Entrega premio “Mejor Rincón Verde”",
-    "datetime": "2026-06-20T19:30:00",
-    "end_datetime": null,
-    "location": "Centro Cultural Julio Cortázar",
-    "description": "Entrega premio “Mejor Rincón Verde”",
-    "image_url": null,
-    "image_hash": null,
-    "source_id": "img_251_9",
-    "created_at": "2026-06-20T17:37:20.925294+00:00"
-  },
-  {
     "id": "51d0a61a98",
     "title": "Concierto de la “Coral Ciudad de los Poetas”",
     "datetime": "2026-06-20T19:45:00",
