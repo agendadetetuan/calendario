@@ -179,6 +179,18 @@
     "created_at": "2026-06-16T08:35:59.328035+00:00"
   },
   {
+    "id": "b1b9fb9ec7",
+    "title": "Hora sin ruidos",
+    "datetime": "2026-06-20T16:00:00",
+    "end_datetime": "2026-06-20T17:00:00",
+    "location": "Escenario (Recinto Ferial Francos Rodríguez)",
+    "description": "“Hora sin ruidos”.",
+    "image_url": null,
+    "image_hash": null,
+    "source_id": "img_251_5",
+    "created_at": "2026-06-20T17:37:07.103735+00:00"
+  },
+  {
     "id": "3d19251115",
     "title": "Taller de cómic",
     "datetime": "2026-06-20T18:00:00",
