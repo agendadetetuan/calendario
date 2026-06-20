@@ -167,6 +167,18 @@
     "created_at": "2026-06-16T08:35:59.328035+00:00"
   },
   {
+    "id": "3d19251115",
+    "title": "Taller de cómic",
+    "datetime": "2026-06-20T18:00:00",
+    "end_datetime": null,
+    "location": "Casetas AA.VV. (Recinto Ferial Francos Rodríguez)",
+    "description": "Taller de cómic.",
+    "image_url": null,
+    "image_hash": null,
+    "source_id": "img_251_2",
+    "created_at": "2026-06-20T17:36:56.765957+00:00"
+  },
+  {
     "id": "af4d608ef5",
     "title": "Nuestro grupo de CRIANZA Y NO MONOGAMIAS cumple 1 año!",
     "datetime": "2026-06-20T18:30:00",
