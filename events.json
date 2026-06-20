@@ -263,6 +263,18 @@
     "created_at": "2026-06-20T17:37:14.088319+00:00"
   },
   {
+    "id": "9783684c6a",
+    "title": "Actuación del Dj Coleman",
+    "datetime": "2026-06-20T23:45:00",
+    "end_datetime": null,
+    "location": "Escenario (Recinto Ferial Francos Rodríguez)",
+    "description": "Actuación del Dj Coleman.",
+    "image_url": null,
+    "image_hash": null,
+    "source_id": "img_251_8",
+    "created_at": "2026-06-20T17:37:17.455322+00:00"
+  },
+  {
     "id": "ff3d4d8d93",
     "title": "Detectives salvajes. El secreto de las semillas",
     "datetime": "2026-06-21T10:00:00",
