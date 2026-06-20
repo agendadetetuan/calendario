@@ -88,7 +88,21 @@ Horarios recurrentes (sin fecha concreta):
 Ubicaciones especiales:
 - Si es una emisora de radio, pon el nombre en location y frecuencia/web en description.
 - Si es una URL, ponla en location tal cual.
+- Si el evento es online o virtual, pon "Online" en location.
 - Si no hay direccion fisica, pon el nombre del espacio o medio, no null.
+
+Formato de direcciones fisicas (MUY IMPORTANTE):
+- Si location es una direccion fisica real (calle, plaza, centro cultural, biblioteca, etc.),
+  el texto DEBE terminar en ", Madrid" para que se pueda localizar bien en mapas.
+- Si el cartel menciona explicitamente un barrio o distrito (Tetuan, Bellas Vistas,
+  Berruguete, Dehesa de la Villa, etc.), inclúyelo: "Nombre del lugar, Calle X, Barrio, Madrid".
+- Si el cartel NO menciona ningun barrio, no lo inventes ni lo asumas: usa solo
+  "Nombre del lugar, Calle X, Madrid".
+- Ejemplos correctos:
+  "Biblioteca Manuel Vazquez Montalban, Calle Francos Rodriguez 67, Tetuan, Madrid"
+  "Centro Cultural Eduardo Urculo, Plaza Donoso 5, Madrid"
+  "Espacio Lorenzana, Calle Lorenzana 2, Madrid"
+- NUNCA añadas ", Madrid" si location es una URL, "Online", o el nombre de una emisora de radio.
 
 Responde UNICAMENTE con el array JSON completo."""
 
@@ -411,6 +425,27 @@ def is_duplicate_event(event_data: dict, events: list, img_hash: str = None) -> 
             return True
     return False
 
+def normalize_location(location: str | None) -> str | None:
+    """Añade ', Madrid' a direcciones físicas reales, evitando URLs, online y radios."""
+    if not location:
+        return location
+    loc = location.strip()
+    loc_lower = loc.lower()
+
+    # No tocar: URLs, online, emisoras de radio
+    if loc_lower.startswith(("http://", "https://", "www.")):
+        return loc
+    if "online" in loc_lower or "virtual" in loc_lower:
+        return loc
+    if any(kw in loc_lower for kw in ["radio", "fm", "podcast", "emisora", " mhz", "khz"]):
+        return loc
+
+    # Ya termina en Madrid (con o sin España) -> no duplicar
+    if loc_lower.endswith("madrid") or ", madrid" in loc_lower or "madrid, espa" in loc_lower:
+        return loc
+
+    return f"{loc}, Madrid"
+
 def add_event(event_data: dict, source_id: str, image_bytes: bytes = None) -> bool:
     events, sha = load_events()
     if any(e.get("source_id") == source_id for e in events):
@@ -426,7 +461,7 @@ def add_event(event_data: dict, source_id: str, image_bytes: bytes = None) -> bo
         "title":        event_data.get("title", "Sin titulo"),
         "datetime":     event_data.get("datetime", ""),
         "end_datetime": event_data.get("end_datetime"),
-        "location":     event_data.get("location"),
+        "location":     normalize_location(event_data.get("location")),
         "description":  event_data.get("description", ""),
         "image_url":    image_url,
         "image_hash":   img_h,

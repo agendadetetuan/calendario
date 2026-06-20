@@ -434,6 +434,17 @@ function stripLeadingEmoji(text){
   return text.replace(/^[\u{1F000}-\u{1FFFF}\u{2600}-\u{27BF}\u{2190}-\u{21FF}\u{2B00}-\u{2BFF}\uFE0F\s]+/u, '').trim() || text;
 }
 
+function normalizeLocation(location){
+  if(!location) return location;
+  const loc=location.trim();
+  const lower=loc.toLowerCase();
+  if(lower.startsWith('http://')||lower.startsWith('https://')||lower.startsWith('www.')) return loc;
+  if(lower.includes('online')||lower.includes('virtual')) return loc;
+  if(/radio|fm|podcast|emisora| mhz| khz/.test(lower)) return loc;
+  if(lower.endsWith('madrid')||lower.includes(', madrid')||lower.includes('madrid, espa')) return loc;
+  return loc+', Madrid';
+}
+
 function getEventIcon(text){
   const t=text.toLowerCase();
   if(/teatro|obra|función|dramaturgi|escénic/.test(t)) return '🎭';
@@ -588,7 +599,7 @@ document.getElementById('btn-save-event').onclick=async()=>{
     showMsg('form-msg','Subiendo imagen…');
     image_url=await uploadImageViaBot(imgFile,eventId);
   }
-  const newEv={id:eventId,title,datetime:new Date(dt).toISOString(),end_datetime:document.getElementById('f-end').value?new Date(document.getElementById('f-end').value).toISOString():null,location:document.getElementById('f-location').value.trim()||null,description:document.getElementById('f-desc').value.trim(),image_url,source_id:'manual',created_at:new Date().toISOString()};
+  const newEv={id:eventId,title,datetime:new Date(dt).toISOString(),end_datetime:document.getElementById('f-end').value?new Date(document.getElementById('f-end').value).toISOString():null,location:normalizeLocation(document.getElementById('f-location').value.trim()||null),description:document.getElementById('f-desc').value.trim(),image_url,source_id:'manual',created_at:new Date().toISOString()};
   allEvents.push(newEv);allEvents.sort((a,b)=>new Date(a.datetime)-new Date(b.datetime));
   await saveEvents();renderEvents(currentFilter);
   ['f-title','f-location','f-desc','f-datetime','f-end'].forEach(id=>document.getElementById(id).value='');
@@ -655,7 +666,7 @@ document.getElementById('btn-update-event').onclick=async()=>{
   let image_url=allEvents[idx].image_url||null;
   const imgFile=document.getElementById('e-image').files[0];
   if(imgFile){showMsg('edit-msg','Subiendo imagen…');image_url=await uploadImageViaBot(imgFile,editingId+'-edit');}
-  allEvents[idx]={...allEvents[idx],title,datetime:new Date(dt).toISOString(),end_datetime:document.getElementById('e-end').value?new Date(document.getElementById('e-end').value).toISOString():null,location:document.getElementById('e-location').value.trim()||null,description:document.getElementById('e-desc').value.trim(),image_url};
+  allEvents[idx]={...allEvents[idx],title,datetime:new Date(dt).toISOString(),end_datetime:document.getElementById('e-end').value?new Date(document.getElementById('e-end').value).toISOString():null,location:normalizeLocation(document.getElementById('e-location').value.trim()||null),description:document.getElementById('e-desc').value.trim(),image_url};
   allEvents.sort((a,b)=>new Date(a.datetime)-new Date(b.datetime));
   await saveEvents();renderEvents(currentFilter);renderAdminList();
   showMsg('edit-msg','✅ Guardado');setTimeout(()=>document.getElementById('edit-overlay').classList.remove('open'),900);
