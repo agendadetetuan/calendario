@@ -203,6 +203,18 @@
     "created_at": "2026-06-16T07:34:46.412572+00:00"
   },
   {
+    "id": "7266c4e35f",
+    "title": "Taller de arte urbano",
+    "datetime": "2026-06-20T19:00:00",
+    "end_datetime": null,
+    "location": "Casetas AA.VV. (Recinto Ferial Francos Rodríguez)",
+    "description": "Taller de arte urbano.",
+    "image_url": null,
+    "image_hash": null,
+    "source_id": "img_251_3",
+    "created_at": "2026-06-20T17:37:00.238481+00:00"
+  },
+  {
     "id": "ff3d4d8d93",
     "title": "Detectives salvajes. El secreto de las semillas",
     "datetime": "2026-06-21T10:00:00",
