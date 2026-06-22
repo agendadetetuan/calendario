@@ -155,6 +155,18 @@
     "created_at": "2026-06-17T14:53:37.969763+00:00"
   },
   {
+    "id": "949d3b07ad",
+    "title": "Hacemos nuestra propia camiseta",
+    "datetime": "2026-06-20T11:00:00",
+    "end_datetime": "2026-06-20T13:00:00",
+    "location": "Espacio Bellas Vistas. Calle Adrián Pulido 9. Tetuán. Madrid",
+    "description": "Hacemos nuestra propia camiseta\nMartes 20 de junio de 11 a 13\nEspacio Bellas Vistas. Calle Adrián Pulido 9. Tetuán. Madrid",
+    "image_url": "https://agendadetetuan.github.io/calendario/images/949d3b07ad.jpg",
+    "image_hash": "67415cc53e768bf006670a6ce6b0ff66",
+    "source_id": "img_269_0",
+    "created_at": "2026-06-22T14:22:47.289814+00:00"
+  },
+  {
     "id": "9b469eece7",
     "title": "PRESENTACIÓN HORIZONTAL",
     "datetime": "2026-06-20T12:00:00",
