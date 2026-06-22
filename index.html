@@ -36,7 +36,7 @@
     .metro-logo { flex-shrink:0; width:54px; height:54px; }
     .metro-logo svg { width:54px; height:54px; }
     .header-text { flex:1; }
-    .header-title { font-family:'Fraunces',serif; font-size:1.9rem; font-weight:700; color:var(--negro); line-height:1; letter-spacing:-0.5px; }
+    .header-title { font-family:'Fraunces',serif; font-size:2.1rem; font-weight:700; color:var(--negro); line-height:1; letter-spacing:-0.5px; }
     .header-title span { color:var(--rojo); }
     .header-sub { font-size:0.78rem; color:var(--gris-texto); margin-top:3px; }
 
@@ -46,7 +46,7 @@
     main { max-width:1100px; margin:0 auto; padding:32px 24px 64px; }
 
     .top-bar { display:flex; align-items:center; gap:8px; flex-wrap:wrap; margin-bottom:28px; }
-    .filter-btn { background:var(--blanco); border:1.5px solid var(--gris-borde); color:var(--gris-texto); padding:7px 16px; border-radius:20px; font-family:'DM Sans',sans-serif; font-size:0.8rem; font-weight:500; cursor:pointer; transition:all 0.15s; }
+    .filter-btn { background:var(--blanco); border:1.5px solid var(--gris-borde); color:var(--gris-texto); padding:7px 16px; border-radius:20px; font-family:'DM Sans',sans-serif; font-size:0.88rem; font-weight:500; cursor:pointer; transition:all 0.15s; }
     .filter-btn:hover { border-color:var(--rojo); color:var(--rojo); }
     .filter-btn.active { background:var(--rojo); border-color:var(--rojo); color:#fff; }
     .view-toggle { margin-left:auto; display:flex; gap:4px; }
@@ -54,7 +54,7 @@
     .view-btn.active { background:var(--azul); border-color:var(--azul); color:#fff; }
 
     .month-divider { grid-column:1/-1; display:flex; align-items:center; gap:12px; margin:16px 0 4px; }
-    .month-label { font-family:'Fraunces',serif; font-size:1rem; font-weight:600; color:var(--azul); white-space:nowrap; }
+    .month-label { font-family:'Fraunces',serif; font-size:1.1rem; font-weight:600; color:var(--azul); white-space:nowrap; }
     .month-line { flex:1; height:1px; background:var(--gris-borde); }
 
     .events-grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(320px,1fr)); gap:16px; }
@@ -65,15 +65,15 @@
     .card-top { display:flex; gap:14px; align-items:flex-start; }
     .date-block { background:var(--rojo-suave); border:1.5px solid var(--rojo-claro); border-radius:10px; padding:8px 10px; text-align:center; min-width:52px; flex-shrink:0; }
     .date-day { font-family:'Fraunces',serif; font-size:1.7rem; font-weight:700; color:var(--rojo); line-height:1; }
-    .date-month { font-size:0.62rem; font-weight:600; color:var(--rojo); text-transform:uppercase; letter-spacing:1px; }
-    .date-weekday { font-size:0.68rem; font-weight:700; color:var(--azul); text-transform:uppercase; letter-spacing:0.5px; margin-bottom:2px; }
+    .date-month { font-size:0.7rem; font-weight:600; color:var(--rojo); text-transform:uppercase; letter-spacing:1px; }
+    .date-weekday { font-size:0.75rem; font-weight:700; color:var(--azul); text-transform:uppercase; letter-spacing:0.5px; margin-bottom:2px; }
     .card-info { flex:1; min-width:0; }
     .badge-hoy { background:var(--rojo); color:#fff; font-size:0.58rem; font-weight:700; padding:2px 7px; border-radius:20px; text-transform:uppercase; letter-spacing:0.5px; vertical-align:middle; margin-left:6px; }
-    .event-title { font-family:'Fraunces',serif; font-size:1.05rem; font-weight:600; color:var(--negro); line-height:1.25; margin-bottom:6px; cursor:pointer; }
+    .event-title { font-family:'Fraunces',serif; font-size:1.15rem; font-weight:600; color:var(--negro); line-height:1.25; margin-bottom:6px; cursor:pointer; }
     .event-title:hover { color:var(--azul); }
-    .meta-item { display:flex; align-items:flex-start; gap:6px; font-size:0.78rem; color:var(--gris-texto); margin-bottom:3px; }
+    .meta-item { display:flex; align-items:flex-start; gap:6px; font-size:0.85rem; color:var(--gris-texto); margin-bottom:3px; }
     .meta-icon { flex-shrink:0; font-size:0.82rem; }
-    .event-desc { font-size:0.82rem; color:var(--gris-texto); line-height:1.55; display:-webkit-box; -webkit-line-clamp:3; -webkit-box-orient:vertical; overflow:hidden; }
+    .event-desc { font-size:0.9rem; color:var(--gris-texto); line-height:1.55; display:-webkit-box; -webkit-line-clamp:3; -webkit-box-orient:vertical; overflow:hidden; }
     .card-actions { display:flex; gap:8px; flex-wrap:wrap; margin-top:2px; align-items:center; }
     .btn-gcal { background:var(--azul); color:#fff; border:none; padding:7px 13px; border-radius:8px; font-family:'DM Sans',sans-serif; font-size:0.74rem; font-weight:600; cursor:pointer; text-decoration:none; display:inline-flex; align-items:center; gap:5px; transition:opacity 0.15s; }
     .btn-gcal:hover { opacity:0.88; }
@@ -101,10 +101,10 @@
     .modal-overlay.open { display:flex; }
     .modal { background:var(--blanco); border-radius:16px; max-width:560px; width:100%; max-height:85vh; overflow-y:auto; padding:28px; box-shadow:0 20px 60px rgba(0,0,0,0.2); }
     .modal-header { display:flex; justify-content:space-between; align-items:flex-start; margin-bottom:18px; }
-    .modal-title { font-family:'Fraunces',serif; font-size:1.5rem; font-weight:700; color:var(--negro); line-height:1.2; flex:1; margin-right:12px; }
+    .modal-title { font-family:'Fraunces',serif; font-size:1.65rem; font-weight:700; color:var(--negro); line-height:1.2; flex:1; margin-right:12px; }
     .modal-close { background:var(--fondo); border:none; width:32px; height:32px; border-radius:50%; cursor:pointer; font-size:1rem; display:flex; align-items:center; justify-content:center; color:var(--gris-texto); flex-shrink:0; }
     .modal-close:hover { background:var(--rojo-suave); color:var(--rojo); }
-    .modal-desc { font-size:0.88rem; line-height:1.7; color:var(--gris-texto); margin:16px 0 20px; white-space:pre-wrap; word-break:break-word; }
+    .modal-desc { font-size:0.95rem; line-height:1.7; color:var(--gris-texto); margin:16px 0 20px; white-space:pre-wrap; word-break:break-word; }
     .modal-actions { display:flex; gap:10px; flex-wrap:wrap; }
 
     .admin-fab { position:fixed; bottom:24px; right:24px; background:var(--azul); color:#fff; border:none; width:48px; height:48px; border-radius:50%; font-size:1.2rem; cursor:pointer; box-shadow:0 4px 16px rgba(0,61,165,0.3); display:flex; align-items:center; justify-content:center; transition:transform 0.15s,box-shadow 0.15s; z-index:150; }
@@ -159,7 +159,7 @@
     .notif-banner .btn-notif { background:var(--rojo); color:#fff; border:none; padding:6px 14px; border-radius:20px; font-weight:700; font-size:0.78rem; cursor:pointer; margin-left:auto; font-family:'DM Sans',sans-serif; white-space:nowrap; }
     .notif-banner .btn-dismiss { background:none; border:none; color:var(--gris-texto); font-size:1.1rem; cursor:pointer; }
 
-    footer { border-top:1.5px solid var(--gris-borde); padding:20px 24px; text-align:center; font-size:0.75rem; color:var(--gris-texto); background:var(--blanco); }
+    footer { border-top:1.5px solid var(--gris-borde); padding:20px 24px; text-align:center; font-size:0.82rem; color:var(--gris-texto); background:var(--blanco); }
     footer a { color:var(--azul); text-decoration:none; }
     footer a:hover { text-decoration:underline; }
 
@@ -367,7 +367,7 @@
   <button onclick="document.getElementById('faq-overlay').classList.add('open')" style="background:none;border:none;color:var(--azul);cursor:pointer;font-size:0.75rem;font-family:'DM Sans',sans-serif;padding:0;text-decoration:underline;">Preguntas frecuentes</button>
 </footer>
 
-<div id="stats-footer" style="background:#001E52;color:#fff;padding:14px 24px;text-align:center;font-size:0.75rem;letter-spacing:0.3px;">
+<div id="stats-footer" style="background:#001E52;color:#fff;padding:14px 24px;text-align:center;font-size:0.82rem;letter-spacing:0.3px;">
   <span id="stats-text">Cargando estadísticas…</span>
 </div>
 
@@ -642,19 +642,12 @@ function renderAdminList(){
   const c=document.getElementById('admin-event-list');
   const hoy=new Date();hoy.setHours(0,0,0,0);
   const upcoming=[...allEvents].filter(ev=>new Date(ev.datetime)>=hoy).sort((a,b)=>new Date(a.datetime)-new Date(b.datetime));
-  const past=[...allEvents].filter(ev=>new Date(ev.datetime)<hoy).sort((a,b)=>new Date(b.datetime)-new Date(a.datetime));
   if(!allEvents.length){c.innerHTML='<p style="color:var(--gris-texto);font-size:0.85rem;">No hay eventos todavía</p>';return;}
-  const makeRow=(ev,isPast)=>{
+  if(!upcoming.length){c.innerHTML='<p style="color:var(--gris-texto);font-size:0.85rem;">No hay eventos próximos</p>';return;}
+  c.innerHTML=upcoming.map(ev=>{
     const d=new Date(ev.datetime);
-    const style=isPast?'opacity:0.5;':'';
-    return`<div class="admin-event-item" style="${style}"><span class="aei-date">${d.getDate()} ${MESES[d.getMonth()]}</span><span class="aei-title">${ev.title}</span><button onclick="openEdit('${ev.id}')">Editar</button><button class="del" onclick="deleteEvent('${ev.id}')">Borrar</button></div>`;
-  };
-  let html=upcoming.map(ev=>makeRow(ev,false)).join('');
-  if(past.length){
-    html+=`<div style="margin:12px 0 6px;font-size:0.75rem;color:var(--gris-texto);border-top:1px solid var(--gris-borde);padding-top:10px;">— Eventos pasados —</div>`;
-    html+=past.map(ev=>makeRow(ev,true)).join('');
-  }
-  c.innerHTML=html;
+    return`<div class="admin-event-item"><span class="aei-date">${d.getDate()} ${MESES[d.getMonth()]}</span><span class="aei-title">${ev.title}</span><button onclick="openEdit('${ev.id}')">Editar</button><button class="del" onclick="deleteEvent('${ev.id}')">Borrar</button></div>`;
+  }).join('');
 }
 
 function openEdit(id){const ev=allEvents.find(e=>e.id===id);if(!ev)return;editingId=id;document.getElementById('e-title').value=ev.title||'';document.getElementById('e-datetime').value=toLocal(ev.datetime);document.getElementById('e-end').value=toLocal(ev.end_datetime);document.getElementById('e-location').value=ev.location||'';document.getElementById('e-desc').value=ev.description||'';document.getElementById('e-image').value='';const curImg=document.getElementById('e-current-img');curImg.innerHTML=ev.image_url?`<img src="${ev.image_url}" style="max-height:80px;border-radius:6px;margin-top:4px;" /> <small style="color:var(--gris-texto)">Imagen actual</small>`:'';document.getElementById('edit-msg').style.display='none';document.getElementById('edit-overlay').classList.add('open');}
