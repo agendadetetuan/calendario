@@ -426,5 +426,16 @@
     "image_hash": "466dc6a514d219da0ddabbb551406f17",
     "source_id": "img_4999_0",
     "created_at": "2026-06-20T17:12:31.252509+00:00"
+  },
+  {
+    "id": "manual-1782244197680",
+    "title": "Exposición de fotos Sound Track",
+    "datetime": "2026-07-18T07:30:00.000Z",
+    "end_datetime": "2026-07-18T19:30:00.000Z",
+    "location": null,
+    "description": "A cargo de Juan Pérez Fajardo. Fotografía de contexto musical, en conmemoración al 'Día\nEuropeo de la Música'. Del 18 de junio al 18 de julio",
+    "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1782244197680.jpg",
+    "source_id": "manual",
+    "created_at": "2026-06-23T19:50:02.867Z"
   }
 ]
