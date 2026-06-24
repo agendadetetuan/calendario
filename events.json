@@ -24,6 +24,18 @@
     "created_at": "2026-06-16T10:56:53.485554+00:00"
   },
   {
+    "id": "4ec37e95fa",
+    "title": "Para quién es Tetuán? Encuentro vecinal",
+    "datetime": "2026-06-25T19:00:00",
+    "end_datetime": null,
+    "location": "c/ Torrijos 15 (Metro Valdeacederas), Madrid",
+    "description": "Vivienda, equilibrio en el distrito y Urbanismo verde y social. Con la participación de: Víctor Valdés, Portavoz de Podemos en Madrid Ciudad; Teresa Ruiz, Asociación Vecinal y Huerto Urbano La Ventilla Almenara; Alberto Martín, Asociación vecinal Cuatro Caminos Tetuán; Cecilia Denis, Espacio Bellas Vistas.",
+    "image_url": "https://agendadetetuan.github.io/calendario/images/4ec37e95fa.jpg",
+    "image_hash": "5899c71f825b52855150fb0bd9663812",
+    "source_id": "img_5007_0",
+    "created_at": "2026-06-24T08:15:14.737786+00:00"
+  },
+  {
     "id": "355d58adae",
     "title": "Dando el cante",
     "datetime": "2026-06-26T16:00:00.000Z",
@@ -60,18 +72,6 @@
     "created_at": "2026-06-18T12:10:25.247002+00:00"
   },
   {
-    "id": "60e2d9a96f",
-    "title": "mundialito de fútbol sala",
-    "datetime": "2026-06-27T10:00:00",
-    "end_datetime": null,
-    "location": "Pistas del parque Rodríguez Sahagún",
-    "description": "⚽ ¡Nos vemos el 27 de junio en el parque Rodríguez Sahagún para arrancar las Fiestas Populares de Tetuán con un mundialito de fútbol sala! Para inscribir a tu equipo solo tienes que rellenar el formulario que aparece en el QR. Equipos mixtos de 6 jugadorxs 27 de junio 10:00 horas Pistas del parque Rodríguez Sahagún ¡Os esperamos!",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/60e2d9a96f.jpg",
-    "image_hash": "b22dc60fee78ea31148bf9b440e31981",
-    "source_id": "img_4982_0",
-    "created_at": "2026-06-16T13:49:58.231413+00:00"
-  },
-  {
     "id": "4f0ae5bd9d",
     "title": "Presentación de \"Hebra comunidad\"",
     "datetime": "2026-06-27T09:00:00.000Z",
@@ -82,6 +82,18 @@
     "image_hash": "91e79bd2102e9acdf0b7b38ccc82811b",
     "source_id": "img_211_0",
     "created_at": "2026-06-16T07:03:19.896825+00:00"
+  },
+  {
+    "id": "60e2d9a96f",
+    "title": "mundialito de fútbol sala",
+    "datetime": "2026-06-27T10:00:00",
+    "end_datetime": null,
+    "location": "Pistas del parque Rodríguez Sahagún",
+    "description": "⚽ ¡Nos vemos el 27 de junio en el parque Rodríguez Sahagún para arrancar las Fiestas Populares de Tetuán con un mundialito de fútbol sala! Para inscribir a tu equipo solo tienes que rellenar el formulario que aparece en el QR. Equipos mixtos de 6 jugadorxs 27 de junio 10:00 horas Pistas del parque Rodríguez Sahagún ¡Os esperamos!",
+    "image_url": "https://agendadetetuan.github.io/calendario/images/60e2d9a96f.jpg",
+    "image_hash": "b22dc60fee78ea31148bf9b440e31981",
+    "source_id": "img_4982_0",
+    "created_at": "2026-06-16T13:49:58.231413+00:00"
   },
   {
     "id": "3ae23c976b",
@@ -132,6 +144,17 @@
     "created_at": "2026-06-05T14:29:02.746791+00:00"
   },
   {
+    "id": "manual-1782138305053",
+    "title": "👕 Hacemos nuestras propias camisetas",
+    "datetime": "2026-06-30T09:00:00.000Z",
+    "end_datetime": null,
+    "location": "C/ Adrián Pulido 8, Local I, Estrecho, Madrid",
+    "description": "CUENTACUENTOS CAMISETAS PERSONALIZADAS ABIERTO A TODOS LOS PÚBLICOS TRAE MÍNIMO 1",
+    "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1782138305053.jpg",
+    "source_id": "manual",
+    "created_at": "2026-06-22T14:25:10.859Z"
+  },
+  {
     "id": "e6ddcf6f99",
     "title": "Supervivientes Patronato De La Mujer",
     "datetime": "2026-07-00T00:00:00",
@@ -142,17 +165,6 @@
     "image_hash": "5e81d1202422e7f89624c898fbfc01c7",
     "source_id": "img_4943_0",
     "created_at": "2026-06-06T18:47:39.142102+00:00"
-  },
-  {
-    "id": "manual-1782138305053",
-    "title": "👕 Hacemos nuestras propias camisetas",
-    "datetime": "2026-06-30T09:00:00.000Z",
-    "end_datetime": null,
-    "location": "C/ Adrián Pulido 8, Local I, Estrecho, Madrid",
-    "description": "CUENTACUENTOS CAMISETAS PERSONALIZADAS ABIERTO A TODOS LOS PÚBLICOS TRAE MÍNIMO 1",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1782138305053.jpg",
-    "source_id": "manual",
-    "created_at": "2026-06-22T14:25:10.859Z"
   },
   {
     "id": "72e604ad1d",
