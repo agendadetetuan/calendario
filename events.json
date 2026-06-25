@@ -370,17 +370,6 @@
     "created_at": "2026-06-25T17:35:19.438Z"
   },
   {
-    "id": "manual-1782408921718",
-    "title": "Cine de verano: Lilo & Stitch",
-    "datetime": "2026-08-15T20:00:00.000Z",
-    "end_datetime": null,
-    "location": null,
-    "description": "",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1782408921718.jpg",
-    "source_id": "manual",
-    "created_at": "2026-06-25T17:35:28.438Z"
-  },
-  {
     "id": "manual-1782409039892",
     "title": "Cine de verano: Grease",
     "datetime": "2026-08-22T20:00:00.000Z",
