@@ -200,6 +200,17 @@
     "created_at": "2026-06-20T17:12:31.252509+00:00"
   },
   {
+    "id": "manual-1782392309530",
+    "title": "Fiestas populares de Tetuán: paella, cuentacuentos y taller de serigrafía",
+    "datetime": "2026-07-06T10:00:00.000Z",
+    "end_datetime": null,
+    "location": "Huerta de Tetuán. Calle Matadero sin número, Madrid",
+    "description": "",
+    "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1782392309530.jpg",
+    "source_id": "manual",
+    "created_at": "2026-06-25T12:58:35.233Z"
+  },
+  {
     "id": "manual-1782244197680",
     "title": "Exposición de fotos Sound Track",
     "datetime": "2026-07-18T07:30:00.000Z",
