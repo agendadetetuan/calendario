@@ -293,6 +293,17 @@
     "created_at": "2026-06-25T12:58:35.233Z"
   },
   {
+    "id": "manual-1782405106911",
+    "title": "Cine de verano: ET El Extraterrestre",
+    "datetime": "2026-07-11T20:00:00.000Z",
+    "end_datetime": null,
+    "location": "Plaza de la Remonta, Madrid",
+    "description": "La plaza de la Remonta acoge los sábados de julio y agosto las sesiones gratuitas de cine al aire libre del distrito de Tetuán, hasta completar aforo. Todas a las 22:00 h.\n\nSábado 11 de julio – E.T. el extraterrestre\nSábado 18 de julio – Sonic 3\nSábado 25 de julio – Regreso al futuro\nSábado 1 de agosto – Kayara, la guerrera del Imperio Inca\nSábado 8 de agosto – Tiburón\nSábado 15 de agosto – Lilo & Stitch\nSábado 22 de agosto – Grease\nSábado 29 de agosto – Le Mans 66",
+    "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1782405106911.jpg",
+    "source_id": "manual",
+    "created_at": "2026-06-25T16:31:53.390Z"
+  },
+  {
     "id": "manual-1782244197680",
     "title": "Exposición de fotos Sound Track",
     "datetime": "2026-07-18T07:30:00.000Z",
@@ -302,16 +313,5 @@
     "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1782244197680.jpg",
     "source_id": "manual",
     "created_at": "2026-06-23T19:50:02.867Z"
-  },
-  {
-    "id": "manual-1782404922579",
-    "title": "Cine de verano: Regreso al futuro",
-    "datetime": "2026-07-25T20:00:00.000Z",
-    "end_datetime": null,
-    "location": "Plaza de la Remonta, Madrid",
-    "description": "La plaza de la Remonta acoge los sábados de julio y agosto las sesiones gratuitas de cine al aire libre del distrito de Tetuán, hasta completar aforo. Todas a las 22:00 h.\n\nSábado 11 de julio – E.T. el extraterrestre\nSábado 18 de julio – Sonic 3\nSábado 25 de julio – Regreso al futuro\nSábado 1 de agosto – Kayara, la guerrera del Imperio Inca\nSábado 8 de agosto – Tiburón\nSábado 15 de agosto – Lilo & Stitch\nSábado 22 de agosto – Grease\nSábado 29 de agosto – Le Mans 66",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1782404922579-edit.jpg",
-    "source_id": "manual",
-    "created_at": "2026-06-25T16:28:48.362Z"
   }
 ]
