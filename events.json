@@ -168,6 +168,18 @@
     "created_at": "2026-06-21T20:32:14.832987+00:00"
   },
   {
+    "id": "99604f5e24",
+    "title": "Recinto Ferial",
+    "datetime": "2026-06-28T00:00:00",
+    "end_datetime": null,
+    "location": "Huerta de Tetuán, Madrid",
+    "description": "Nombre del lugar o evento",
+    "image_url": "https://agendadetetuan.github.io/calendario/images/99604f5e24.jpg",
+    "image_hash": "027d035fcfc46168bf7492064f5f63f3",
+    "source_id": "img_5012_0",
+    "created_at": "2026-06-25T15:34:01.756770+00:00"
+  },
+  {
     "id": "94936faa0f",
     "title": "Ciclo de cine 'Directores. Richard Thorpe'",
     "datetime": "2026-06-28T19:00:00",
