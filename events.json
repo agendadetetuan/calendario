@@ -260,6 +260,17 @@
     "created_at": "2026-06-20T17:12:31.252509+00:00"
   },
   {
+    "id": "manual-1782392360449",
+    "title": "Fiestas populares de Tetuán: conciertos",
+    "datetime": "2026-07-05T16:00:00.000Z",
+    "end_datetime": null,
+    "location": "Espacio Bellas Vistas, Madrid",
+    "description": "",
+    "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1782392360449.jpg",
+    "source_id": "manual",
+    "created_at": "2026-06-25T12:59:26.438Z"
+  },
+  {
     "id": "manual-1782392493653",
     "title": "Fiestas populares de Tetuán: actividades al aire libre",
     "datetime": "2026-07-06T09:00:00.000Z",
@@ -282,17 +293,6 @@
     "created_at": "2026-06-25T12:58:35.233Z"
   },
   {
-    "id": "manual-1782392360449",
-    "title": "Fiestas populares de Tetuán: conciertos",
-    "datetime": "2026-07-06T16:00:00.000Z",
-    "end_datetime": null,
-    "location": "Espacio Bellas Vistas, Madrid",
-    "description": "",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1782392360449.jpg",
-    "source_id": "manual",
-    "created_at": "2026-06-25T12:59:26.438Z"
-  },
-  {
     "id": "manual-1782244197680",
     "title": "Exposición de fotos Sound Track",
     "datetime": "2026-07-18T07:30:00.000Z",
@@ -302,16 +302,5 @@
     "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1782244197680.jpg",
     "source_id": "manual",
     "created_at": "2026-06-23T19:50:02.867Z"
-  },
-  {
-    "id": "manual-1782403850210",
-    "title": "Cine de verano: Sonic 3",
-    "datetime": "2026-07-18T20:00:00.000Z",
-    "end_datetime": null,
-    "location": "Plaza de la Remonta, Madrid",
-    "description": "La plaza de la Remonta acoge los sábados de julio y agosto las sesiones gratuitas de cine al aire libre del distrito de Tetuán, hasta completar aforo. Todas a las 22:00 h.\n\nSábado 11 de julio – E.T. el extraterrestre\nSábado 18 de julio – Sonic 3\nSábado 25 de julio – Regreso al futuro\nSábado 1 de agosto – Kayara, la guerrera del Imperio Inca\nSábado 8 de agosto – Tiburón\nSábado 15 de agosto – Lilo & Stitch\nSábado 22 de agosto – Grease\nSábado 29 de agosto – Le Mans 66",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1782403850210.jpg",
-    "source_id": "manual",
-    "created_at": "2026-06-25T16:10:55.657Z"
   }
 ]
