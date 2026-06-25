@@ -60,18 +60,6 @@
     "created_at": "2026-06-25T09:42:09.159509+00:00"
   },
   {
-    "id": "4f0ae5bd9d",
-    "title": "Presentación de \"Hebra comunidad\"",
-    "datetime": "2026-06-27T09:00:00.000Z",
-    "end_datetime": null,
-    "location": "La Enredadera. C/ de la Coruña, 5 Tetuán, Madrid",
-    "description": "Presentamos nuestro proyecto para crear una comunidad libre con economía compartida. Bienvenid@s a la revolución integral. www.hebracomunidad.org",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/4f0ae5bd9d.jpg",
-    "image_hash": "91e79bd2102e9acdf0b7b38ccc82811b",
-    "source_id": "img_211_0",
-    "created_at": "2026-06-16T07:03:19.896825+00:00"
-  },
-  {
     "id": "60e2d9a96f",
     "title": "mundialito de fútbol sala",
     "datetime": "2026-06-27T10:00:00",
@@ -82,6 +70,18 @@
     "image_hash": "b22dc60fee78ea31148bf9b440e31981",
     "source_id": "img_4982_0",
     "created_at": "2026-06-16T13:49:58.231413+00:00"
+  },
+  {
+    "id": "4f0ae5bd9d",
+    "title": "Presentación de \"Hebra comunidad\"",
+    "datetime": "2026-06-27T09:00:00.000Z",
+    "end_datetime": null,
+    "location": "La Enredadera. C/ de la Coruña, 5 Tetuán, Madrid",
+    "description": "Presentamos nuestro proyecto para crear una comunidad libre con economía compartida. Bienvenid@s a la revolución integral. www.hebracomunidad.org",
+    "image_url": "https://agendadetetuan.github.io/calendario/images/4f0ae5bd9d.jpg",
+    "image_hash": "91e79bd2102e9acdf0b7b38ccc82811b",
+    "source_id": "img_211_0",
+    "created_at": "2026-06-16T07:03:19.896825+00:00"
   },
   {
     "id": "3ae23c976b",
@@ -130,6 +130,17 @@
     "image_hash": "ed38b3f794fb89f41e6abf5bdc19bab2",
     "source_id": "img_4939_0",
     "created_at": "2026-06-05T14:29:02.746791+00:00"
+  },
+  {
+    "id": "manual-1782391667265",
+    "title": "Fiestas populares de Tetuán: talleres de Teatro",
+    "datetime": "2026-06-30T08:00:00.000Z",
+    "end_datetime": null,
+    "location": "Espacio Bellas Vistas y Lorenzana, Madrid",
+    "description": "",
+    "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1782391667265.jpg",
+    "source_id": "manual",
+    "created_at": "2026-06-25T12:47:53.787Z"
   },
   {
     "id": "manual-1782138305053",
