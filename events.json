@@ -324,5 +324,16 @@
     "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1782405783834.jpg",
     "source_id": "manual",
     "created_at": "2026-06-25T16:43:10.580Z"
+  },
+  {
+    "id": "manual-1782405861035",
+    "title": "Cine de verano: Regreso al futuro",
+    "datetime": "2026-07-25T20:00:00.000Z",
+    "end_datetime": null,
+    "location": "Plaza de la Remonta, Madrid",
+    "description": "La plaza de la Remonta acoge los sábados de julio y agosto las sesiones gratuitas de cine al aire libre del distrito de Tetuán, hasta completar aforo. Todas a las 22:00 h.\n\nSábado 11 de julio – E.T. el extraterrestre\nSábado 18 de julio – Sonic 3\nSábado 25 de julio – Regreso al futuro\nSábado 1 de agosto – Kayara, la guerrera del Imperio Inca\nSábado 8 de agosto – Tiburón\nSábado 15 de agosto – Lilo & Stitch\nSábado 22 de agosto – Grease\nSábado 29 de agosto – Le Mans 66",
+    "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1782405861035.jpg",
+    "source_id": "manual",
+    "created_at": "2026-06-25T16:44:27.569Z"
   }
 ]
