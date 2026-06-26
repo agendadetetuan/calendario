@@ -12,18 +12,6 @@
     "created_at": "2026-06-25T15:06:15.695291+00:00"
   },
   {
-    "id": "53134ab917",
-    "title": "Teatro comunitario",
-    "datetime": "2026-06-20T20:00:00",
-    "end_datetime": "2026-06-20T22:00:00",
-    "location": "https://archive.org/details/24-jun-fincurso-ajt-t-teatrocomunitario",
-    "description": "Poner private en Archive. Portal no lucrativo Archive: https://archive.org/details/24-jun-fincurso-ajt-t-teatrocomunitario",
-    "image_url": null,
-    "image_hash": null,
-    "source_id": "5010_1",
-    "created_at": "2026-06-25T15:06:12.124543+00:00"
-  },
-  {
     "id": "748d574f8f",
     "title": "Primeras fiestas populares de Tetuan",
     "datetime": "2026-06-24T12:00:00",
@@ -34,18 +22,6 @@
     "image_hash": null,
     "source_id": "5010_0",
     "created_at": "2026-06-25T15:06:08.586938+00:00"
-  },
-  {
-    "id": "4ec37e95fa",
-    "title": "Para quién es Tetuán? Encuentro vecinal",
-    "datetime": "2026-06-25T19:00:00",
-    "end_datetime": null,
-    "location": "c/ Torrijos 15 (Metro Valdeacederas), Madrid",
-    "description": "Vivienda, equilibrio en el distrito y Urbanismo verde y social. Con la participación de: Víctor Valdés, Portavoz de Podemos en Madrid Ciudad; Teresa Ruiz, Asociación Vecinal y Huerto Urbano La Ventilla Almenara; Alberto Martín, Asociación vecinal Cuatro Caminos Tetuán; Cecilia Denis, Espacio Bellas Vistas.",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/4ec37e95fa.jpg",
-    "image_hash": "5899c71f825b52855150fb0bd9663812",
-    "source_id": "img_5007_0",
-    "created_at": "2026-06-24T08:15:14.737786+00:00"
   },
   {
     "id": "74b417180b",
