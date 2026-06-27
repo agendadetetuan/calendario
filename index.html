@@ -538,7 +538,8 @@ function dlICS(idx,e){
 }
 function buildWAShare(ev){
   const d=new Date(ev.datetime).toLocaleDateString('es-ES',{weekday:'long',day:'numeric',month:'long'});
-  return`https://wa.me/?text=${encodeURIComponent(`📅 *${ev.title}*\n🕐 ${d}\n📍 ${ev.location||'Tetuán, Madrid'}\n\n${ev.description||''}\n\n${WEB_URL}`)}`;
+  const cartel=ev.image_url?('\n\n🖼️ Ver cartel: '+ev.image_url):'';
+  return`https://wa.me/?text=${encodeURIComponent('📅 *'+ev.title+'*\n🕐 '+d+'\n📍 '+(ev.location||'Tetuán, Madrid')+'\n\n'+(ev.description||'')+'\n\n'+WEB_URL+cartel)}`;
 }
 function buildTGShare(ev){
   const d=new Date(ev.datetime).toLocaleDateString('es-ES',{day:'numeric',month:'long'});
