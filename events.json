@@ -84,6 +84,17 @@
     "created_at": "2026-06-21T20:32:14.832987+00:00"
   },
   {
+    "id": "manual-1782564692332",
+    "title": "Peli y coloquio: \"La carrera de la muerte del año 2000\"",
+    "datetime": "2026-06-27T18:00:00.000Z",
+    "end_datetime": null,
+    "location": "Asociación Fotogramas y viñetas. Calle Villaamil, 81. Madrid",
+    "description": "",
+    "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1782564692332.jpg",
+    "source_id": "manual",
+    "created_at": "2026-06-27T12:51:37.523Z"
+  },
+  {
     "id": "manual-1782564621689",
     "title": "Impro show: muetra de fin de curso del taller de teatro Asura",
     "datetime": "2026-06-27T19:00:00.000Z",
