@@ -154,10 +154,6 @@
     .install-banner.show { display:flex; }
     .install-banner .btn-install { background:#fff; color:var(--azul); border:none; padding:6px 14px; border-radius:20px; font-weight:700; font-size:0.78rem; cursor:pointer; margin-left:auto; font-family:'DM Sans',sans-serif; white-space:nowrap; }
     .install-banner .btn-dismiss { background:none; border:none; color:rgba(255,255,255,0.7); font-size:1.1rem; cursor:pointer; padding:0 4px; }
-    .notif-banner { display:none; background:var(--rojo-suave); border-bottom:2px solid var(--rojo-claro); padding:12px 24px; align-items:center; gap:12px; font-size:0.82rem; color:var(--negro); }
-    .notif-banner.show { display:flex; }
-    .notif-banner .btn-notif { background:var(--rojo); color:#fff; border:none; padding:6px 14px; border-radius:20px; font-weight:700; font-size:0.78rem; cursor:pointer; margin-left:auto; font-family:'DM Sans',sans-serif; white-space:nowrap; }
-    .notif-banner .btn-dismiss { background:none; border:none; color:var(--gris-texto); font-size:1.1rem; cursor:pointer; }
 
     footer { border-top:1.5px solid var(--gris-borde); padding:20px 24px; text-align:center; font-size:0.82rem; color:var(--gris-texto); background:var(--blanco); }
     footer a { color:var(--azul); text-decoration:none; }
@@ -209,12 +205,6 @@
   <button class="btn-dismiss" id="btn-install-dismiss">✕</button>
 </div>
 
-<div class="notif-banner" id="notif-banner">
-  <span>🔔</span>
-  <div><strong>¿Quieres recibir avisos</strong> de nuevos eventos del barrio?</div>
-  <button class="btn-notif" id="btn-notif">Activar notificaciones</button>
-  <button class="btn-dismiss" id="btn-notif-dismiss">✕</button>
-</div>
 
 <div class="tagline-bar">
   <div>actividades de ocio, cultura y reivindicativas en el distrito de Tetuán, Madrid</div>
@@ -333,7 +323,7 @@
   <div class="faq-box">
     <div class="faq-header"><h2>Preguntas frecuentes</h2><button id="faq-close">✕</button></div>
     <div class="faq-body">
-      <div class="faq-item"><div class="faq-q">¿Qué puedo hacer con la web?</div><div class="faq-a">Además de consultar las actividades del distrito, puedes:<br><br>• Ver los eventos organizados por fecha, con filtros por semana o mes.<br>• Añadir cualquier evento a tu calendario personal (Google Calendar, Outlook, Apple Calendar...).<br>• Compartir eventos con otras personas mediante enlace o redes sociales.<br>• Instalar la web como app en tu móvil para tenerla siempre a mano (sin necesidad de descargarla de ninguna tienda).<br>• Activar notificaciones para enterarte de nuevos eventos sin tener que entrar.<br>• Descubrir colectivos, espacios y proyectos que desarrollan actividades en Tetuán.<br><br>La idea es que te resulte más fácil enterarte de lo que ocurre en el barrio y participar en aquello que te interese.</div></div>
+      <div class="faq-item"><div class="faq-q">¿Qué puedo hacer con la web?</div><div class="faq-a">Además de consultar las actividades del distrito, puedes:<br><br>• Ver los eventos organizados por fecha, con filtros por semana o mes.<br>• Añadir cualquier evento a tu calendario personal (Google Calendar, Outlook, Apple Calendar...).<br>• Compartir eventos con otras personas mediante enlace o redes sociales.<br>• Instalar la web como app en tu móvil para tenerla siempre a mano (sin necesidad de descargarla de ninguna tienda).<br>• Descubrir colectivos, espacios y proyectos que desarrollan actividades en Tetuán.<br><br>La idea es que te resulte más fácil enterarte de lo que ocurre en el barrio y participar en aquello que te interese.</div></div>
       <div class="faq-item"><div class="faq-q">¿Qué es Agenda Tetuán?</div><div class="faq-a">Es una página web y unos canales de Telegram y WhatsApp donde se comparte información sobre actividades culturales, de ocio, vecinales y activistas que tienen lugar en el distrito de Tetuán, en Madrid.<br><br>Su objetivo es facilitar que la información circule entre colectivos, asociaciones y vecinas, y que más personas conozcan lo que ocurre en el barrio.</div></div>
       <div class="faq-item"><div class="faq-q">¿Quiénes somos?</div><div class="faq-a">Somos personas que participamos en diferentes colectivos de Tetuán y que creemos que una agenda común puede ayudar a fortalecer la vida comunitaria del distrito.</div></div>
       <div class="faq-item"><div class="faq-q">¿Cómo funciona esta web?</div><div class="faq-a">La web publica automáticamente las actividades que se comparten en el canal de Telegram de Agenda Tetuán.<br><br>El canal de WhatsApp también difunde las actividades, pero actualmente no está conectado con la web porque la integración técnica era bastante más compleja.</div></div>
@@ -713,23 +703,9 @@ let deferredPrompt=null;
 window.addEventListener('beforeinstallprompt',e=>{e.preventDefault();deferredPrompt=e;if(!localStorage.getItem('pwa-dismissed'))document.getElementById('install-banner').classList.add('show');});
 document.getElementById('btn-install').onclick=async()=>{if(!deferredPrompt)return;deferredPrompt.prompt();await deferredPrompt.userChoice;deferredPrompt=null;document.getElementById('install-banner').classList.remove('show');};
 document.getElementById('btn-install-dismiss').onclick=()=>{document.getElementById('install-banner').classList.remove('show');localStorage.setItem('pwa-dismissed','1');};
-window.addEventListener('appinstalled',()=>{document.getElementById('install-banner').classList.remove('show');setTimeout(()=>{if(Notification.permission==='default')document.getElementById('notif-banner').classList.add('show');},2000);});
+window.addEventListener('appinstalled',()=>{document.getElementById('install-banner').classList.remove('show');});
 
-document.getElementById('btn-notif').onclick=async()=>{
-  try{const perm=await Notification.requestPermission();document.getElementById('notif-banner').classList.remove('show');
-  if(perm==='granted'){localStorage.setItem('notif-enabled','1');localStorage.setItem('notif-last-count',allEvents.length);
-    new Notification('✅ Agenda Tetuán',{body:'Notificaciones activadas.',icon:'./icon-192.png'});startNotifPolling();}
-  else{alert('Permite las notificaciones en la configuración del navegador.');}}
-  catch(e){document.getElementById('notif-banner').classList.remove('show');}
-};
-function startNotifPolling(){
-  if(!('Notification'in window)||Notification.permission!=='granted')return;
-  setInterval(async()=>{try{const r=await fetch(EVENTS_JSON_URL+'?t='+Date.now(),{cache:'no-store'});const fresh=await r.json();const last=parseInt(localStorage.getItem('notif-last-count')||'0');if(fresh.length>last){const newest=fresh[fresh.length-1];new Notification('🗓️ Nuevo evento en Tetuán',{body:newest.title+(newest.location?' · '+newest.location:''),icon:'./icon-192.png'});localStorage.setItem('notif-last-count',fresh.length);}}catch(e){}},30*60*1000);
-}
-if(localStorage.getItem('notif-enabled')==='1'&&Notification.permission==='granted')startNotifPolling();
-document.getElementById('btn-notif-dismiss').onclick=()=>{document.getElementById('notif-banner').classList.remove('show');localStorage.setItem('notif-dismissed','1');};
-
-if('serviceWorker'in navigator){window.addEventListener('load',()=>{navigator.serviceWorker.register('./sw.js',{scope:'./'}).then(()=>{if(Notification.permission==='default'&&!localStorage.getItem('notif-dismissed'))setTimeout(()=>document.getElementById('notif-banner').classList.add('show'),5000);});});}
+if('serviceWorker'in navigator){window.addEventListener('load',()=>{navigator.serviceWorker.register('./sw.js',{scope:'./'});});}
 
 document.getElementById('faq-close').onclick=()=>document.getElementById('faq-overlay').classList.remove('open');
 document.getElementById('faq-overlay').onclick=e=>{if(e.target===document.getElementById('faq-overlay'))document.getElementById('faq-overlay').classList.remove('open');};
