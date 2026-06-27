@@ -84,6 +84,17 @@
     "created_at": "2026-06-21T20:32:14.832987+00:00"
   },
   {
+    "id": "manual-1782564621689",
+    "title": "Impro show: muetra de fin de curso del taller de teatro Asura",
+    "datetime": "2026-06-27T19:00:00.000Z",
+    "end_datetime": null,
+    "location": "Teatro Asura. Calle Abel 1, Madrid",
+    "description": "Entrada libre",
+    "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1782564621689.jpg",
+    "source_id": "manual",
+    "created_at": "2026-06-27T12:50:26.763Z"
+  },
+  {
     "id": "9e4b6da58d",
     "title": "Las 🎶 Danzas del Mundo 🎶 🌳 vuelven a llenar de música la Dehesa de la Villa, de nuevo al final de mes.",
     "datetime": "2026-06-28T12:00:00",
