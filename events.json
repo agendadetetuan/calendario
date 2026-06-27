@@ -24,66 +24,6 @@
     "created_at": "2026-06-25T15:06:08.586938+00:00"
   },
   {
-    "id": "74b417180b",
-    "title": "🎉 ¡Moviendo Ficha! 🎉",
-    "datetime": "2026-06-26T12:00:00",
-    "end_datetime": null,
-    "location": "CIEA Dehesa de la Villa, Dehesa de la Villa, Madrid",
-    "description": "Ven a despedir el curso y dar la bienvenida al verano en buena compañía. ☀ Habrá 🎵 música, 🥨 picoteo, 🎲 juegos ✨ y muchas sorpresas más. Pásate a compartir un rato, conocer gente, divertirte y celebrar el inicio del verano 🌾 💚 ¡Te esperamos!",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/74b417180b.jpg",
-    "image_hash": "a9bd92d26eb27765f10b5432b821d27f",
-    "source_id": "img_5015_0",
-    "created_at": "2026-06-25T16:03:05.311516+00:00"
-  },
-  {
-    "id": "355d58adae",
-    "title": "Dando el cante",
-    "datetime": "2026-06-26T16:00:00.000Z",
-    "end_datetime": null,
-    "location": "Centro Cultural José Espronceda. Calle Almansa 9",
-    "description": "Alumnado de teatro del Centro Cultural Eduardo Úrculo Actividad gratuita",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/355d58adae.jpg",
-    "image_hash": "fa57d8408584d824d2c523e4d525ad4c",
-    "source_id": "img_4986_0",
-    "created_at": "2026-06-17T13:20:28.549563+00:00"
-  },
-  {
-    "id": "7045b342ef",
-    "title": "Teatro infantil: \"El Gayo Cristobita\"",
-    "datetime": "2026-06-26T18:00:00",
-    "end_datetime": "2026-06-26T19:00:00",
-    "location": "Centro Sociocultural Tetuán, CALLE BRAVO MURILLO, 251 MADRID",
-    "description": "A cargo de la cía. Okarino Trapisonda. El Gayo Cristobita es un héroe, Logra salvar a todos los animales de la granja de la gran inundación. El río se ha salido y consigue salvar a todos sus amigos y ayuda a los granjeros a reconstruir lo inundado. La vaca, el perro, el asno y el niño granjero le hacen una gran fiesta en la granja. Duración: 60 minutos. Edad recomendada: todos los públicos. Gratuito. Recomendado para niñas y niños.",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/7045b342ef.jpg",
-    "image_hash": "5cbdfa3b17649df9643aa9c061836197",
-    "source_id": "img_210_0",
-    "created_at": "2026-06-16T06:57:28.453083+00:00"
-  },
-  {
-    "id": "a2fc2c6488",
-    "title": "Arte en la huerta. Música, Humor, Poesía",
-    "datetime": "2026-06-26T18:00:00.000Z",
-    "end_datetime": null,
-    "location": "Asociación y Huerta Ventilla Almenara. C/Emilia esq C/Cañaveral Metro Ventilla y Pl. Castilla",
-    "description": "Micro abierto, Bus 42 y 177",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/a2fc2c6488.jpg",
-    "image_hash": "3bc85378ff1be962f7b194c370cf62dd",
-    "source_id": "img_4995_0",
-    "created_at": "2026-06-18T12:10:25.247002+00:00"
-  },
-  {
-    "id": "72e461ed66",
-    "title": "✨ FIESTAS POPULARES TETUÁN 2026 ✨",
-    "datetime": "2026-06-27T00:00:00",
-    "end_datetime": null,
-    "location": null,
-    "description": "✨ FIESTAS POPULARES TETUÁN 2026 ✨\n\nNo nos resignamos, nos seguimos organizando. Nos vemos la semana que viene en las calles de nuestro barrio, con un programa de fiestas por y para las vecinas de Tetuán. En los próximos días daremos más detalles sobre cada actividad.\n\nGracias a Cía. La Peatonal, Aula Inferno, Jacobo Rivero, Luis de la Cruz, Burro Lector, Claratecanta, Drum & Lyre Corps Madrid, Fotogramas y Viñetas, Brócoli Verbena, Kódigo 73, ST6, ØLÏ, Monica Heels, Lamboryini Gayardo & Missdaysi y todas aquellas que habéis participado de alguna u otra forma en sacar este programa adelante.\n\nNos vemos del 27 de junio al 5 de julio en las Fiestas Populares de Tetuán. \n\n👀 ¡Inscripciones y más info escaneando el QR!\n\n🚩𝓓𝓮𝓵 𝓫𝓪𝓻𝓻𝓲𝓸 𝓹𝓪𝓻𝓪 𝓮𝓵 𝓫𝓪𝓻𝓻𝓲𝓸 🚩\n\nhttps://www.instagram.com/p/DaANHO6DLyC/?",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/72e461ed66.jpg",
-    "image_hash": "742588f96ce976cc67b78b6ec2c151c7",
-    "source_id": "img_5008_0",
-    "created_at": "2026-06-25T09:42:09.159509+00:00"
-  },
-  {
     "id": "4f0ae5bd9d",
     "title": "Presentación de \"Hebra comunidad\"",
     "datetime": "2026-06-27T09:00:00.000Z",
