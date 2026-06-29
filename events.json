@@ -103,6 +103,17 @@
     "created_at": "2026-06-27T11:28:05.442Z"
   },
   {
+    "id": "manual-1782392309530",
+    "title": "Fiestas populares de Tetuán: paella, cuentacuentos y taller de serigrafía",
+    "datetime": "2026-07-04T10:00:00.000Z",
+    "end_datetime": null,
+    "location": "Huerta de Tetuán. Calle Matadero sin número, Madrid",
+    "description": "",
+    "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1782392309530.jpg",
+    "source_id": "manual",
+    "created_at": "2026-06-25T12:58:35.233Z"
+  },
+  {
     "id": "72e604ad1d",
     "title": "RIFA - 5 DE JULIO",
     "datetime": "2026-07-04T22:00:00.000Z",
@@ -124,17 +135,6 @@
     "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1782392493653.jpg",
     "source_id": "manual",
     "created_at": "2026-06-25T13:01:39.359Z"
-  },
-  {
-    "id": "manual-1782392309530",
-    "title": "Fiestas populares de Tetuán: paella, cuentacuentos y taller de serigrafía",
-    "datetime": "2026-07-05T10:00:00.000Z",
-    "end_datetime": null,
-    "location": "Huerta de Tetuán. Calle Matadero sin número, Madrid",
-    "description": "",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1782392309530.jpg",
-    "source_id": "manual",
-    "created_at": "2026-06-25T12:58:35.233Z"
   },
   {
     "id": "manual-1782392360449",
