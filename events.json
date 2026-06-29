@@ -160,6 +160,18 @@
     "created_at": "2026-06-25T12:59:26.438Z"
   },
   {
+    "id": "325df9759c",
+    "title": "Club de Lectura de la Comunidad de Magas",
+    "datetime": "2026-07-06T19:30:00",
+    "end_datetime": "2026-07-06T21:30:00",
+    "location": "Centro Cultural Eduardo Úrculo, Donoso, Madrid",
+    "description": "Durante sus últimas 페epées, Cruz Sánchez de Lara presentará su obra ‘Las gobernadoras’. Recorre el siglo XVIII y la lucha de las mujeres por el poder en la era de la independencia.",
+    "image_url": "https://agendadetetuan.github.io/calendario/images/325df9759c.jpg",
+    "image_hash": "49d7f9b2ffd70cc38e76817e988ded03",
+    "source_id": "img_5022_0",
+    "created_at": "2026-06-29T16:32:38.343454+00:00"
+  },
+  {
     "id": "manual-1782405106911",
     "title": "Cine de verano: ET El Extraterrestre",
     "datetime": "2026-07-11T20:00:00.000Z",
