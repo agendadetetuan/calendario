@@ -1,4 +1,4 @@
-const CACHE_NAME = 'agenda-tetuan-v5';
+const CACHE_NAME = 'agenda-tetuan-v6';
 const BASE = '/calendario/';
 const STATIC = [BASE, BASE+'index.html', BASE+'manifest.json', BASE+'icon-192.png', BASE+'icon-512.png'];
 
