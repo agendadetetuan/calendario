@@ -297,6 +297,18 @@
     "created_at": "2026-06-25T16:48:27.401Z"
   },
   {
+    "id": "f8248b0e76",
+    "title": "La cara oculta de la Dehesa",
+    "datetime": "2026-08-09T10:00:00",
+    "end_datetime": null,
+    "location": null,
+    "description": "+8 años.",
+    "image_url": null,
+    "image_hash": null,
+    "source_id": "img_5025_3",
+    "created_at": "2026-06-30T09:59:53.702954+00:00"
+  },
+  {
     "id": "manual-1782408913360",
     "title": "Cine de verano: Lilo & Stitch",
     "datetime": "2026-08-15T20:00:00.000Z",
