@@ -264,11 +264,11 @@
   {
     "id": "217abfd9b8",
     "title": "Pedaleando en verde. Conoce la Dehesa en Bici",
-    "datetime": "2026-08-02T10:00:00",
+    "datetime": "2026-08-02T08:00:00.000Z",
     "end_datetime": null,
     "location": null,
     "description": "Evento gratuito para todos los públicos.",
-    "image_url": null,
+    "image_url": "https://agendadetetuan.github.io/calendario/images/217abfd9b8-edit.jpg",
     "image_hash": null,
     "source_id": "img_5025_1",
     "created_at": "2026-06-30T09:59:46.585438+00:00"
