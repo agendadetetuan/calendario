@@ -333,12 +333,12 @@
   },
   {
     "id": "08f97fff69",
-    "title": "Reutilizado materiales. Taller de capsulas de aluminio.",
-    "datetime": "2026-08-22T11:00:00",
+    "title": "Reutilizado materiales. Taller de capsulas de aluminio",
+    "datetime": "2026-08-22T09:00:00.000Z",
     "end_datetime": null,
-    "location": null,
+    "location": "CIEA Dehesa de la Villa, Madrid",
     "description": "+14 años.",
-    "image_url": null,
+    "image_url": "https://agendadetetuan.github.io/calendario/images/08f97fff69-edit.jpg",
     "image_hash": null,
     "source_id": "img_5025_5",
     "created_at": "2026-06-30T10:00:01.460108+00:00"
