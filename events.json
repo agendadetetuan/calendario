@@ -299,11 +299,11 @@
   {
     "id": "f8248b0e76",
     "title": "La cara oculta de la Dehesa",
-    "datetime": "2026-08-09T10:00:00",
+    "datetime": "2026-08-09T08:00:00.000Z",
     "end_datetime": null,
-    "location": null,
+    "location": "CIEA Dehesa de la Villa, Madrid",
     "description": "+8 años.",
-    "image_url": null,
+    "image_url": "https://agendadetetuan.github.io/calendario/images/f8248b0e76-edit.jpg",
     "image_hash": null,
     "source_id": "img_5025_3",
     "created_at": "2026-06-30T09:59:53.702954+00:00"
