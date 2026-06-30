@@ -355,6 +355,18 @@
     "created_at": "2026-06-25T17:37:26.310Z"
   },
   {
+    "id": "d6197b89d3",
+    "title": "Itinerario botánico. Las plantas más locas al sur del parque.",
+    "datetime": "2026-08-23T09:30:00",
+    "end_datetime": null,
+    "location": null,
+    "description": "+8 años.",
+    "image_url": null,
+    "image_hash": null,
+    "source_id": "img_5025_6",
+    "created_at": "2026-06-30T10:00:05.327560+00:00"
+  },
+  {
     "id": "manual-1782409139340",
     "title": "Cine de verano: Le Mans 66",
     "datetime": "2026-08-29T20:00:00.000Z",
