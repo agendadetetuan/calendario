@@ -388,5 +388,17 @@
     "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1782409139340.jpg",
     "source_id": "manual",
     "created_at": "2026-06-25T17:39:04.930Z"
+  },
+  {
+    "id": "66700aa449",
+    "title": "Conoce las aves de la Dehesa",
+    "datetime": "2026-08-30T10:00:00",
+    "end_datetime": null,
+    "location": null,
+    "description": "+8 años.",
+    "image_url": null,
+    "image_hash": null,
+    "source_id": "img_5025_8",
+    "created_at": "2026-06-30T10:00:12.923864+00:00"
   }
 ]
