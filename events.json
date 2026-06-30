@@ -274,6 +274,18 @@
     "created_at": "2026-06-30T09:59:46.585438+00:00"
   },
   {
+    "id": "5a9902737c",
+    "title": "Pon a punto tu bici. Taller de mecánica básica.",
+    "datetime": "2026-08-08T11:00:00",
+    "end_datetime": null,
+    "location": null,
+    "description": "+12 años.",
+    "image_url": null,
+    "image_hash": null,
+    "source_id": "img_5025_2",
+    "created_at": "2026-06-30T09:59:50.049570+00:00"
+  },
+  {
     "id": "manual-1782406101157",
     "title": "Cine de verano: Tiburón",
     "datetime": "2026-08-08T20:00:00.000Z",
