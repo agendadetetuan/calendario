@@ -275,12 +275,12 @@
   },
   {
     "id": "5a9902737c",
-    "title": "Pon a punto tu bici. Taller de mecánica básica.",
-    "datetime": "2026-08-08T11:00:00",
+    "title": "Pon a punto tu bici. Taller de mecánica básica",
+    "datetime": "2026-08-08T09:00:00.000Z",
     "end_datetime": null,
-    "location": null,
+    "location": "CIEA Dehesa de la Villa, Madrid",
     "description": "+12 años.",
-    "image_url": null,
+    "image_url": "https://agendadetetuan.github.io/calendario/images/5a9902737c-edit.jpg",
     "image_hash": null,
     "source_id": "img_5025_2",
     "created_at": "2026-06-30T09:59:50.049570+00:00"
