@@ -1,17 +1,5 @@
 [
   {
-    "id": "5484eb980f",
-    "title": "Emisión de radio",
-    "datetime": "2026-06-01T00:00:00",
-    "end_datetime": "2026-06-30T23:59:59",
-    "location": "Radio: https://audio.urcm.net/Se-vienen-las-primeras-fiestas-populares-de-Tetuan",
-    "description": "Poner private en Ivoox. E Ivoox: https://go.ivoox.com/rf/176276434",
-    "image_url": null,
-    "image_hash": null,
-    "source_id": "5010_2",
-    "created_at": "2026-06-25T15:06:15.695291+00:00"
-  },
-  {
     "id": "748d574f8f",
     "title": "Primeras fiestas populares de Tetuan",
     "datetime": "2026-06-24T12:00:00",
@@ -34,28 +22,6 @@
     "image_hash": "e7aae69b05d5b8a9689b9bbc50d5e552",
     "source_id": "img_5019_0",
     "created_at": "2026-06-27T11:23:37.182651+00:00"
-  },
-  {
-    "id": "manual-1782391667265",
-    "title": "Fiestas populares de Tetuán: talleres de Teatro",
-    "datetime": "2026-06-30T08:00:00.000Z",
-    "end_datetime": null,
-    "location": "Espacio Bellas Vistas y Lorenzana, Madrid",
-    "description": "",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1782391667265.jpg",
-    "source_id": "manual",
-    "created_at": "2026-06-25T12:47:53.787Z"
-  },
-  {
-    "id": "manual-1782138305053",
-    "title": "👕 Hacemos nuestras propias camisetas",
-    "datetime": "2026-06-30T09:00:00.000Z",
-    "end_datetime": null,
-    "location": "C/ Adrián Pulido 8, Local I, Estrecho, Madrid",
-    "description": "Cuentacuentos y taller de camisetas personalizadas. Abierto a todos los públicos. Trae mínimo una",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1782138305053.jpg",
-    "source_id": "manual",
-    "created_at": "2026-06-22T14:25:10.859Z"
   },
   {
     "id": "e6ddcf6f99",
