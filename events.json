@@ -83,6 +83,18 @@
     "created_at": "2026-07-03T09:46:44.566805+00:00"
   },
   {
+    "id": "1ff1a98321",
+    "title": "Proclama popular de inicio de fiestas",
+    "datetime": "2026-07-03T20:30:00",
+    "end_datetime": null,
+    "location": "Plaza de las Palomas, Madrid",
+    "description": "Proclama popular de inicio de fiestas",
+    "image_url": null,
+    "image_hash": null,
+    "source_id": "img_5040_2",
+    "created_at": "2026-07-03T09:46:47.756368+00:00"
+  },
+  {
     "id": "manual-1782392309530",
     "title": "Fiestas populares de Tetuán: paella, cuentacuentos y taller de serigrafía",
     "datetime": "2026-07-04T10:00:00.000Z",
