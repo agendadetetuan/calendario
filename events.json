@@ -95,6 +95,18 @@
     "created_at": "2026-07-03T09:46:47.756368+00:00"
   },
   {
+    "id": "f61c5fb0ac",
+    "title": "Karraoke y cafeta",
+    "datetime": "2026-07-03T21:00:00",
+    "end_datetime": null,
+    "location": "Espacio Bellas Vistas, Madrid",
+    "description": "Cafeta y Karaoke",
+    "image_url": null,
+    "image_hash": null,
+    "source_id": "img_5040_3",
+    "created_at": "2026-07-03T09:46:51.200820+00:00"
+  },
+  {
     "id": "manual-1782392309530",
     "title": "Fiestas populares de Tetuán: paella, cuentacuentos y taller de serigrafía",
     "datetime": "2026-07-04T10:00:00.000Z",
