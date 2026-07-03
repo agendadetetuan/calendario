@@ -140,6 +140,17 @@
     "created_at": "2026-06-30T05:40:02.112616+00:00"
   },
   {
+    "id": "manual-1783058035177",
+    "title": "🎺 Noches de vino y jazz",
+    "datetime": "2026-07-10T19:00:00.000Z",
+    "end_datetime": null,
+    "location": "Avenida presidente Carmona 3, Madrid",
+    "description": "",
+    "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1783058035177.jpg",
+    "source_id": "manual",
+    "created_at": "2026-07-03T05:54:02.240Z"
+  },
+  {
     "id": "manual-1782405106911",
     "title": "Cine de verano: ET El Extraterrestre",
     "datetime": "2026-07-11T20:00:00.000Z",
