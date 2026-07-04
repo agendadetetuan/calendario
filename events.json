@@ -117,6 +117,18 @@
     "created_at": "2026-07-04T17:29:39.787493+00:00"
   },
   {
+    "id": "c0b36b5613",
+    "title": "Dibuja con usadas plantas",
+    "datetime": "2026-07-09T17:00:00",
+    "end_datetime": "2026-07-09T19:00:00",
+    "location": "Tetuan, Madrid",
+    "description": "Actividad creativa para aprender etiquetar las hierbas encontradas durante la excursión.",
+    "image_url": null,
+    "image_hash": null,
+    "source_id": "img_5043_1",
+    "created_at": "2026-07-04T17:29:44.040434+00:00"
+  },
+  {
     "id": "1827ee34a0",
     "title": "Versos con Orgullo",
     "datetime": "2026-07-10T19:00:00",
