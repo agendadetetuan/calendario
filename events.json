@@ -105,6 +105,18 @@
     "created_at": "2026-06-29T16:32:38.343454+00:00"
   },
   {
+    "id": "9cd94d75d2",
+    "title": "Lorenzana tropical",
+    "datetime": "2026-07-09T16:00:00",
+    "end_datetime": "2026-07-09T20:00:00",
+    "location": "Tetuan, Madrid",
+    "description": "Primera sesión de botánica en Lorenzana tropical. Visita las hierbas espontáneas y conecta con su belleza.",
+    "image_url": "https://agendadetetuan.github.io/calendario/images/9cd94d75d2.jpg",
+    "image_hash": "568c42980683bf4807218e3bfe6fc9d0",
+    "source_id": "img_5043_0",
+    "created_at": "2026-07-04T17:29:39.787493+00:00"
+  },
+  {
     "id": "1827ee34a0",
     "title": "Versos con Orgullo",
     "datetime": "2026-07-10T19:00:00",
