@@ -70,6 +70,17 @@
     "created_at": "2026-06-29T16:32:38.343454+00:00"
   },
   {
+    "id": "manual-1783249737461",
+    "title": "Mójate en Tetuán",
+    "datetime": "2026-07-07T11:00:00.000Z",
+    "end_datetime": null,
+    "location": "Plaza de la Remonta, Madrid",
+    "description": "Juegos de agua.\nDuración: 1 hora.\n\nGratuito\n\nPLAZA DE LA REMONTA\n\nMartes 7, 14, 21 y 28 de julio, 13:00 horas",
+    "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1783249737461.jpg",
+    "source_id": "manual",
+    "created_at": "2026-07-05T11:09:02.758Z"
+  },
+  {
     "id": "9cd94d75d2",
     "title": "Lorenzana tropical",
     "datetime": "2026-07-09T16:00:00",
