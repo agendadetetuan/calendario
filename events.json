@@ -298,6 +298,17 @@
     "created_at": "2026-06-30T09:59:57.443932+00:00"
   },
   {
+    "id": "manual-1783246858611",
+    "title": "ÚLTIMO DÍA. Este verano combate el calor jugando",
+    "datetime": "2026-08-22T07:30:00.000Z",
+    "end_datetime": null,
+    "location": "Centro Cultural Eduardo Úrculo. Plaza Donoso, 5 Madrid",
+    "description": "El Centro cultural te abre sus puertas todos los días para que pases un ratito divertido y fresquito:\n- Juegos clásicos para todas las edades como el Trivial, Party, Double, Times up, Virus, Cluedo, Monopoli, Aventureros al tren, Catan, Carcassone, La polilla tramposa, Rummikub\n- Juegos infantiles como Quién es quién, Parchís, La oca, Cartas en general, Hundir la flota, Xploding kittens.\n\nEdad: de 6 a 99 años. Niñas y niños de 12 años deben ir con en compañía de una persona adulta.\n\nGratuito\n\nDel lunes 20 de julio de 2026 al sábado 22 de agosto de 2026",
+    "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1783246858611.jpg",
+    "source_id": "manual",
+    "created_at": "2026-07-05T10:21:04.344Z"
+  },
+  {
     "id": "08f97fff69",
     "title": "Reutilizado materiales. Taller de capsulas de aluminio",
     "datetime": "2026-08-22T09:00:00.000Z",
