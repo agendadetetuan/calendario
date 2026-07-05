@@ -250,17 +250,6 @@
     "created_at": "2026-07-05T11:06:08.762177+00:00"
   },
   {
-    "id": "manual-1783250057256",
-    "title": "🎨 Exposición \"Lo que ves, lo que imaginas\". ÚLTIMO DÍA",
-    "datetime": "2026-07-31T07:00:00.000Z",
-    "end_datetime": null,
-    "location": "Sala de exposiciones Pablo Serrano (c/ Bravo Murillo, 357)., Madrid",
-    "description": "Selección de obras del artista Jesús Martínez García.",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1783250057256.jpg",
-    "source_id": "manual",
-    "created_at": "2026-07-05T11:14:23.178Z"
-  },
-  {
     "id": "cb6e543a26",
     "title": "Reutilizando materiales. Elabora tu papel reciclado.",
     "datetime": "2026-08-01T09:00:00.000Z",
@@ -404,7 +393,7 @@
     "title": "La huerta veraniega en la Dehesa",
     "datetime": "2026-08-29T08:00:00.000Z",
     "end_datetime": null,
-    "location": null,
+    "location": "CIEA Dehesa de la Villa, Madrid",
     "description": "+8 años.",
     "image_url": "https://agendadetetuan.github.io/calendario/images/6b2dff891b-edit.jpg",
     "image_hash": null,
