@@ -1,17 +1,5 @@
 [
   {
-    "id": "748d574f8f",
-    "title": "Primeras fiestas populares de Tetuan",
-    "datetime": "2026-06-24T12:00:00",
-    "end_datetime": "2026-07-05T23:59:59",
-    "location": "Barrio de Tetuan, Madrid",
-    "description": "Primeras fiestas populares de Tetuan. Accesible a través de la web de las radios comunitarias de Madrid (URCM).",
-    "image_url": null,
-    "image_hash": null,
-    "source_id": "5010_0",
-    "created_at": "2026-06-25T15:06:08.586938+00:00"
-  },
-  {
     "id": "528c1fcbaa",
     "title": "Exposición para recaudar fondos para la juventud LGBTQ+ de SafespaceBTB Camboya",
     "datetime": "2026-06-29T16:00:00.000Z",
@@ -34,28 +22,6 @@
     "image_hash": "5e81d1202422e7f89624c898fbfc01c7",
     "source_id": "img_4943_0",
     "created_at": "2026-06-06T18:47:39.142102+00:00"
-  },
-  {
-    "id": "manual-1782392493653",
-    "title": "Fiestas populares de Tetuán: actividades al aire libre",
-    "datetime": "2026-07-05T09:00:00.000Z",
-    "end_datetime": null,
-    "location": "Espacio Bellas Vistas y calle Tenerife, Madrid",
-    "description": "",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1782392493653.jpg",
-    "source_id": "manual",
-    "created_at": "2026-06-25T13:01:39.359Z"
-  },
-  {
-    "id": "manual-1782392360449",
-    "title": "Fiestas populares de Tetuán: conciertos",
-    "datetime": "2026-07-05T16:00:00.000Z",
-    "end_datetime": null,
-    "location": "Espacio Bellas Vistas, Madrid",
-    "description": "",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1782392360449.jpg",
-    "source_id": "manual",
-    "created_at": "2026-06-25T12:59:26.438Z"
   },
   {
     "id": "325df9759c",
