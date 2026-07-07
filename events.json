@@ -1,17 +1,5 @@
 [
   {
-    "id": "528c1fcbaa",
-    "title": "Exposición para recaudar fondos para la juventud LGBTQ+ de SafespaceBTB Camboya",
-    "datetime": "2026-06-29T16:00:00.000Z",
-    "end_datetime": "2026-07-06T18:00:00.000Z",
-    "location": "La Enredadera de Tetuan, Calle Coruña 5, Madrid, Tetuan",
-    "description": "Una muestra para celebrar la diversidad, compartir historias y apoyar a jóvenes LGBTQ+ en Camboya. Los beneficios de esta exposición se destinarán a los programas juveniles de SafeSpaceBTB, que trabajan por espacios seguros, apoyo comunitario, salud mental y oportunidades para jóvenes queer en Battambang, Camboya, luchando por los derechos humanos con arte, educación y activismo decolonial. Entrada libre y donaciones bienvenidas.",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/528c1fcbaa.jpg",
-    "image_hash": "e7aae69b05d5b8a9689b9bbc50d5e552",
-    "source_id": "img_5019_0",
-    "created_at": "2026-06-27T11:23:37.182651+00:00"
-  },
-  {
     "id": "e6ddcf6f99",
     "title": "Supervivientes Patronato De La Mujer",
     "datetime": "2026-07-00T00:00:00",
@@ -22,18 +10,6 @@
     "image_hash": "5e81d1202422e7f89624c898fbfc01c7",
     "source_id": "img_4943_0",
     "created_at": "2026-06-06T18:47:39.142102+00:00"
-  },
-  {
-    "id": "325df9759c",
-    "title": "Club de Lectura de la Comunidad de Magas",
-    "datetime": "2026-07-06T17:30:00.000Z",
-    "end_datetime": "2026-07-06T19:30:00.000Z",
-    "location": "Centro Cultural Eduardo Úrculo, Donoso, Madrid",
-    "description": "Cruz Sánchez de Lara presentará su última obra “Las gobernadoras”. Transporta a las lectoras y lectores al ocaso del siglo XVIII, en plena búsqueda de independencia de Estados Unidos, un proceso marcado, en buena parte, por la influencia de España y por el papel silencioso pero determinante de unas jóvenes que no fueron educadas para obedecer, sino para gobernar.\n\nActividad gratuita",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/325df9759c.jpg",
-    "image_hash": "49d7f9b2ffd70cc38e76817e988ded03",
-    "source_id": "img_5022_0",
-    "created_at": "2026-06-29T16:32:38.343454+00:00"
   },
   {
     "id": "manual-1783249737461",
