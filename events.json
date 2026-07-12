@@ -1,17 +1,5 @@
 [
   {
-    "id": "da0c4c1bd6",
-    "title": "Las Regañás",
-    "datetime": "2024-10-27T21:00:00",
-    "end_datetime": null,
-    "location": "La Enredadera, Calle Goruna 5, Madrid",
-    "description": "El únltimo y nos vamos. Así es, gente. Las Regañás terminamos el año con este cenador guarro (ñam❤️♂️). El mismo plan de siempre, en el sitio más fresco de la Enre. La dj más Icónica poniendo musiquita. Y nosotras, pues llenando vuestras panzas y dando las cerves y refrescos más muertxs de todo Madrip. Os veníes, ¿o qué?",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/da0c4c1bd6.jpg",
-    "image_hash": "5cfe584d6db24323168206aee4d1c80c",
-    "source_id": "img_5048_0",
-    "created_at": "2026-07-08T08:13:47.558306+00:00"
-  },
-  {
     "id": "e6ddcf6f99",
     "title": "Supervivientes Patronato De La Mujer",
     "datetime": "2026-07-00T00:00:00",
@@ -22,75 +10,6 @@
     "image_hash": "5e81d1202422e7f89624c898fbfc01c7",
     "source_id": "img_4943_0",
     "created_at": "2026-06-06T18:47:39.142102+00:00"
-  },
-  {
-    "id": "9cd94d75d2",
-    "title": "Lorenzana tropical",
-    "datetime": "2026-07-09T16:00:00",
-    "end_datetime": "2026-07-09T20:00:00",
-    "location": "Tetuan, Madrid",
-    "description": "Primera sesión de botánica en Lorenzana tropical. Visita las hierbas espontáneas y conecta con su belleza.",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/9cd94d75d2.jpg",
-    "image_hash": "568c42980683bf4807218e3bfe6fc9d0",
-    "source_id": "img_5043_0",
-    "created_at": "2026-07-04T17:29:39.787493+00:00"
-  },
-  {
-    "id": "manual-1783514284050",
-    "title": "Las regañás",
-    "datetime": "2026-07-09T19:00:00.000Z",
-    "end_datetime": null,
-    "location": "La Enredadera. Calle Coruña 5. Tetuán, Madrid",
-    "description": "¡El último y nos vamos!\nAsí es, gente. Las Regañás terminamos el año con este cenador guarro (ñam❤️‍🔥).\nEl mismo plan de siempre, en el sitio más fresco de la Enre. \nLa dj más Icónica poniendo musiquita. Y nosotras, pues llenando vuestras panzas y dando las cerves y refrescos más muertxs de todo Madrip.\nOs venís, ¿o qué?",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1783514284050.jpg",
-    "source_id": "manual",
-    "created_at": "2026-07-08T12:38:09.769Z"
-  },
-  {
-    "id": "1827ee34a0",
-    "title": "Versos con Orgullo",
-    "datetime": "2026-07-10T19:00:00",
-    "end_datetime": null,
-    "location": "Centro Cultural Lorenzana, Madrid",
-    "description": "La Asociación Cultural ASOCUDA te invita a la tertulia \"VERSOS CON ORGULLO\". Un canto a la libertad, la diversidad y el respeto. Dentro de la celebración del Orgullo LGBTI+, compartiremos una tarde de poesía, expresión y encuentro. Moderador: Poeta Norberto Azor. Participan los poetas/escritores: Rocío Hervías, Ana María Céspedes, Antonio Ruiz, Malvin Montero, Frank Castillo, Teresa Ayllón, Enrique Mateo, Dorquisa Olivarez, Manuel Ramírez Santos. La poesía nos une, el respeto nos hace libres.",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/1827ee34a0.jpg",
-    "image_hash": "8a871e2410d6d98a4ab920b7cf31d85f",
-    "source_id": "img_5024_0",
-    "created_at": "2026-06-30T05:40:02.112616+00:00"
-  },
-  {
-    "id": "manual-1783058035177",
-    "title": "🎺 Noches de vino y jazz",
-    "datetime": "2026-07-10T19:00:00.000Z",
-    "end_datetime": null,
-    "location": "Avenida presidente Carmona 3, Madrid",
-    "description": "",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1783058035177.jpg",
-    "source_id": "manual",
-    "created_at": "2026-07-03T05:54:02.240Z"
-  },
-  {
-    "id": "f00de6f289",
-    "title": "PEDALEANDO EN VERDE: de la Dehesa a la Casa de Campo",
-    "datetime": "2026-07-11T09:30:00",
-    "end_datetime": null,
-    "location": "CIEA Dehesa de la Villa, Dehesa de la Villa, Madrid",
-    "description": "🌿 🚲 Este próximo sábado, madrugamos un poco para pedalear fresquitos hasta la Casa de Campo.🌳 Saldremos de la Dehesa por el GR-124 que nos llevará entre sombras al tramo del anillo verde que recorre por el soto del Manzanares hasta este pulmón verde de la ciudad en el que terminaremos la ruta en su Centro de Educación Ambiental a orillas del Lago 🌿 🚴‍♂️\n\nPara inscribiros a cualquiera de nuestras actividades podéis llamar al 914 80 21 41 ☎️ o escribir un correo a infodehesa@madrid.es 📩\nhttps://t.me/AgendaCIEADehesaDeLaVilla",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/f00de6f289.jpg",
-    "image_hash": "753d99375399cb46ee308394b5819a74",
-    "source_id": "img_332_0",
-    "created_at": "2026-07-10T18:48:57.731071+00:00"
-  },
-  {
-    "id": "manual-1782405106911",
-    "title": "Cine de verano: ET El Extraterrestre",
-    "datetime": "2026-07-11T20:00:00.000Z",
-    "end_datetime": null,
-    "location": "Plaza de la Remonta, Madrid",
-    "description": "La plaza de la Remonta acoge los sábados de julio y agosto las sesiones gratuitas de cine al aire libre del distrito de Tetuán, hasta completar aforo. Todas a las 22:00 h.\n\nSábado 11 de julio – E.T. el extraterrestre\nSábado 18 de julio – Sonic 3\nSábado 25 de julio – Regreso al futuro\nSábado 1 de agosto – Kayara, la guerrera del Imperio Inca\nSábado 8 de agosto – Tiburón\nSábado 15 de agosto – Lilo & Stitch\nSábado 22 de agosto – Grease\nSábado 29 de agosto – Le Mans 66",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1782405106911.jpg",
-    "source_id": "manual",
-    "created_at": "2026-06-25T16:31:53.390Z"
   },
   {
     "id": "manual-1783790669260",
