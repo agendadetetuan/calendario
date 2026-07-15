@@ -12,29 +12,6 @@
     "created_at": "2026-06-06T18:47:39.142102+00:00"
   },
   {
-    "id": "manual-1783249816327",
-    "title": "Mójate en Tetuán",
-    "datetime": "2026-07-14T11:00:00.000Z",
-    "end_datetime": null,
-    "location": "Plaza de la Remonta, Madrid",
-    "description": "Juegos de agua.\nDuración: 1 hora.\nGratuito\nMartes 7, 14, 21 y 28 de julio, 13:00 horas",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1783249816327.jpg",
-    "source_id": "manual",
-    "created_at": "2026-07-05T11:10:21.261Z"
-  },
-  {
-    "id": "a041853116",
-    "title": "Club de lectura Comerás Libros - El bigote de Emanuelle Carrere",
-    "datetime": "2026-07-14T19:00:00",
-    "end_datetime": null,
-    "location": "Ateneo de Tetuán, Calle Torrijos 15, Tetuan, Madrid",
-    "description": "Comentaremos el libro: \"El bigote\" de Emanuelle Carrere",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/a041853116.jpg",
-    "image_hash": "58f0bbfcc6477c7c5760b371c978adc5",
-    "source_id": "img_306_0",
-    "created_at": "2026-07-01T15:45:06.245848+00:00"
-  },
-  {
     "id": "manual-1783058108466",
     "title": "🎺 Noches de vino y jazz",
     "datetime": "2026-07-17T20:30:00.000Z",
