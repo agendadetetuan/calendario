@@ -34,6 +34,18 @@
     "created_at": "2026-06-23T19:50:02.867Z"
   },
   {
+    "id": "3954c408ba",
+    "title": "TALLER DE HUERTA",
+    "datetime": "2026-07-18T09:30:00",
+    "end_datetime": null,
+    "location": "CIEA Dehesa de la Villa, Madrid",
+    "description": "la huerta veraniega de la Dehesa ¿Quieres aprender las tareas de mantenimiento de nuestras huertas? ¿Quieres conocer las plantas de la temporada de verano? ¡Vente a nuestro taller de huerta veraniega y te daremos útiles consejos! todos los públicos",
+    "image_url": "https://agendadetetuan.github.io/calendario/images/3954c408ba.jpg",
+    "image_hash": "b38da152b4c78cb2633e147fc968bc23",
+    "source_id": "img_5074_0",
+    "created_at": "2026-07-16T18:19:36.239814+00:00"
+  },
+  {
     "id": "manual-1783514454073",
     "title": "Mamarrachos abismales",
     "datetime": "2026-07-18T16:00:00.000Z",
