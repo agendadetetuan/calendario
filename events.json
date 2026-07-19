@@ -12,51 +12,6 @@
     "created_at": "2026-06-06T18:47:39.142102+00:00"
   },
   {
-    "id": "manual-1782244197680",
-    "title": "ÚLTIMO DÍA. Exposición de fotos Sound Track",
-    "datetime": "2026-07-18T07:30:00.000Z",
-    "end_datetime": "2026-07-18T19:30:00.000Z",
-    "location": null,
-    "description": "A cargo de Juan Pérez Fajardo. Fotografía de contexto musical, en conmemoración al 'Día\nEuropeo de la Música'. Del 18 de junio al 18 de julio",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1782244197680.jpg",
-    "source_id": "manual",
-    "created_at": "2026-06-23T19:50:02.867Z"
-  },
-  {
-    "id": "3954c408ba",
-    "title": "TALLER DE HUERTA",
-    "datetime": "2026-07-18T09:30:00",
-    "end_datetime": null,
-    "location": "CIEA Dehesa de la Villa, Madrid",
-    "description": "la huerta veraniega de la Dehesa ¿Quieres aprender las tareas de mantenimiento de nuestras huertas? ¿Quieres conocer las plantas de la temporada de verano? ¡Vente a nuestro taller de huerta veraniega y te daremos útiles consejos! todos los públicos",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/3954c408ba.jpg",
-    "image_hash": "b38da152b4c78cb2633e147fc968bc23",
-    "source_id": "img_5074_0",
-    "created_at": "2026-07-16T18:19:36.239814+00:00"
-  },
-  {
-    "id": "manual-1783514454073",
-    "title": "Mamarrachos abismales",
-    "datetime": "2026-07-18T16:00:00.000Z",
-    "end_datetime": null,
-    "location": "La Enredadera de Tetuán. C/ Coruña 5. Metro Estrecho. Tetuán, Madrid",
-    "description": "ALT y Holográfica presentan Mamarrachos abismales\nSábado 18 de julio \nDesde las 18:00 horas a cierre\n\nPROGRAMA\n18:00. Apertura de puertas y preventa\n19:30. Presentación\n20:00. Performance \n22:00. Pinchada",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1783514454073.jpg",
-    "source_id": "manual",
-    "created_at": "2026-07-08T12:41:00.061Z"
-  },
-  {
-    "id": "manual-1782405783834",
-    "title": "Cine de verano: Sonic 3",
-    "datetime": "2026-07-18T20:00:00.000Z",
-    "end_datetime": null,
-    "location": "Plaza de la Remonta, Madrid",
-    "description": "La plaza de la Remonta acoge los sábados de julio y agosto las sesiones gratuitas de cine al aire libre del distrito de Tetuán, hasta completar aforo. Todas a las 22:00 h.\n\nSábado 11 de julio – E.T. el extraterrestre\nSábado 18 de julio – Sonic 3\nSábado 25 de julio – Regreso al futuro\nSábado 1 de agosto – Kayara, la guerrera del Imperio Inca\nSábado 8 de agosto – Tiburón\nSábado 15 de agosto – Lilo & Stitch\nSábado 22 de agosto – Grease\nSábado 29 de agosto – Le Mans 66",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1782405783834.jpg",
-    "source_id": "manual",
-    "created_at": "2026-06-25T16:43:10.580Z"
-  },
-  {
     "id": "d1155b4415",
     "title": "TRUEQUE ¡Economía Circular de Barrio!",
     "datetime": "2026-07-19T11:30:00",
