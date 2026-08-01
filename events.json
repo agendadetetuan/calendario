@@ -1,5 +1,17 @@
 [
   {
+    "id": "ea8f0aa5af",
+    "title": "Taller de tapizado de sillas",
+    "datetime": "2025-08-20T16:00:00",
+    "end_datetime": "2025-08-20T20:00:00",
+    "location": "Calle Lorenzana 2, Madrid",
+    "description": "Taller de tapizado de sillas\nJueves 20 de agosto de 2025 de 16:00 a 20 horas\nCalle Lorenzana 2",
+    "image_url": "https://agendadetetuan.github.io/calendario/images/ea8f0aa5af.jpg",
+    "image_hash": "42a690a310f898ca19bd72ab43d3ae03",
+    "source_id": "img_372_0",
+    "created_at": "2026-08-01T15:48:27.111143+00:00"
+  },
+  {
     "id": "e6ddcf6f99",
     "title": "Supervivientes Patronato De La Mujer",
     "datetime": "2026-07-00T00:00:00",
