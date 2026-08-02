@@ -1,17 +1,5 @@
 [
   {
-    "id": "ea8f0aa5af",
-    "title": "Taller de tapizado de sillas",
-    "datetime": "2025-08-20T16:00:00",
-    "end_datetime": "2025-08-20T20:00:00",
-    "location": "Calle Lorenzana 2, Madrid",
-    "description": "Taller de tapizado de sillas\nJueves 20 de agosto de 2025 de 16:00 a 20 horas\nCalle Lorenzana 2",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/ea8f0aa5af.jpg",
-    "image_hash": "42a690a310f898ca19bd72ab43d3ae03",
-    "source_id": "img_372_0",
-    "created_at": "2026-08-01T15:48:27.111143+00:00"
-  },
-  {
     "id": "e6ddcf6f99",
     "title": "Supervivientes Patronato De La Mujer",
     "datetime": "2026-07-00T00:00:00",
@@ -22,41 +10,6 @@
     "image_hash": "5e81d1202422e7f89624c898fbfc01c7",
     "source_id": "img_4943_0",
     "created_at": "2026-06-06T18:47:39.142102+00:00"
-  },
-  {
-    "id": "c0d75c7663",
-    "title": "LORENZANA TROPICAL - TALLER DE ENCURTIDO DE HORTALIZAS DEL BAH",
-    "datetime": "2026-07-29T11:00:00",
-    "end_datetime": null,
-    "location": "https://www.lorenzanaespacio.org/lorenzana-tropical-taller-de-encurtido-de-hortalizas-del-bah/",
-    "description": "LORENZANA TROPICAL - TALLER DE ENCURTIDO DE HORTALIZAS DEL BAH",
-    "image_url": null,
-    "image_hash": null,
-    "source_id": "5081_0",
-    "created_at": "2026-08-01T15:37:35.896009+00:00"
-  },
-  {
-    "id": "cb6e543a26",
-    "title": "Reutilizando materiales. Elabora tu papel reciclado.",
-    "datetime": "2026-08-01T09:00:00.000Z",
-    "end_datetime": null,
-    "location": "CIEA Dehesa de la Villa, Madrid",
-    "description": "Evento gratuito para todos los públicos.",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/cb6e543a26.jpg",
-    "image_hash": "cc5706a36cdb2d386cc5f3f3e356efa2",
-    "source_id": "img_5025_0",
-    "created_at": "2026-06-30T09:59:41.219602+00:00"
-  },
-  {
-    "id": "manual-1782406000368",
-    "title": "Cine de verano: Kayara, la guerrera del imperio inca",
-    "datetime": "2026-08-01T20:00:00.000Z",
-    "end_datetime": null,
-    "location": "Plaza de la Remonta, Madrid",
-    "description": "La plaza de la Remonta acoge los sábados de julio y agosto las sesiones gratuitas de cine al aire libre del distrito de Tetuán, hasta completar aforo. Todas a las 22:00 h.\n\nSábado 11 de julio – E.T. el extraterrestre\nSábado 18 de julio – Sonic 3\nSábado 25 de julio – Regreso al futuro\nSábado 1 de agosto – Kayara, la guerrera del Imperio Inca\nSábado 8 de agosto – Tiburón\nSábado 15 de agosto – Lilo & Stitch\nSábado 22 de agosto – Grease\nSábado 29 de agosto – Le Mans 66",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1782406000368.jpg",
-    "source_id": "manual",
-    "created_at": "2026-06-25T16:46:46.841Z"
   },
   {
     "id": "217abfd9b8",
