@@ -12,30 +12,6 @@
     "created_at": "2026-06-06T18:47:39.142102+00:00"
   },
   {
-    "id": "217abfd9b8",
-    "title": "Pedaleando en verde. Conoce la Dehesa en Bici",
-    "datetime": "2026-08-02T08:00:00.000Z",
-    "end_datetime": null,
-    "location": "CIEA Dehesa de la Villa, Madrid",
-    "description": "Evento gratuito para todos los públicos.",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/217abfd9b8-edit.jpg",
-    "image_hash": null,
-    "source_id": "img_5025_1",
-    "created_at": "2026-06-30T09:59:46.585438+00:00"
-  },
-  {
-    "id": "b0f47ff8ef",
-    "title": "PEDALEANDO EN VERDE: CONOCE LA DEHESA EN BICI",
-    "datetime": "2026-08-02T10:00:00",
-    "end_datetime": null,
-    "location": "CIEA Dehesa de la Villa, Dehesa de la Villa, Madrid",
-    "description": "Te invitamos a disfrutar de esta ruta por la Dehesa, esta vez de una forma diferente y divertida, en bicicleta. Descubriremos la fauna y flora que forma parte del parque, y recorreremos su historia y patrimonio. Si no dispones de bici propia, ponte en contacto con nosotros, tenemos bicis de préstamo.",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/b0f47ff8ef.jpg",
-    "image_hash": "43629442f78f882537e9eb1d77607029",
-    "source_id": "img_5084_0",
-    "created_at": "2026-08-01T15:40:36.143279+00:00"
-  },
-  {
     "id": "5a9902737c",
     "title": "Pon a punto tu bici. Taller de mecánica básica",
     "datetime": "2026-08-08T09:00:00.000Z",
