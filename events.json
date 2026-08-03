@@ -173,5 +173,17 @@
     "image_hash": null,
     "source_id": "img_5025_8",
     "created_at": "2026-06-30T10:00:12.923864+00:00"
+  },
+  {
+    "id": "63a2d0c3c3",
+    "title": "LA NOCHE INTERNACIONAL DE LOS MURCIÉLAGOS",
+    "datetime": "2026-08-30T19:00:00",
+    "end_datetime": "2026-08-30T22:00:00",
+    "location": "CIEA Dehesa de la Villa, Madrid",
+    "description": "La actividad comenzará con una charla divulgativa de la mano de la doctora en biología, Elena Tena, a la que le seguirá un taller infantil de disfraces. Terminaremos con un paseo guiado al atardecer con detectores de ultrasonidos para escuchar a los murciélagos en plena actividad y visitar sus cajas refugio. Una experiencia única para conocer de cerca a uno de los grupos de mamíferos más singulares de nuestra fauna y poner en valor la importancia de su conservación en el medio urbano.",
+    "image_url": "https://agendadetetuan.github.io/calendario/images/63a2d0c3c3.jpg",
+    "image_hash": "5a4710b331355d0ddafa0e7a4558bef2",
+    "source_id": "img_5085_0",
+    "created_at": "2026-08-03T09:28:57.701721+00:00"
   }
 ]
