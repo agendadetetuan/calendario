@@ -47,6 +47,18 @@
     "created_at": "2026-06-30T09:59:53.702954+00:00"
   },
   {
+    "id": "68a6ca6ba9",
+    "title": "CINE DE VERANO: La comunidad",
+    "datetime": "2026-08-09T22:00:00",
+    "end_datetime": null,
+    "location": "Espacio Bellas Vistas, C/ Adrián Pulido, 8, Madrid",
+    "description": "una película de ALEX DE LA IGLESIA. Terror, comedia negra y vecindad en estado puro con Carmen Maura. A partir de las 21:00 h nos juntaremos a tomar algo. Cada persona trae su comida; bebida hay aquí. La proyección arrancará a las 22:00 h. Actividad abierta y gratuita.",
+    "image_url": "https://agendadetetuan.github.io/calendario/images/68a6ca6ba9.jpg",
+    "image_hash": "b9d4739ffb9d9ad31c44c720a41aee87",
+    "source_id": "img_5087_0",
+    "created_at": "2026-08-03T22:48:43.887307+00:00"
+  },
+  {
     "id": "manual-1782408913360",
     "title": "Cine de verano: Lilo & Stitch",
     "datetime": "2026-08-15T20:00:00.000Z",
