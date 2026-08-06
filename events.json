@@ -12,6 +12,18 @@
     "created_at": "2026-06-06T18:47:39.142102+00:00"
   },
   {
+    "id": "27da57f7a8",
+    "title": "RECOGIDA DE MATERIAL URGENTE PARA ENVIAR A CEUTA",
+    "datetime": "2026-08-06T18:00:00",
+    "end_datetime": "2026-08-06T21:00:00",
+    "location": "CS LA BRECHA, C/ Picos de Europa 11, Vallecas, Madrid",
+    "description": "MATERIAL PRIORITARIO PARA DISTRIBUCIÓN: -Suministros médicos: desinfectante, cremas para erupciones, quemaduras, alergias y cicatrización, tiritas, gasas, etc. -Comida: Pasta, arroz, legumbres, verduras, salsa de tomate, cebollas. -Material para distribuir comida: recipientes reutilizables y cubiertos. -Baterías externas y cables. -Zapatos y ropa. -Agua. -Otro vehículo para transporte y logística.",
+    "image_url": "https://agendadetetuan.github.io/calendario/images/27da57f7a8.jpg",
+    "image_hash": "a6824840df19a844aa36703c3487a744",
+    "source_id": "img_5090_0",
+    "created_at": "2026-08-06T12:41:04.009172+00:00"
+  },
+  {
     "id": "5a9902737c",
     "title": "Pon a punto tu bici. Taller de mecánica básica",
     "datetime": "2026-08-08T09:00:00.000Z",
