@@ -36,6 +36,18 @@
     "created_at": "2026-08-12T12:06:52.443998+00:00"
   },
   {
+    "id": "1c0a87abfb",
+    "title": "Iván García Sotillo",
+    "datetime": "2026-08-17T19:00:00",
+    "end_datetime": null,
+    "location": "Tanatorio Nuestra Señora de Butarque (Leganés), Madrid",
+    "description": "Ha fallecido Iván García Sotillo activista durante el 15M y en diferentes colectivos que derivaron de aquella lucha. Una persona muy cercana a El Salto. La despedida será este domingo en el Tanatorio Nuestra Señora de Butarque (Leganés) a partir de las 19:00 horas. Que la tierra te sea leve, compañero.",
+    "image_url": "https://agendadetetuan.github.io/calendario/images/1c0a87abfb.jpg",
+    "image_hash": "a100cc9e6932335bb0c83a7a60b80a07",
+    "source_id": "img_5097_0",
+    "created_at": "2026-08-16T18:10:25.219993+00:00"
+  },
+  {
     "id": "c312d5db16",
     "title": "taller de tapizado de sillas",
     "datetime": "2026-08-20T16:00:00",
