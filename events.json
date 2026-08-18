@@ -12,42 +12,6 @@
     "created_at": "2026-06-06T18:47:39.142102+00:00"
   },
   {
-    "id": "420986c1f7",
-    "title": "La Dehesa de la Villa. Una isla de Biodiversidad",
-    "datetime": "2026-08-16T08:00:00.000Z",
-    "end_datetime": null,
-    "location": "CIEA Dehesa de la Villa, Madrid",
-    "description": "Evento gratuito para todos los públicos.",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/420986c1f7-edit.jpg",
-    "image_hash": null,
-    "source_id": "img_5025_4",
-    "created_at": "2026-06-30T09:59:57.443932+00:00"
-  },
-  {
-    "id": "a8f51225d6",
-    "title": "La Dehesa una isla de biodiversidad",
-    "datetime": "2026-08-16T10:00:00",
-    "end_datetime": null,
-    "location": "CIEA Dehesa de la Villa, Tetuan, Madrid",
-    "description": "Ruta guiada por el parque para descubrir la flora y fauna del parque en verano. Acompañen a la CIEA Dehesa de la Villa para aprender sobre la biodiversidad.",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/a8f51225d6.jpg",
-    "image_hash": "d1b192260574376652aaa91b936b2254",
-    "source_id": "img_5095_0",
-    "created_at": "2026-08-12T12:06:52.443998+00:00"
-  },
-  {
-    "id": "1c0a87abfb",
-    "title": "Iván García Sotillo",
-    "datetime": "2026-08-17T19:00:00",
-    "end_datetime": null,
-    "location": "Tanatorio Nuestra Señora de Butarque (Leganés), Madrid",
-    "description": "Ha fallecido Iván García Sotillo activista durante el 15M y en diferentes colectivos que derivaron de aquella lucha. Una persona muy cercana a El Salto. La despedida será este domingo en el Tanatorio Nuestra Señora de Butarque (Leganés) a partir de las 19:00 horas. Que la tierra te sea leve, compañero.",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/1c0a87abfb.jpg",
-    "image_hash": "a100cc9e6932335bb0c83a7a60b80a07",
-    "source_id": "img_5097_0",
-    "created_at": "2026-08-16T18:10:25.219993+00:00"
-  },
-  {
     "id": "c312d5db16",
     "title": "taller de tapizado de sillas",
     "datetime": "2026-08-20T16:00:00",
