@@ -35,6 +35,18 @@
     "created_at": "2026-08-01T15:37:53.335327+00:00"
   },
   {
+    "id": "c22baa7245",
+    "title": "PASACALLES CON HUMOR Y MATAMOSCAS ¡¡CASA ÁRABE NO se toca!!",
+    "datetime": "2026-08-20T19:30:00",
+    "end_datetime": null,
+    "location": "Casa Árabe, C/ Alcalá, 62, Madrid",
+    "description": "¡NO AL DESALOJO DE CASA ÁRABE! RUTA: DE CASA ÁRABE A LA PUERTA DEL SOL. SALIDA CASA ÁRABE C/ ALCALÁ, 62. 1ª PARADA AYUNTAMIENTO DE MADRID PLAZA DE CIBELES. 2ª PARADA PUERTA DEL SOL MADRID. Nos vemos esta tarde, a las 19:30, para defender Casa Árabe. Desde allí saldremos, con humor y matamoscas, después de leer un comunicado. Haremos una parada en la Plaza de Cibeles, junto al Ayuntamiento para leer otro comunicado y finalizaremos en la Puerta del Sol, frente al edificio de la Comunidad de Madrid.",
+    "image_url": "https://agendadetetuan.github.io/calendario/images/c22baa7245.jpg",
+    "image_hash": "c1f1c377832b41f63c24bfde07de733c",
+    "source_id": "img_5104_0",
+    "created_at": "2026-08-20T14:29:17.867917+00:00"
+  },
+  {
     "id": "manual-1783246858611",
     "title": "ÚLTIMO DÍA. Este verano combate el calor jugando",
     "datetime": "2026-08-22T07:30:00.000Z",
@@ -44,18 +56,6 @@
     "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1783246858611.jpg",
     "source_id": "manual",
     "created_at": "2026-07-05T10:21:04.344Z"
-  },
-  {
-    "id": "4a4407c5dc",
-    "title": "TALLER CON CÁPSULAS DE ALUMINIO",
-    "datetime": "2026-08-22T10:00:00",
-    "end_datetime": null,
-    "location": "CIEA Dehesa de la Villa, Plaza Donoso 5, Madrid",
-    "description": "REUTILIZANDO MATERIALES.♻ Acompáñanos la mañana del sábado 22 de agosto a darle una nueva vida a las cápsulas de café, en esta ocasión, para hacer unos portavasos exclusivos y convirtiendo los residuos en arte.♻ 😃🌿 22 de agosto 🕚 10:00 h ¡No te quedes sin plaza! Para inscribiros a cualquiera de nuestras actividades podéis llamar al 914 80 21 41 ☎️ o escribir un correo a infodehesa@madrid.es 📩 https://t.me/AgendaCIEADehesaDeLaVilla Os esperamos",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/4a4407c5dc.jpg",
-    "image_hash": "7de48aa3b624009dcec5dfbe348ace59",
-    "source_id": "img_5102_0",
-    "created_at": "2026-08-19T07:34:59.313190+00:00"
   },
   {
     "id": "08f97fff69",
@@ -68,6 +68,18 @@
     "image_hash": null,
     "source_id": "img_5025_5",
     "created_at": "2026-06-30T10:00:01.460108+00:00"
+  },
+  {
+    "id": "4a4407c5dc",
+    "title": "TALLER CON CÁPSULAS DE ALUMINIO",
+    "datetime": "2026-08-22T10:00:00",
+    "end_datetime": null,
+    "location": "CIEA Dehesa de la Villa, Plaza Donoso 5, Madrid",
+    "description": "REUTILIZANDO MATERIALES.♻ Acompáñanos la mañana del sábado 22 de agosto a darle una nueva vida a las cápsulas de café, en esta ocasión, para hacer unos portavasos exclusivos y convirtiendo los residuos en arte.♻ 😃🌿 22 de agosto 🕚 10:00 h ¡No te quedes sin plaza! Para inscribiros a cualquiera de nuestras actividades podéis llamar al 914 80 21 41 ☎️ o escribir un correo a infodehesa@madrid.es 📩 https://t.me/AgendaCIEADehesaDeLaVilla Os esperamos",
+    "image_url": "https://agendadetetuan.github.io/calendario/images/4a4407c5dc.jpg",
+    "image_hash": "7de48aa3b624009dcec5dfbe348ace59",
+    "source_id": "img_5102_0",
+    "created_at": "2026-08-19T07:34:59.313190+00:00"
   },
   {
     "id": "6d4e3fb93f",
