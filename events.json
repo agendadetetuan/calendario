@@ -12,41 +12,6 @@
     "created_at": "2026-06-06T18:47:39.142102+00:00"
   },
   {
-    "id": "manual-1787146745814",
-    "title": "Club de lectura",
-    "datetime": "2026-08-20T09:00:00.000Z",
-    "end_datetime": null,
-    "location": "Espacio Bellas Vistas. Calle Adrián Pulido 8, Madrid",
-    "description": "",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1787146745814-edit.jpg",
-    "source_id": "manual",
-    "created_at": "2026-08-19T13:39:08.517Z"
-  },
-  {
-    "id": "c312d5db16",
-    "title": "taller de tapizado de sillas",
-    "datetime": "2026-08-20T16:00:00",
-    "end_datetime": "2026-08-20T20:00:00",
-    "location": "Calle Lorenzana 2, Madrid",
-    "description": "taller de tapizado de sillas. ESPACIO PARA PEQUES. SELECTA NEVERÍA: AGUA DE MADRID",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/c312d5db16.jpg",
-    "image_hash": "0ac3459ee0172c7c813847a4a3208323",
-    "source_id": "img_5082_0",
-    "created_at": "2026-08-01T15:37:53.335327+00:00"
-  },
-  {
-    "id": "c22baa7245",
-    "title": "PASACALLES CON HUMOR Y MATAMOSCAS ¡¡CASA ÁRABE NO se toca!!",
-    "datetime": "2026-08-20T19:30:00",
-    "end_datetime": null,
-    "location": "Casa Árabe, C/ Alcalá, 62, Madrid",
-    "description": "¡NO AL DESALOJO DE CASA ÁRABE! RUTA: DE CASA ÁRABE A LA PUERTA DEL SOL. SALIDA CASA ÁRABE C/ ALCALÁ, 62. 1ª PARADA AYUNTAMIENTO DE MADRID PLAZA DE CIBELES. 2ª PARADA PUERTA DEL SOL MADRID. Nos vemos esta tarde, a las 19:30, para defender Casa Árabe. Desde allí saldremos, con humor y matamoscas, después de leer un comunicado. Haremos una parada en la Plaza de Cibeles, junto al Ayuntamiento para leer otro comunicado y finalizaremos en la Puerta del Sol, frente al edificio de la Comunidad de Madrid.",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/c22baa7245.jpg",
-    "image_hash": "c1f1c377832b41f63c24bfde07de733c",
-    "source_id": "img_5104_0",
-    "created_at": "2026-08-20T14:29:17.867917+00:00"
-  },
-  {
     "id": "manual-1783246858611",
     "title": "ÚLTIMO DÍA. Este verano combate el calor jugando",
     "datetime": "2026-08-22T07:30:00.000Z",
