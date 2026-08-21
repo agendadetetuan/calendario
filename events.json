@@ -23,18 +23,6 @@
     "created_at": "2026-07-05T10:21:04.344Z"
   },
   {
-    "id": "08f97fff69",
-    "title": "Reutilizado materiales. Taller de capsulas de aluminio",
-    "datetime": "2026-08-22T09:00:00.000Z",
-    "end_datetime": null,
-    "location": "CIEA Dehesa de la Villa, Madrid",
-    "description": "+14 años.",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/08f97fff69-edit.jpg",
-    "image_hash": null,
-    "source_id": "img_5025_5",
-    "created_at": "2026-06-30T10:00:01.460108+00:00"
-  },
-  {
     "id": "4a4407c5dc",
     "title": "TALLER CON CÁPSULAS DE ALUMINIO",
     "datetime": "2026-08-22T10:00:00",
@@ -45,6 +33,18 @@
     "image_hash": "7de48aa3b624009dcec5dfbe348ace59",
     "source_id": "img_5102_0",
     "created_at": "2026-08-19T07:34:59.313190+00:00"
+  },
+  {
+    "id": "08f97fff69",
+    "title": "Reutilizado materiales. Taller de capsulas de aluminio",
+    "datetime": "2026-08-22T09:00:00.000Z",
+    "end_datetime": null,
+    "location": "CIEA Dehesa de la Villa, Madrid",
+    "description": "+14 años.",
+    "image_url": "https://agendadetetuan.github.io/calendario/images/08f97fff69-edit.jpg",
+    "image_hash": null,
+    "source_id": "img_5025_5",
+    "created_at": "2026-06-30T10:00:01.460108+00:00"
   },
   {
     "id": "6d4e3fb93f",
@@ -178,9 +178,9 @@
   },
   {
     "id": "f8fd179b03",
-    "title": "Volvemos con ellas el jueves 3 de septiembre",
-    "datetime": "2026-09-03T00:00:00",
-    "end_datetime": null,
+    "title": "Asamblea de la Organización de Vivienda de Tetuán",
+    "datetime": "2026-09-02T22:00:00.000Z",
+    "end_datetime": "2026-08-21T17:00:00.000Z",
     "location": null,
     "description": "¡Nos tomamos un pequeño descanso! ☀️\n\nDurante el mes de agosto no habrá Asambleas Abiertas.\n\nVolvemos con ellas el jueves 3 de septiembre.\n\nMientras tanto, si necesitas cualquier cosa o te surge alguna duda, escríbenos. Aunque las asambleas estén en pausa, seguiremos por aquí y habrá personas disponibles para atenderte.\n\n¡Nos vemos a la vuelta!\n\n♐️La vivienda para quien la habita♐️\n\norganizacionviviendadetuan@gmail.com",
     "image_url": "https://agendadetetuan.github.io/calendario/images/f8fd179b03.jpg",
