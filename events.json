@@ -12,64 +12,6 @@
     "created_at": "2026-06-06T18:47:39.142102+00:00"
   },
   {
-    "id": "manual-1783246858611",
-    "title": "ÚLTIMO DÍA. Este verano combate el calor jugando",
-    "datetime": "2026-08-22T07:30:00.000Z",
-    "end_datetime": null,
-    "location": "Centro Cultural Eduardo Úrculo. Plaza Donoso, 5 Madrid",
-    "description": "El Centro cultural te abre sus puertas todos los días para que pases un ratito divertido y fresquito:\n- Juegos clásicos para todas las edades como el Trivial, Party, Double, Times up, Virus, Cluedo, Monopoli, Aventureros al tren, Catan, Carcassone, La polilla tramposa, Rummikub\n- Juegos infantiles como Quién es quién, Parchís, La oca, Cartas en general, Hundir la flota, Xploding kittens.\n\nEdad: de 6 a 99 años. Niñas y niños de 12 años deben ir con en compañía de una persona adulta.\n\nGratuito\n\nDel lunes 20 de julio de 2026 al sábado 22 de agosto de 2026",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1783246858611.jpg",
-    "source_id": "manual",
-    "created_at": "2026-07-05T10:21:04.344Z"
-  },
-  {
-    "id": "4a4407c5dc",
-    "title": "TALLER CON CÁPSULAS DE ALUMINIO",
-    "datetime": "2026-08-22T10:00:00",
-    "end_datetime": null,
-    "location": "CIEA Dehesa de la Villa, Plaza Donoso 5, Madrid",
-    "description": "REUTILIZANDO MATERIALES.♻ Acompáñanos la mañana del sábado 22 de agosto a darle una nueva vida a las cápsulas de café, en esta ocasión, para hacer unos portavasos exclusivos y convirtiendo los residuos en arte.♻ 😃🌿 22 de agosto 🕚 10:00 h ¡No te quedes sin plaza! Para inscribiros a cualquiera de nuestras actividades podéis llamar al 914 80 21 41 ☎️ o escribir un correo a infodehesa@madrid.es 📩 https://t.me/AgendaCIEADehesaDeLaVilla Os esperamos",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/4a4407c5dc.jpg",
-    "image_hash": "7de48aa3b624009dcec5dfbe348ace59",
-    "source_id": "img_5102_0",
-    "created_at": "2026-08-19T07:34:59.313190+00:00"
-  },
-  {
-    "id": "08f97fff69",
-    "title": "Reutilizado materiales. Taller de capsulas de aluminio",
-    "datetime": "2026-08-22T09:00:00.000Z",
-    "end_datetime": null,
-    "location": "CIEA Dehesa de la Villa, Madrid",
-    "description": "+14 años.",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/08f97fff69-edit.jpg",
-    "image_hash": null,
-    "source_id": "img_5025_5",
-    "created_at": "2026-06-30T10:00:01.460108+00:00"
-  },
-  {
-    "id": "6d4e3fb93f",
-    "title": "Construye tu propio instrumento musical",
-    "datetime": "2026-08-22T15:00:00.000Z",
-    "end_datetime": null,
-    "location": "Calle Ruiz Palacios, 7, Madrid",
-    "description": "Un espacio de aprendizaje colectivo donde vas construir tu propio instrumento musical. No necesitas experiencia previa, solo curiosidad y ganas de crear con las manos, pero si ya la tienes, desatarás tu potencial mucho más rápido.\n• Donde: Makespace Madrid. Calle Ruiz Palacios, 7, Tetuán, 28039 Madrid\nFecha: Sabado 22 Agosto\nHorario: De 11 a 17h\nHabrá kits y más... Plazas limitadas. Reserva tu plaza y más info de los kits disponibles escribiendo a IG @exoundsystems.\nCalle Ruiz Palacios 7 2026-08-22 11:00 - 17:00",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/6d4e3fb93f.jpg",
-    "image_hash": "b6f41ac40488130517f5d8ee57865952",
-    "source_id": "img_389_0",
-    "created_at": "2026-08-17T10:56:07.105724+00:00"
-  },
-  {
-    "id": "manual-1782409039892",
-    "title": "Cine de verano: Grease",
-    "datetime": "2026-08-22T20:00:00.000Z",
-    "end_datetime": null,
-    "location": "Plaza de la Remonta, Madrid",
-    "description": "La plaza de la Remonta acoge los sábados de julio y agosto las sesiones gratuitas de cine al aire libre del distrito de Tetuán, hasta completar aforo. Todas a las 22:00 h.\n\nSábado 11 de julio – E.T. el extraterrestre\nSábado 18 de julio – Sonic 3\nSábado 25 de julio – Regreso al futuro\nSábado 1 de agosto – Kayara, la guerrera del Imperio Inca\nSábado 8 de agosto – Tiburón\nSábado 15 de agosto – Lilo & Stitch\nSábado 22 de agosto – Grease\nSábado 29 de agosto – Le Mans 66",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1782409039892.jpg",
-    "source_id": "manual",
-    "created_at": "2026-06-25T17:37:26.310Z"
-  },
-  {
     "id": "d6197b89d3",
     "title": "Itinerario botánico. Las plantas más locas al sur del parque",
     "datetime": "2026-08-23T07:30:00.000Z",
