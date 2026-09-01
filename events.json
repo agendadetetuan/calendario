@@ -71,6 +71,17 @@
     "created_at": "2026-08-03T09:28:57.701721+00:00"
   },
   {
+    "id": "manual-1788257010135",
+    "title": "Recogida de material para enviar a Ceuta",
+    "datetime": "2026-09-01T16:00:00.000Z",
+    "end_datetime": null,
+    "location": "CSOA La Enredadera. Calle La Coruña 5, Madrid",
+    "description": "",
+    "image_url": null,
+    "source_id": "manual",
+    "created_at": "2026-09-01T10:03:30.239Z"
+  },
+  {
     "id": "1bb4484abb",
     "title": "Club de lectura Comerás Libros: \"La parábola del sembrador\" de Octavia E. Butler",
     "datetime": "2026-09-02T19:00:00",
