@@ -163,6 +163,17 @@
     "created_at": "2026-09-01T12:31:24.466Z"
   },
   {
+    "id": "manual-1788266048266",
+    "title": "Distrito Podcast - Coffee Break: “Señal y Ruido”",
+    "datetime": "2026-09-19T11:00:00.000Z",
+    "end_datetime": null,
+    "location": "Centro Cultural Eduardo Úrculo. Plaza Donoso, 5. Madrid",
+    "description": "El Centro Cultural Eduardo Úrculo inaugura DISTRITO PODCAST, el nuevo ciclo de grabaciones de pódcast en directo del Distrito de Tetuán, con uno de los programas de divulgación científica más veteranos y queridos del panorama en español: Coffee Break: Señal y Ruido.\nDurante años, Coffee Break ha convertido la actualidad científica en una tertulia entre amigos: astrofísica, biología, tecnología y las preguntas grandes de siempre, contadas sin solemnidad y sin renunciar al rigor. Ahora lo hacen delante de público, en Tetuán, y con la posibilidad de que ese público forme parte de la conversación.\nUna grabación real, no una charla: lo que ocurra en la sala será el episodio.\nEntrada libre hasta completar aforo.",
+    "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1788266048266.jpg",
+    "source_id": "manual",
+    "created_at": "2026-09-01T12:34:15.081Z"
+  },
+  {
     "id": "manual-1788265954943",
     "title": "Nat Simons",
     "datetime": "2026-09-19T18:00:00.000Z",
