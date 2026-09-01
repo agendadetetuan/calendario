@@ -196,6 +196,17 @@
     "created_at": "2026-09-01T12:36:00.772Z"
   },
   {
+    "id": "manual-1788266246252",
+    "title": "Beatriz Zaragoza, Jazz",
+    "datetime": "2026-09-25T17:37:00.000Z",
+    "end_datetime": null,
+    "location": "Centro Cultural Eduardo Úrculo. Plaza Donoso, 5. Madrid",
+    "description": "Dúo compuesto por Beatriz Zaragoza cálida voz y expresiva, acompañada por Adrián Carrio al piano. Ambos crean una elegante combinación entre el Jazz Clásico y la música contemporánea con un repertorio de Jazz (Swing, Cool, Latin).\nDuración: 60 minutos.\nEdad recomendada: todos los públicos",
+    "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1788266246252.jpg",
+    "source_id": "manual",
+    "created_at": "2026-09-01T12:37:32.253Z"
+  },
+  {
     "id": "manual-1787760515304",
     "title": "Viñetas del barrio. Último día para participar",
     "datetime": "2026-11-30T17:00:00.000Z",
