@@ -151,6 +151,17 @@
     "created_at": "2026-09-01T12:29:33.116Z"
   },
   {
+    "id": "manual-1788362100169",
+    "title": "Participa en nuestro huerto vecinal",
+    "datetime": "2026-09-12T10:00:00.000Z",
+    "end_datetime": null,
+    "location": "Huerto Urbano de La Ventilla. Calle de Emilia con calle del Cañaveral. Tetuán, Madrid",
+    "description": "",
+    "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1788362100169.jpg",
+    "source_id": "manual",
+    "created_at": "2026-09-02T15:15:06.960Z"
+  },
+  {
     "id": "eea527e273",
     "title": "FIESTA DE INICIATIVAS - ¿Qué ocurre cuando el alimento es el centro de reflexión?",
     "datetime": "2026-09-12T18:00:00",
