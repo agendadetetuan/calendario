@@ -32,6 +32,7 @@ GITHUB_TOKEN      = os.environ.get("GITHUB_TOKEN", "")
 GITHUB_REPO       = os.environ.get("GITHUB_REPO", "")
 CHANNEL_USERNAME  = os.environ.get("CHANNEL_USERNAME", "@agendatetuan")
 EVENTS_JSON_PATH  = "events.json"
+LOCATIONS_JSON_PATH = "locations.json"
 REVIEW_CHAT_ID    = os.environ.get("REVIEW_CHAT_ID")
 
 log.info(f"  TELEGRAM_TOKEN:      {'OK' if TELEGRAM_TOKEN else 'FALTA'}")
@@ -343,6 +344,25 @@ def save_stats(stats: dict, sha: str) -> bool:
         log.error(f"Error guardando stats: {e}")
         return False
 
+def load_locations() -> tuple[list, str]:
+    try:
+        f = repo.get_contents(LOCATIONS_JSON_PATH)
+        return json.loads(f.decoded_content.decode("utf-8")), f.sha
+    except GithubException:
+        return [], ""
+
+def save_locations(locations: list, sha: str) -> bool:
+    content = json.dumps(locations, ensure_ascii=False, indent=2)
+    try:
+        if sha:
+            repo.update_file(LOCATIONS_JSON_PATH, "Actualizar ubicaciones", content, sha)
+        else:
+            repo.create_file(LOCATIONS_JSON_PATH, "Crear locations.json", content)
+        return True
+    except GithubException as e:
+        log.error(f"Error guardando locations: {e}")
+        return False
+
 def increment_stats(event_datetime: str):
     """Incrementa el contador historico de eventos. Se llama SOLO al crear un evento nuevo,
     nunca al borrar, para que el total no baje con la limpieza nocturna."""
@@ -574,8 +594,16 @@ class APIHandler(BaseHTTPRequestHandler):
         self.send_response(200); self._cors(); self.end_headers()
 
     def do_GET(self):
-        self.send_response(200); self._cors(); self.end_headers()
-        self.wfile.write(b"Bot Agenda Tetuan OK")
+        path = self.path.strip("/")
+        if path == "locations":
+            locations, _ = load_locations()
+            self.send_response(200); self._cors()
+            self.send_header("Content-Type", "application/json")
+            self.end_headers()
+            self.wfile.write(json.dumps(locations, ensure_ascii=False).encode())
+        else:
+            self.send_response(200); self._cors(); self.end_headers()
+            self.wfile.write(b"Bot Agenda Tetuan OK")
 
     def do_POST(self):
         key = self.headers.get("X-Admin-Key", "")
@@ -605,6 +633,13 @@ class APIHandler(BaseHTTPRequestHandler):
                     for ne in new_ones:
                         increment_stats(ne.get("datetime", ""))
                 log.info(f"Admin guardo {len(events)} eventos ({len(new_ones)} nuevos)")
+                resp = json.dumps({"ok": ok}).encode()
+            elif action == "locations/save":
+                locations = body.get("locations", [])
+                locations = sorted(set(loc.strip() for loc in locations if loc.strip()))
+                old_locs, sha_locs = load_locations()
+                ok = save_locations(locations, sha_locs)
+                log.info(f"Admin guardo {len(locations)} ubicaciones")
                 resp = json.dumps({"ok": ok}).encode()
             elif action == "upload-image":
                 img_b64  = body.get("image_b64", "")
