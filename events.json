@@ -118,6 +118,17 @@
     "created_at": "2026-08-25T09:08:18.273929+00:00"
   },
   {
+    "id": "manual-1788345390196",
+    "title": "Limpieza colectiva y desayuno vecinal",
+    "datetime": "2026-09-05T08:00:00.000Z",
+    "end_datetime": null,
+    "location": "Pipican de calle Huesca esquina Lazaga. Parque San Germán, Madrid",
+    "description": "",
+    "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1788345390196.jpg",
+    "source_id": "manual",
+    "created_at": "2026-09-02T10:36:36.210Z"
+  },
+  {
     "id": "manual-1788256851955",
     "title": "Recogida de material para enviar a Ceuta",
     "datetime": "2026-09-06T17:00:00.000Z",
