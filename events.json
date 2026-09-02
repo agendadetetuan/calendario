@@ -275,6 +275,18 @@
     "created_at": "2026-09-02T15:20:39.864628+00:00"
   },
   {
+    "id": "11d17bfff3",
+    "title": "Taller de productos de limpieza sin tóxicos.",
+    "datetime": "2026-10-04T11:00:00",
+    "end_datetime": null,
+    "location": "CIEA Dehesa de la Villa, C/ Francos Rodriguez, prox. 81 28039 Madrid",
+    "description": "Actividad ambiental en el CIEA Dehesa de la Villa. +12 años. Inscripciones llamando al 914 80 21 41 o escribiendo a infodehesa@madrid.es.",
+    "image_url": null,
+    "image_hash": null,
+    "source_id": "img_5118_1",
+    "created_at": "2026-09-02T15:20:44.391864+00:00"
+  },
+  {
     "id": "manual-1787760515304",
     "title": "Viñetas del barrio. Último día para participar",
     "datetime": "2026-11-30T17:00:00.000Z",
