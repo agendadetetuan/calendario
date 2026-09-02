@@ -82,18 +82,6 @@
     "created_at": "2026-09-01T10:03:30.239Z"
   },
   {
-    "id": "e41e0eabd8",
-    "title": "Entre la realidad y la fantasía de un invidente",
-    "datetime": "2026-09-02T10:00:00",
-    "end_datetime": "2026-10-03T19:00:00",
-    "location": "Museo Tiflológico de la ONCE, Calle La Coruña 18, Madrid",
-    "description": "Exposición de 18 fotografías de Rafael Zapata. Mar-vie: 10:00–15:00 y 16:00–19:00 h · Sáb: 10:00–14:00 h. Domingos y festivos cerrado. Hasta el 3 de octubre de 2026.",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/e41e0eabd8.jpg",
-    "image_hash": "d41c797f694fb964c8de8df096845200",
-    "source_id": "img_5119_0",
-    "created_at": "2026-09-02T15:33:48.038066+00:00"
-  },
-  {
     "id": "1bb4484abb",
     "title": "Club de lectura Comerás Libros: \"La parábola del sembrador\" de Octavia E. Butler",
     "datetime": "2026-09-02T19:00:00",
@@ -285,6 +273,17 @@
     "image_hash": null,
     "source_id": "img_5118_9",
     "created_at": "2026-09-02T15:21:12.773108+00:00"
+  },
+  {
+    "id": "manual-1788363347237",
+    "title": "ÚLTIMO DÍA. Entre la realidad y la fantasía de un invidente",
+    "datetime": "2026-10-03T08:00:00.000Z",
+    "end_datetime": null,
+    "location": "Museo Tiflológico de la ONCE, C/ La Coruña, 18, Madrid",
+    "description": "Entre la realidad y la fantasía de un invidente — Exposición de 18 fotografías de Rafael Zapata.\n📍 Museo Tiflológico de la ONCE, C/ La Coruña, 18.\n📅 Hasta el 3 de octubre de 2026.\n🕐 Mar-vie: 10:00–15:00 y 16:00–19:00 h · Sáb: 10:00–14:00 h.\n🚫 Domingos y festivos cerrado.",
+    "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1788363347237.jpg",
+    "source_id": "manual",
+    "created_at": "2026-09-02T15:35:53.910Z"
   },
   {
     "id": "0e0c5f5de0",
