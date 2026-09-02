@@ -264,6 +264,18 @@
     "created_at": "2026-09-01T12:38:31.758Z"
   },
   {
+    "id": "c04b525d01",
+    "title": "XVIII Carrera Popular de Tetuán",
+    "datetime": "2026-09-27T00:00:00",
+    "end_datetime": null,
+    "location": "Bravo Murillo, entre la plaza de Castilla y la glorieta de Cuatro Caminos, Tetuan, Madrid",
+    "description": "Tetuán celebrará la XVIII edición el domingo 27. Con salida y meta en Bravo Murillo, entre la plaza de Castilla y la glorieta de Cuatro Caminos, con 10 K. Más información informate.madrid.es/pew5a2",
+    "image_url": "https://agendadetetuan.github.io/calendario/images/c04b525d01.jpg",
+    "image_hash": "e3627f35a014ad93c6264c727ef7c372",
+    "source_id": "img_5121_0",
+    "created_at": "2026-09-02T15:43:09.560042+00:00"
+  },
+  {
     "id": "manual-1788266378992",
     "title": "Clásicos de Espronceda – “La Calumnia” (1961. William Wyler)",
     "datetime": "2026-09-30T16:30:00.000Z",
