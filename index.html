@@ -674,11 +674,15 @@ function openAdminPanel(){
   renderAdminList();
   setupLocationAutocomplete('f-location','f-location-suggestions');
   setupLocationAutocomplete('e-location','e-location-suggestions');
-  // Carga fresca de ubicaciones al abrir el panel
+  // Bloquear botones hasta que carguen ubicaciones
+  const btnAdd=document.getElementById('btn-loc-add');
+  const btnSave=document.getElementById('btn-loc-save');
+  btnAdd.disabled=true; btnSave.disabled=true;
   fetch(BOT_API_URL+'/locations?t='+Date.now(),{cache:'no-store'})
     .then(r=>r.ok?r.json():[])
     .then(locs=>{allLocations=locs;pendingLocations=[...locs];renderLocAdmin();})
-    .catch(()=>{pendingLocations=[...allLocations];renderLocAdmin();});
+    .catch(()=>{pendingLocations=[...allLocations];renderLocAdmin();})
+    .finally(()=>{btnAdd.disabled=false;btnSave.disabled=false;});
 }
 document.getElementById('admin-panel-close').onclick=()=>document.getElementById('admin-panel-overlay').classList.remove('open');
 document.querySelectorAll('.admin-tab').forEach(tab=>tab.addEventListener('click',()=>{document.querySelectorAll('.admin-tab').forEach(t=>t.classList.remove('active'));document.querySelectorAll('.admin-tab-content').forEach(c=>c.classList.remove('active'));tab.classList.add('active');document.getElementById('tab-'+tab.dataset.tab).classList.add('active');if(tab.dataset.tab==='lista')renderAdminList();}));
