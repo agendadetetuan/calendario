@@ -1,4 +1,4 @@
-const CACHE_NAME = 'agenda-tetuan-v6';
+const CACHE_NAME = 'agenda-tetuan-v7';
 const BASE = '/calendario/';
 const STATIC = [BASE, BASE+'index.html', BASE+'manifest.json', BASE+'icon-192.png', BASE+'icon-512.png'];
 
@@ -15,16 +15,28 @@ self.addEventListener('activate', e => {
 self.addEventListener('fetch', e => {
   if(e.request.method!=='GET') return;
   const url = new URL(e.request.url);
-  if(url.pathname.endsWith('events.json')||url.pathname.includes('/images/')){
+  // No cachear: eventos, imágenes, bot de Render, ni peticiones externas
+  if(
+    url.pathname.endsWith('events.json') ||
+    url.pathname.endsWith('locations.json') ||
+    url.pathname.includes('/images/') ||
+    url.hostname.includes('onrender.com') ||
+    url.hostname.includes('openrouter.ai') ||
+    url.hostname.includes('telegram.org')
+  ){
     e.respondWith(fetch(e.request));
     return;
   }
-  e.respondWith(fetch(e.request).then(r=>{caches.open(CACHE_NAME).then(c=>c.put(e.request,r.clone()));return r;}).catch(()=>caches.match(e.request)));
-});
-
-self.addEventListener('push', e => {
-  const data = e.data ? e.data.json() : {};
-  e.waitUntil(self.registration.showNotification(data.title||'Agenda Tetuán',{body:data.body||'Nuevo evento en el barrio',icon:BASE+'icon-192.png',badge:BASE+'icon-192.png'}));
+  e.respondWith(
+    fetch(e.request)
+      .then(r => {
+        if(r && r.ok && r.type !== 'opaque') {
+          caches.open(CACHE_NAME).then(c => c.put(e.request, r.clone()));
+        }
+        return r;
+      })
+      .catch(() => caches.match(e.request))
+  );
 });
 
 self.addEventListener('notificationclick', e => {
