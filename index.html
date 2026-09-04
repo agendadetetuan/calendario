@@ -672,6 +672,7 @@ document.getElementById('admin-pwd-input').addEventListener('keydown',e=>{if(e.k
 function openAdminPanel(){
   document.getElementById('admin-panel-overlay').classList.add('open');
   renderAdminList();
+  loadLocationsTab();
   setupLocationAutocomplete('f-location','f-location-suggestions');
   setupLocationAutocomplete('e-location','e-location-suggestions');
 }
