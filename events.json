@@ -209,6 +209,18 @@
     "created_at": "2026-09-01T12:36:00.772Z"
   },
   {
+    "id": "bbd84ce312",
+    "title": "FERIA DE EMPLEO EN TETUÁN",
+    "datetime": "2026-09-24T10:00:00",
+    "end_datetime": "2026-09-24T14:00:00",
+    "location": "Centro Social Comunitario Josefa Amar, Calle Matilde Landa 30, Tetuán, Madrid",
+    "description": "Jueves 24 de septiembre de 2026\nDe 10:00 h a 14:00 h\nCENTRO SOCIAL COMUNITARIO\nJOSEFA AMAR\nC/MATILDE LANDA 30 TETUÁN\n\nMás de 50 entidades te esperan para ayudarte a buscar trabajo y desarrollar tu carrera profesional\n\nSTANDS DE EMPRESAS\nTALLERES PRÁCTICOS\nCHARLAS INFORMATIVAS\nACTIVIDADES INTERACTIVAS",
+    "image_url": "https://agendadetetuan.github.io/calendario/images/bbd84ce312.jpg",
+    "image_hash": "6923f0ec97716c1821415c0d45c5a2bd",
+    "source_id": "img_439_0",
+    "created_at": "2026-09-09T10:47:39.273458+00:00"
+  },
+  {
     "id": "manual-1788266246252",
     "title": "Beatriz Zaragoza, Jazz",
     "datetime": "2026-09-25T17:37:00.000Z",
