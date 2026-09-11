@@ -70,6 +70,18 @@
     "created_at": "2026-09-09T08:58:44.293953+00:00"
   },
   {
+    "id": "02df568ff8",
+    "title": "Cine \"Belle Epoque\"",
+    "datetime": "2026-09-13T21:00:00",
+    "end_datetime": null,
+    "location": "Espacio Bellas Vistas, Calle Adrián Pulido 8, Bellas Vistas, Madrid",
+    "description": "CINE EN EL ESPACIO\nCUATRO MUJERES, UN DESERTOR Y UNA ESPAÑA QUE SOÑABA CON SER LIBRE.\nCOMEDIA, AMOR Y MUCHA ALEGRÍA.\nSi te apetece, tráete la cena a partir de las 20h y cenamos en el Espacio\nBelle Epoque\nUna película de Fernando Trueba\nDomingo, 13 de septiembre a las 21:00h\nEspacio Bellas Vistas C/ Adrián Pulido, 8",
+    "image_url": "https://agendadetetuan.github.io/calendario/images/02df568ff8.jpg",
+    "image_hash": "c6673f80771080eacd0ff01b7f71089d",
+    "source_id": "img_445_0",
+    "created_at": "2026-09-11T16:08:37.208318+00:00"
+  },
+  {
     "id": "84cd210e95",
     "title": "Presentación \"Irás y no volverás\"",
     "datetime": "2026-09-16T19:00:00",
