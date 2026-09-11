@@ -185,6 +185,17 @@
     "created_at": "2026-09-09T10:47:39.273458+00:00"
   },
   {
+    "id": "manual-1789127981788",
+    "title": "Lecturas compasivas",
+    "datetime": "2026-09-24T15:00:00.000Z",
+    "end_datetime": null,
+    "location": "Biblioteca Manuel Vázquez Montalbán, Madrid",
+    "description": "Actividad para crear un espacio de “Lecturas Compasivas” con el fin de compartir experiencias sobre final de vida y duelo a través de historias. Leyendo los libros, se creará un espacio para hablar que nos permita reflexionar y conectar con la vida. Utilizaremos diferentes lecturas para crear un espacio de comunicación.\nInscripciones: https://forms.office.com/e/PMr38a8nfV",
+    "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1789127981788.jpg",
+    "source_id": "manual",
+    "created_at": "2026-09-11T11:59:47.526Z"
+  },
+  {
     "id": "manual-1788266246252",
     "title": "Beatriz Zaragoza, Jazz",
     "datetime": "2026-09-25T17:37:00.000Z",
