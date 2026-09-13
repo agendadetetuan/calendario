@@ -12,52 +12,6 @@
     "created_at": "2026-06-06T18:47:39.142102+00:00"
   },
   {
-    "id": "manual-1788265735451",
-    "title": "Taller Desayunos y Meriendas saludables. Cómo componer tus comidas con criterio",
-    "datetime": "2026-09-12T09:30:00.000Z",
-    "end_datetime": null,
-    "location": "Centro Cultural Eduardo Úrculo. Plaza Donoso, 5, Madrid",
-    "description": "A cargo de Amelia Sabater y Paola Sánchez, ambas farmacéuticas y nutricionistas.\nEl desayuno y la merienda son las comidas que peor hacemos: o las saltamos, o tiramos de lo primero que pillamos. En este taller aprenderás a montar desayunos y meriendas equilibrados, ricos y fáciles, con alimentos reales y sin complicarte.\nQué veremos:\n• Qué debe tener un desayuno completo: proteína, fibra, grasa saludable e hidratos de calidad. Cómo combinarlos para que te sacien de verdad y no tengas hambre a media mañana.\n• Meriendas con sentido: opciones rápidas, saciantes y nutritivas para adultos, que vayan más allá de la fruta o las galletas.\n• Cómo leer etiquetas: qué mirar cuando compras pan, cereales, yogures o bebidas vegetales para elegir bien.\n• Parte práctica: prepararemos juntos ejemplos de desayunos y meriendas para que te los lleves aprendidos y los hagas en casa desde el día siguiente.\nDirigido a cualquier persona que quiera mejorar su alimentación diaria de forma sencilla y sin dietas. No es necesario conocimiento previo. Solo ganas de aprender a comer mejor.\nDuración: 120 min.\nEdad recomendada: a partir de 16 años.\n\nSEGUNDA SESIÓN DÍA 15 A LAS 17 HORAS",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1788265735451.jpg",
-    "source_id": "manual",
-    "created_at": "2026-09-01T12:29:33.116Z"
-  },
-  {
-    "id": "manual-1788362100169",
-    "title": "Participa en nuestro huerto vecinal",
-    "datetime": "2026-09-12T10:00:00.000Z",
-    "end_datetime": null,
-    "location": "Huerto Urbano de La Ventilla. Calle de Emilia con calle del Cañaveral. Tetuán, Madrid",
-    "description": "",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1788362100169.jpg",
-    "source_id": "manual",
-    "created_at": "2026-09-02T15:15:06.960Z"
-  },
-  {
-    "id": "eea527e273",
-    "title": "FIESTA DE INICIATIVAS - ¿Qué ocurre cuando el alimento es el centro de reflexión?",
-    "datetime": "2026-09-12T18:00:00",
-    "end_datetime": "2026-09-12T21:00:00",
-    "location": "Espacios comunes LORENZANA, C. de Lorenzana, 2, Bajo, Tetuán, Madrid",
-    "description": "Ideas que alimentan el barrio. Personas que construyen comunidad. Ven a conocer: Sabor a sol, Recetario Castizo-Mestizo, Trata de una tarta, La cocina de la independencia, Expedición anticolonialista. Entrada libre.",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/eea527e273.jpg",
-    "image_hash": "8fc682cd4f1ba3e6f09bfa84648cfaf1",
-    "source_id": "img_5088_0",
-    "created_at": "2026-08-04T21:00:33.209943+00:00"
-  },
-  {
-    "id": "11e35e6ae2",
-    "title": "🍽️ Fiesta de presentación de Alimentando Vínculos Tetuán",
-    "datetime": "2026-09-12T18:00:00",
-    "end_datetime": null,
-    "location": null,
-    "description": "🍽️ Fiesta de presentación de Alimentando Vínculos Tetuán\n\nDespués de varios meses de trabajo, llega el momento de compartir lo que ha salido de Alimentando Vínculos Tetuán, el laboratorio ciudadano que arrancó el pasado mes de junio para explorar cómo la alimentación puede ayudar a crear comunidad en el barrio.\n\nEste sábado 12 de septiembre, Lorenzana acoge una fiesta para presentar las iniciativas desarrolladas durante estos meses: Sabor a sol, Trata de una tarta, Recetario Castizo-Mestizo, Expedición anticolonial y La cocina de la independencia.\n\nHabrá comida, actividades preparadas por los equipos de los proyectos y música brasileña en directo 🎶🍴\n\n📅 Sábado 12 de septiembre\n🕕 De 18:00 a 21:00 h\n📍 Lorenzana · C/ Lorenzana, 2, Tetuán\n\nUna tarde para conocer lo que se ha ido cocinando estos meses y compartirlo alrededor de una mesa. 💜",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/11e35e6ae2.jpg",
-    "image_hash": "d4bfe98576dccc620bee939651395bbc",
-    "source_id": "img_5134_0",
-    "created_at": "2026-09-09T08:58:44.293953+00:00"
-  },
-  {
     "id": "02df568ff8",
     "title": "Cine \"Belle Epoque\"",
     "datetime": "2026-09-13T21:00:00",
