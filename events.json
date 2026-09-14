@@ -337,6 +337,17 @@
     "created_at": "2026-09-02T15:21:05.664436+00:00"
   },
   {
+    "id": "manual-1789408970933",
+    "title": "Lorencine. Cinefórum en el barrio",
+    "datetime": "2026-10-30T18:30:00.000Z",
+    "end_datetime": null,
+    "location": "Lorencine. Cinefórum en el barrio, Madrid",
+    "description": "",
+    "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1789408970933.jpg",
+    "source_id": "manual",
+    "created_at": "2026-09-14T18:02:57.530Z"
+  },
+  {
     "id": "manual-1788363664976",
     "title": "Último día. 🥤 La historia de La Casera comenzó en #Tetuán",
     "datetime": "2026-10-31T09:00:00.000Z",
