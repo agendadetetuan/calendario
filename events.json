@@ -70,17 +70,6 @@
     "created_at": "2026-09-01T12:34:15.081Z"
   },
   {
-    "id": "manual-1788265954943",
-    "title": "Nat Simons",
-    "datetime": "2026-09-19T18:00:00.000Z",
-    "end_datetime": null,
-    "location": "Centro Cultural Eduardo Úrculo. Plaza Donoso, 5. Madrid",
-    "description": "Nat Simons es, una de las artistas españolas de rock con más futuro y con mayor proyección nacional e internacional del momento. Mujer versátil, camaleónica, con una gran voz y compositora de sus propios temas, Nat ha lanzado hits tanto en castellano como en inglés rodeada siempre de los mejores músicos y productores dentro y fuera de nuestras fronteras.\nDuración: 60 min.\nEdad recomendada: todos los públicos.",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1788265954943.jpg",
-    "source_id": "manual",
-    "created_at": "2026-09-01T12:32:41.383Z"
-  },
-  {
     "id": "8e75f0f2f1",
     "title": "¡Aquí se baila, aquí se lucha! 🪭",
     "datetime": "2026-09-19T19:00:00",
@@ -91,6 +80,17 @@
     "image_hash": "08cb58b79717b64599c8ae1ee93bce46",
     "source_id": "img_5145_0",
     "created_at": "2026-09-15T06:55:40.281254+00:00"
+  },
+  {
+    "id": "manual-1788265954943",
+    "title": "Nat Simons",
+    "datetime": "2026-09-19T18:00:00.000Z",
+    "end_datetime": null,
+    "location": "Centro Cultural Eduardo Úrculo. Plaza Donoso, 5. Madrid",
+    "description": "Nat Simons es, una de las artistas españolas de rock con más futuro y con mayor proyección nacional e internacional del momento. Mujer versátil, camaleónica, con una gran voz y compositora de sus propios temas, Nat ha lanzado hits tanto en castellano como en inglés rodeada siempre de los mejores músicos y productores dentro y fuera de nuestras fronteras.\nDuración: 60 min.\nEdad recomendada: todos los públicos.",
+    "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1788265954943.jpg",
+    "source_id": "manual",
+    "created_at": "2026-09-01T12:32:41.383Z"
   },
   {
     "id": "fe55570670",
@@ -233,11 +233,11 @@
   {
     "id": "9a6d80553e",
     "title": "Bebecuentos «Bebecuentos de colores»",
-    "datetime": "2026-09-29T17:30:00",
+    "datetime": "2026-09-29T15:30:00.000Z",
     "end_datetime": null,
     "location": "Biblioteca María Zambrano, Madrid",
     "description": "Bebecuentos «Bebecuentos de colores», por Andrea Ortúzar (de 0 a 24 meses). Entrada mediante inscripción previa: https://forms.office.com/e/9x6rK1nPz3",
-    "image_url": null,
+    "image_url": "https://agendadetetuan.github.io/calendario/images/9a6d80553e-edit.jpg",
     "image_hash": null,
     "source_id": "img_5146_1",
     "created_at": "2026-09-15T14:15:47.045523+00:00"
