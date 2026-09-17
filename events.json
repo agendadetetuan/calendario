@@ -24,6 +24,18 @@
     "created_at": "2026-09-08T17:20:57.811456+00:00"
   },
   {
+    "id": "d5eda55baf",
+    "title": "Proyección del documental *Bloques en Transición*",
+    "datetime": "2026-09-17T19:00:00",
+    "end_datetime": null,
+    "location": "C. Lorenzana, 2, Madrid",
+    "description": "Tras el visionado habrá un espacio de diálogo con proyectos inspiradores para descubrir buenas prácticas comunitarias para la transición ecosocial justa. Conoceremos la *Comunidad Energética Dehese de Sol*, proyecto de energía limpia y local. Participan: Bloques en Transición, Socaire y CE Dehesa de Sol.",
+    "image_url": "https://agendadetetuan.github.io/calendario/images/d5eda55baf.jpg",
+    "image_hash": "b0f74b570436b7dad7baf9abcc1baced",
+    "source_id": "img_5148_0",
+    "created_at": "2026-09-17T07:20:09.355897+00:00"
+  },
+  {
     "id": "manual-1788265877922",
     "title": "La Luna es un globo",
     "datetime": "2026-09-18T16:00:00.000Z",
@@ -58,6 +70,17 @@
     "created_at": "2026-09-01T12:34:15.081Z"
   },
   {
+    "id": "manual-1788265954943",
+    "title": "Nat Simons",
+    "datetime": "2026-09-19T18:00:00.000Z",
+    "end_datetime": null,
+    "location": "Centro Cultural Eduardo Úrculo. Plaza Donoso, 5. Madrid",
+    "description": "Nat Simons es, una de las artistas españolas de rock con más futuro y con mayor proyección nacional e internacional del momento. Mujer versátil, camaleónica, con una gran voz y compositora de sus propios temas, Nat ha lanzado hits tanto en castellano como en inglés rodeada siempre de los mejores músicos y productores dentro y fuera de nuestras fronteras.\nDuración: 60 min.\nEdad recomendada: todos los públicos.",
+    "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1788265954943.jpg",
+    "source_id": "manual",
+    "created_at": "2026-09-01T12:32:41.383Z"
+  },
+  {
     "id": "8e75f0f2f1",
     "title": "¡Aquí se baila, aquí se lucha! 🪭",
     "datetime": "2026-09-19T19:00:00",
@@ -68,17 +91,6 @@
     "image_hash": "08cb58b79717b64599c8ae1ee93bce46",
     "source_id": "img_5145_0",
     "created_at": "2026-09-15T06:55:40.281254+00:00"
-  },
-  {
-    "id": "manual-1788265954943",
-    "title": "Nat Simons",
-    "datetime": "2026-09-19T18:00:00.000Z",
-    "end_datetime": null,
-    "location": "Centro Cultural Eduardo Úrculo. Plaza Donoso, 5. Madrid",
-    "description": "Nat Simons es, una de las artistas españolas de rock con más futuro y con mayor proyección nacional e internacional del momento. Mujer versátil, camaleónica, con una gran voz y compositora de sus propios temas, Nat ha lanzado hits tanto en castellano como en inglés rodeada siempre de los mejores músicos y productores dentro y fuera de nuestras fronteras.\nDuración: 60 min.\nEdad recomendada: todos los públicos.",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1788265954943.jpg",
-    "source_id": "manual",
-    "created_at": "2026-09-01T12:32:41.383Z"
   },
   {
     "id": "fe55570670",
