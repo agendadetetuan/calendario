@@ -47,17 +47,6 @@
     "created_at": "2026-09-13T10:09:49.996473+00:00"
   },
   {
-    "id": "manual-1788266048266",
-    "title": "Distrito Podcast - Coffee Break: “Señal y Ruido”",
-    "datetime": "2026-09-19T11:00:00.000Z",
-    "end_datetime": null,
-    "location": "Centro Cultural Eduardo Úrculo. Plaza Donoso, 5. Madrid",
-    "description": "El Centro Cultural Eduardo Úrculo inaugura DISTRITO PODCAST, el nuevo ciclo de grabaciones de pódcast en directo del Distrito de Tetuán, con uno de los programas de divulgación científica más veteranos y queridos del panorama en español: Coffee Break: Señal y Ruido.\nDurante años, Coffee Break ha convertido la actualidad científica en una tertulia entre amigos: astrofísica, biología, tecnología y las preguntas grandes de siempre, contadas sin solemnidad y sin renunciar al rigor. Ahora lo hacen delante de público, en Tetuán, y con la posibilidad de que ese público forme parte de la conversación.\nUna grabación real, no una charla: lo que ocurra en la sala será el episodio.\nEntrada libre hasta completar aforo.",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1788266048266.jpg",
-    "source_id": "manual",
-    "created_at": "2026-09-01T12:34:15.081Z"
-  },
-  {
     "id": "a0149d47eb",
     "title": "Horizontes 2027-2031 - Vermú y Diagnosis",
     "datetime": "2026-09-19T11:30:00",
@@ -70,15 +59,15 @@
     "created_at": "2026-09-18T09:22:39.546949+00:00"
   },
   {
-    "id": "manual-1788265954943",
-    "title": "Nat Simons",
-    "datetime": "2026-09-19T18:00:00.000Z",
+    "id": "manual-1788266048266",
+    "title": "Distrito Podcast - Coffee Break: “Señal y Ruido”",
+    "datetime": "2026-09-19T11:00:00.000Z",
     "end_datetime": null,
     "location": "Centro Cultural Eduardo Úrculo. Plaza Donoso, 5. Madrid",
-    "description": "Nat Simons es, una de las artistas españolas de rock con más futuro y con mayor proyección nacional e internacional del momento. Mujer versátil, camaleónica, con una gran voz y compositora de sus propios temas, Nat ha lanzado hits tanto en castellano como en inglés rodeada siempre de los mejores músicos y productores dentro y fuera de nuestras fronteras.\nDuración: 60 min.\nEdad recomendada: todos los públicos.",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1788265954943.jpg",
+    "description": "El Centro Cultural Eduardo Úrculo inaugura DISTRITO PODCAST, el nuevo ciclo de grabaciones de pódcast en directo del Distrito de Tetuán, con uno de los programas de divulgación científica más veteranos y queridos del panorama en español: Coffee Break: Señal y Ruido.\nDurante años, Coffee Break ha convertido la actualidad científica en una tertulia entre amigos: astrofísica, biología, tecnología y las preguntas grandes de siempre, contadas sin solemnidad y sin renunciar al rigor. Ahora lo hacen delante de público, en Tetuán, y con la posibilidad de que ese público forme parte de la conversación.\nUna grabación real, no una charla: lo que ocurra en la sala será el episodio.\nEntrada libre hasta completar aforo.",
+    "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1788266048266.jpg",
     "source_id": "manual",
-    "created_at": "2026-09-01T12:32:41.383Z"
+    "created_at": "2026-09-01T12:34:15.081Z"
   },
   {
     "id": "8e75f0f2f1",
@@ -91,6 +80,17 @@
     "image_hash": "08cb58b79717b64599c8ae1ee93bce46",
     "source_id": "img_5145_0",
     "created_at": "2026-09-15T06:55:40.281254+00:00"
+  },
+  {
+    "id": "manual-1788265954943",
+    "title": "Nat Simons",
+    "datetime": "2026-09-19T18:00:00.000Z",
+    "end_datetime": null,
+    "location": "Centro Cultural Eduardo Úrculo. Plaza Donoso, 5. Madrid",
+    "description": "Nat Simons es, una de las artistas españolas de rock con más futuro y con mayor proyección nacional e internacional del momento. Mujer versátil, camaleónica, con una gran voz y compositora de sus propios temas, Nat ha lanzado hits tanto en castellano como en inglés rodeada siempre de los mejores músicos y productores dentro y fuera de nuestras fronteras.\nDuración: 60 min.\nEdad recomendada: todos los públicos.",
+    "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1788265954943.jpg",
+    "source_id": "manual",
+    "created_at": "2026-09-01T12:32:41.383Z"
   },
   {
     "id": "fe55570670",
@@ -335,6 +335,17 @@
     "image_hash": null,
     "source_id": "img_5118_1",
     "created_at": "2026-09-02T15:20:44.391864+00:00"
+  },
+  {
+    "id": "manual-1789736900607",
+    "title": "Club de lectura",
+    "datetime": "2026-10-07T17:00:00.000Z",
+    "end_datetime": null,
+    "location": "Ateneo de Tetuán. Calle Torrijos 15, Madrid",
+    "description": "",
+    "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1789736900607.jpg",
+    "source_id": "manual",
+    "created_at": "2026-09-18T13:08:27.607Z"
   },
   {
     "id": "b2af71efe0",
