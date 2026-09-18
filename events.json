@@ -47,6 +47,17 @@
     "created_at": "2026-09-13T10:09:49.996473+00:00"
   },
   {
+    "id": "manual-1788266048266",
+    "title": "Distrito Podcast - Coffee Break: “Señal y Ruido”",
+    "datetime": "2026-09-19T11:00:00.000Z",
+    "end_datetime": null,
+    "location": "Centro Cultural Eduardo Úrculo. Plaza Donoso, 5. Madrid",
+    "description": "El Centro Cultural Eduardo Úrculo inaugura DISTRITO PODCAST, el nuevo ciclo de grabaciones de pódcast en directo del Distrito de Tetuán, con uno de los programas de divulgación científica más veteranos y queridos del panorama en español: Coffee Break: Señal y Ruido.\nDurante años, Coffee Break ha convertido la actualidad científica en una tertulia entre amigos: astrofísica, biología, tecnología y las preguntas grandes de siempre, contadas sin solemnidad y sin renunciar al rigor. Ahora lo hacen delante de público, en Tetuán, y con la posibilidad de que ese público forme parte de la conversación.\nUna grabación real, no una charla: lo que ocurra en la sala será el episodio.\nEntrada libre hasta completar aforo.",
+    "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1788266048266.jpg",
+    "source_id": "manual",
+    "created_at": "2026-09-01T12:34:15.081Z"
+  },
+  {
     "id": "a0149d47eb",
     "title": "Horizontes 2027-2031 - Vermú y Diagnosis",
     "datetime": "2026-09-19T11:30:00",
@@ -59,15 +70,15 @@
     "created_at": "2026-09-18T09:22:39.546949+00:00"
   },
   {
-    "id": "manual-1788266048266",
-    "title": "Distrito Podcast - Coffee Break: “Señal y Ruido”",
-    "datetime": "2026-09-19T11:00:00.000Z",
+    "id": "manual-1788265954943",
+    "title": "Nat Simons",
+    "datetime": "2026-09-19T18:00:00.000Z",
     "end_datetime": null,
     "location": "Centro Cultural Eduardo Úrculo. Plaza Donoso, 5. Madrid",
-    "description": "El Centro Cultural Eduardo Úrculo inaugura DISTRITO PODCAST, el nuevo ciclo de grabaciones de pódcast en directo del Distrito de Tetuán, con uno de los programas de divulgación científica más veteranos y queridos del panorama en español: Coffee Break: Señal y Ruido.\nDurante años, Coffee Break ha convertido la actualidad científica en una tertulia entre amigos: astrofísica, biología, tecnología y las preguntas grandes de siempre, contadas sin solemnidad y sin renunciar al rigor. Ahora lo hacen delante de público, en Tetuán, y con la posibilidad de que ese público forme parte de la conversación.\nUna grabación real, no una charla: lo que ocurra en la sala será el episodio.\nEntrada libre hasta completar aforo.",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1788266048266.jpg",
+    "description": "Nat Simons es, una de las artistas españolas de rock con más futuro y con mayor proyección nacional e internacional del momento. Mujer versátil, camaleónica, con una gran voz y compositora de sus propios temas, Nat ha lanzado hits tanto en castellano como en inglés rodeada siempre de los mejores músicos y productores dentro y fuera de nuestras fronteras.\nDuración: 60 min.\nEdad recomendada: todos los públicos.",
+    "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1788265954943.jpg",
     "source_id": "manual",
-    "created_at": "2026-09-01T12:34:15.081Z"
+    "created_at": "2026-09-01T12:32:41.383Z"
   },
   {
     "id": "8e75f0f2f1",
@@ -80,17 +91,6 @@
     "image_hash": "08cb58b79717b64599c8ae1ee93bce46",
     "source_id": "img_5145_0",
     "created_at": "2026-09-15T06:55:40.281254+00:00"
-  },
-  {
-    "id": "manual-1788265954943",
-    "title": "Nat Simons",
-    "datetime": "2026-09-19T18:00:00.000Z",
-    "end_datetime": null,
-    "location": "Centro Cultural Eduardo Úrculo. Plaza Donoso, 5. Madrid",
-    "description": "Nat Simons es, una de las artistas españolas de rock con más futuro y con mayor proyección nacional e internacional del momento. Mujer versátil, camaleónica, con una gran voz y compositora de sus propios temas, Nat ha lanzado hits tanto en castellano como en inglés rodeada siempre de los mejores músicos y productores dentro y fuera de nuestras fronteras.\nDuración: 60 min.\nEdad recomendada: todos los públicos.",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1788265954943.jpg",
-    "source_id": "manual",
-    "created_at": "2026-09-01T12:32:41.383Z"
   },
   {
     "id": "fe55570670",
@@ -138,6 +138,18 @@
     "image_hash": "8b2fb7698bd674bda7ae53b18a94e567",
     "source_id": "img_5146_0",
     "created_at": "2026-09-15T14:15:42.240124+00:00"
+  },
+  {
+    "id": "4a7694bcb9",
+    "title": "CLUB DE LECTURA EN EL ESPACIO BELLAS VISTAS",
+    "datetime": "2026-09-22T18:00:00",
+    "end_datetime": null,
+    "location": "Espacio Bellas Vistas, C/ Adrián Pulido, 8, Bellas Vistas, Madrid",
+    "description": "📚 ¡La semana que viene, nueva sesión del club de lectura!\n\nEl martes 22 de septiembre a las 18:00 h nos reunimos para cerrar _Usos amorosos de la postguerra española_, de Carmen Martín-Gaite. Además, compartiremos pinceladas de otros libros para decidir colectivamente qué leemos el próximo mes.\n\nSi ya disfrutaste de las sesiones anteriores, ya sabes lo que te espera. Y si es tu primera vez, te daremos la bienvenida.\n\n📍 Espacio Bellas Vistas, \nC/ Adrián Pulido, 8 \n\n🗓️ Martes 22 de septiembre a las 18:00 h",
+    "image_url": "https://agendadetetuan.github.io/calendario/images/4a7694bcb9.jpg",
+    "image_hash": "7416aeaaf8ba9888f8b7764dcc738e69",
+    "source_id": "img_5157_0",
+    "created_at": "2026-09-18T18:00:01.824751+00:00"
   },
   {
     "id": "82a408f213",
