@@ -46,6 +46,18 @@
     "created_at": "2026-09-01T12:34:15.081Z"
   },
   {
+    "id": "a0149d47eb",
+    "title": "Horizontes 2027-2031 - Vermú y Diagnosis",
+    "datetime": "2026-09-19T11:30:00",
+    "end_datetime": "2026-09-19T14:00:00",
+    "location": "Supermercado cooperativo de LA OSA, Avda. de Asturias, 57, Tetuán, Madrid",
+    "description": "¡Este sábado nos encontramos en LA OSA! Vermú y Diagnosis dentro del programa Horizontes 2027-2031.",
+    "image_url": "https://agendadetetuan.github.io/calendario/images/a0149d47eb.jpg",
+    "image_hash": "6ea92316da091f09e42839bc5fe8c88a",
+    "source_id": "img_5154_0",
+    "created_at": "2026-09-18T09:22:39.546949+00:00"
+  },
+  {
     "id": "manual-1788265954943",
     "title": "Nat Simons",
     "datetime": "2026-09-19T18:00:00.000Z",
