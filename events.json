@@ -349,6 +349,18 @@
     "created_at": "2026-09-02T15:20:51.345564+00:00"
   },
   {
+    "id": "0866843723",
+    "title": "Reunión PRESENCIAL de Bienvenida",
+    "datetime": "2026-10-16T18:30:00",
+    "end_datetime": null,
+    "location": "La Osa coop, Madrid",
+    "description": "Reunión PRESENCIAL de Bienvenida. Inscripción: https://erp.laosa.coop/bienvenida",
+    "image_url": null,
+    "image_hash": null,
+    "source_id": "img_5155_3",
+    "created_at": "2026-09-18T09:28:22.008188+00:00"
+  },
+  {
     "id": "d7d3409ee8",
     "title": "Senderismo urbano. Tetuán de las Victorias",
     "datetime": "2026-10-17T09:00:00.000Z",
