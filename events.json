@@ -175,6 +175,18 @@
     "created_at": "2026-09-20T17:37:11.859939+00:00"
   },
   {
+    "id": "6d7871dd32",
+    "title": "Aperitivo y empanadas colombianas",
+    "datetime": "2026-09-26T14:30:00",
+    "end_datetime": null,
+    "location": "ESPACIO BELL VISTAS, C/ Adrián Pulido, 8, Bellas Vistas, Madrid",
+    "description": "14:30 Aperitivo y empanadas colombianas",
+    "image_url": null,
+    "image_hash": null,
+    "source_id": "img_5161_1",
+    "created_at": "2026-09-20T17:37:16.318289+00:00"
+  },
+  {
     "id": "manual-1788266306313",
     "title": "Circo: “Kairós”",
     "datetime": "2026-09-26T17:30:00.000Z",
