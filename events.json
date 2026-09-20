@@ -12,64 +12,6 @@
     "created_at": "2026-06-06T18:47:39.142102+00:00"
   },
   {
-    "id": "cb3f847605",
-    "title": "Conoce el Parque Central de Azca",
-    "datetime": "2026-09-19T11:00:00",
-    "end_datetime": null,
-    "location": "Parque Central de Azca, Madrid",
-    "description": "El sábado 19 de Septiembre a las 11 h vente a conocer el precioso Parque Central de Azca donde casi 400 árboles de 42 especies distintas corren peligro de ser talados o sometidos a transplantes que son inviables para árboles de esas edades. El Ayuntamiento anuncia una reforma integral de la zona y no quiere aclarar que va a ser de ellos. Daremos un paseo botánico identificando los árboles, algunos de ellos raros y ciertamente singulares, haciendo fotos eligiendo nuestro árbol favorito y disfrutando de esta arboleda plantada en los años 80 que es un auténtico refugio climático. ¡¡No vamos a permitir que se pierda!! ¡¡Acompáñanos !!",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/cb3f847605.jpg",
-    "image_hash": "5e746c9cfa4fc94487705ec7fdb5e0a8",
-    "source_id": "img_5142_0",
-    "created_at": "2026-09-13T10:09:49.996473+00:00"
-  },
-  {
-    "id": "manual-1788266048266",
-    "title": "Distrito Podcast - Coffee Break: “Señal y Ruido”",
-    "datetime": "2026-09-19T11:00:00.000Z",
-    "end_datetime": null,
-    "location": "Centro Cultural Eduardo Úrculo. Plaza Donoso, 5. Madrid",
-    "description": "El Centro Cultural Eduardo Úrculo inaugura DISTRITO PODCAST, el nuevo ciclo de grabaciones de pódcast en directo del Distrito de Tetuán, con uno de los programas de divulgación científica más veteranos y queridos del panorama en español: Coffee Break: Señal y Ruido.\nDurante años, Coffee Break ha convertido la actualidad científica en una tertulia entre amigos: astrofísica, biología, tecnología y las preguntas grandes de siempre, contadas sin solemnidad y sin renunciar al rigor. Ahora lo hacen delante de público, en Tetuán, y con la posibilidad de que ese público forme parte de la conversación.\nUna grabación real, no una charla: lo que ocurra en la sala será el episodio.\nEntrada libre hasta completar aforo.",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1788266048266.jpg",
-    "source_id": "manual",
-    "created_at": "2026-09-01T12:34:15.081Z"
-  },
-  {
-    "id": "a0149d47eb",
-    "title": "Horizontes 2027-2031 - Vermú y Diagnosis",
-    "datetime": "2026-09-19T11:30:00",
-    "end_datetime": "2026-09-19T14:00:00",
-    "location": "Supermercado cooperativo de LA OSA, Avda. de Asturias, 57, Tetuán, Madrid",
-    "description": "¡Este sábado nos encontramos en LA OSA! Vermú y Diagnosis dentro del programa Horizontes 2027-2031.",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/a0149d47eb.jpg",
-    "image_hash": "6ea92316da091f09e42839bc5fe8c88a",
-    "source_id": "img_5154_0",
-    "created_at": "2026-09-18T09:22:39.546949+00:00"
-  },
-  {
-    "id": "manual-1788265954943",
-    "title": "Nat Simons",
-    "datetime": "2026-09-19T18:00:00.000Z",
-    "end_datetime": null,
-    "location": "Centro Cultural Eduardo Úrculo. Plaza Donoso, 5. Madrid",
-    "description": "Nat Simons es, una de las artistas españolas de rock con más futuro y con mayor proyección nacional e internacional del momento. Mujer versátil, camaleónica, con una gran voz y compositora de sus propios temas, Nat ha lanzado hits tanto en castellano como en inglés rodeada siempre de los mejores músicos y productores dentro y fuera de nuestras fronteras.\nDuración: 60 min.\nEdad recomendada: todos los públicos.",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1788265954943.jpg",
-    "source_id": "manual",
-    "created_at": "2026-09-01T12:32:41.383Z"
-  },
-  {
-    "id": "8e75f0f2f1",
-    "title": "¡Aquí se baila, aquí se lucha! 🪭",
-    "datetime": "2026-09-19T19:00:00",
-    "end_datetime": null,
-    "location": null,
-    "description": "¡Aquí se baila, aquí se lucha! 🪭\n\n🪩 El próximo 19 de septiembre, a partir de las 19:00, la Huerta de Tetuán acoge un encuentro flamenco solidario. Una noche de cante, baile y disfrute donde poder descubrir y colaborar con los proyectos de lucha contra la pobreza de ATD Cuarto Mundo en Madrid. \n\n👠 La entrada es libre, de forma que cada cual pueda aportar a través de la barra de bebidas, el picoteo (con opción vegana) o la tienda de productos de ATD Cuarto Mundo!!\n\n📲 También contaremos con una hucha de contribución libre y una fila cero, a través del BIZUM de la asociación (05838).\n\nVen a disfrutar con nosotras de una de las últimas noches del verano a la fresca de la huerta y al compás de esta lucha por los derechos de todos y todas💃🏻\n\nSiembra compás, cosecha derechos 🎶✊ ¿Nos vemos allí?\n\n📍Huerta de Tetuán (c/ Matadero s/n)\n🗓️Sábado 19 de septiembre a partir de las 19:00\n🎟️Aportación libre",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/8e75f0f2f1.jpg",
-    "image_hash": "08cb58b79717b64599c8ae1ee93bce46",
-    "source_id": "img_5145_0",
-    "created_at": "2026-09-15T06:55:40.281254+00:00"
-  },
-  {
     "id": "fe55570670",
     "title": "13ª Concentración en defensa de la Dehesa",
     "datetime": "2026-09-20T12:00:00",
