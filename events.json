@@ -424,6 +424,18 @@
     "created_at": "2026-09-02T15:20:58.568895+00:00"
   },
   {
+    "id": "03797a3118",
+    "title": "EXPOSICIÓN FOTOGRÁFICA",
+    "datetime": "2026-10-19T18:00:00",
+    "end_datetime": null,
+    "location": "Centro Cultural Espronceda, Madrid",
+    "description": "Inauguración de la exposición de fotos sobre los 50 años de nuestra Asociación y las acciones del tejido vecinal de nuestro Distrito en estos años. Posteriormente tendrá lugar en el salón de actos una mesa redonda sobre el presente y futuro del Movimiento Vecinal.",
+    "image_url": "https://agendadetetuan.github.io/calendario/images/03797a3118.jpg",
+    "image_hash": "9b095fe2d425409f413b18129652911e",
+    "source_id": "img_5164_0",
+    "created_at": "2026-09-21T21:47:29.144919+00:00"
+  },
+  {
     "id": "8bc6a36c7f",
     "title": "Querid@s vecin@s,",
     "datetime": "2026-10-23T00:00:00",
