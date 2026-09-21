@@ -60,6 +60,18 @@
     "created_at": "2026-09-18T09:35:48.661079+00:00"
   },
   {
+    "id": "718c48166d",
+    "title": "Club de lectura Lorenzana con Remedios Zafra y Amador Fernández-Savater",
+    "datetime": "2026-09-21T19:00:00",
+    "end_datetime": "2026-09-21T21:00:00",
+    "location": "C/ Lorenzana, 2, Madrid",
+    "description": "Todas las sesiones de 19h a 21h Posibilidad de conexión online Formulario de inscripción Convocamos la cuarta edición del club de lectura de Lorenzana. En esta ocasión proponemos",
+    "image_url": null,
+    "image_hash": null,
+    "source_id": "img_5162_3",
+    "created_at": "2026-09-21T15:36:53.750893+00:00"
+  },
+  {
     "id": "38d5b31298",
     "title": "Cuentacuentos «El otorongo orgulloso»",
     "datetime": "2026-09-22T17:30:00",
