@@ -36,6 +36,18 @@
     "created_at": "2026-06-06T18:47:39.142102+00:00"
   },
   {
+    "id": "c67a771b3d",
+    "title": "Club de lectura Lorenzana con Remedios Zafra y Amador Fernández-Savater",
+    "datetime": "2026-09-14T19:00:00",
+    "end_datetime": "2026-09-14T21:00:00",
+    "location": "C/ Lorenzana, 2, Madrid",
+    "description": "Todas las sesiones de 19h a 21h Posibilidad de conexión online Formulario de inscripción Convocamos la cuarta edición del club de lectura de Lorenzana. En esta ocasión proponemos",
+    "image_url": null,
+    "image_hash": null,
+    "source_id": "img_5162_2",
+    "created_at": "2026-09-21T15:36:50.158268+00:00"
+  },
+  {
     "id": "2376cb0ebc",
     "title": "Encuentro con Remedios Zafra y Amador Fernández Savater",
     "datetime": "2026-09-21T19:00:00",
