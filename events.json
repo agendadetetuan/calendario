@@ -12,18 +12,6 @@
     "created_at": "2026-06-06T18:47:39.142102+00:00"
   },
   {
-    "id": "f6cabeddb0",
-    "title": "Kit de Refugio Climático en las fiestas de Bellas Vistas",
-    "datetime": "2026-09-07T00:00:00",
-    "end_datetime": null,
-    "location": "Fiestas de Bellas Vistas, Bellas Vistas, Madrid",
-    "description": "El Espacio Vecinal Bellas Vistas forma parte de JUST4CARE, un proyecto europeo que estamos desarrollando en el barrio para trabajar sobre adaptación y justicia climática, participación y cómo hacer nuestros espacios cotidianos más habitables. Dentro del proyecto estamos desarrollando el Kit de Refugio Climático, una herramienta para sacar a la calle conversaciones sobre el calor, los cuidados y cómo queremos que sean nuestros barrios. Ya se ha publicado en la web del proyecto un artículo sobre su primera parada, que hicimos en el Zuloaga, y sobre lo que aprendimos de aquella experiencia. Y este domingo, el Kit vuelve a salir a las calles de Bellas Vistas 🍋☀️. Estaremos en las fiestas, después de la carrera, para seguir recogiendo voces y compartiendo la experiencia. Artículo: https://just4care.eu/a-chair-some-shade-and-many-questions-the-first-stop-of-the-climate-shelter-kit/",
-    "image_url": null,
-    "image_hash": null,
-    "source_id": "5169_0",
-    "created_at": "2026-09-23T14:51:23.961024+00:00"
-  },
-  {
     "id": "fb09c4f2a2",
     "title": "La historia de La Casera comenzó en Tetuán",
     "datetime": "2026-09-23T00:00:00",
@@ -34,17 +22,6 @@
     "image_hash": "19e434a9270ca4a80e3b91f9c975ec19",
     "source_id": "img_5120_0",
     "created_at": "2026-09-02T15:38:41.626852+00:00"
-  },
-  {
-    "id": "manual-1788266154874",
-    "title": "Clásicos de Espronceda - “Esta Tierra es mía” (1943. Jean Renoir)",
-    "datetime": "2026-09-23T16:30:00.000Z",
-    "end_datetime": null,
-    "location": "Centro Cultural José de Espronceda. Calle Almansa, 9. Madrid",
-    "description": "Acompaña coloquio a cargo de Guillermo Balmori (crítico de cine).\nAlbert Lory (Charles Laughton) es un profesor de escuela en una ciudad de un país indeterminado ocupado por el ejército Nazi durante la II Guerra Mundial. Enamorado de su compañera de trabajo y vecina, la también profesora Louise Martin (Maureen O’Hara), Albert se siente frustrado al ser incapaz de declararse por su carácter acobardado. Esta cobardía es también motivo de burla de sus propios alumnos. Para colmo, Louise mantiene una relación con un hombre llamado George Lambert (George Sanders). Cuando una serie de acontecimientos provocan que Albert sea detenido por los soldados alemanes, el comandante alemán, Mayor Erich von Keller (Walter Slezak), le propondrá un acuerdo. Pero el carácter de Albert podría haber cambiado debido a los últimos acontecimientos y parece que incluso podría demostrar una sorprendente valentía frente al enemigo invasor.\nDuración: 103 min.\nEdad recomendada: mayores de 12 años.",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1788266154874.jpg",
-    "source_id": "manual",
-    "created_at": "2026-09-01T12:36:00.772Z"
   },
   {
     "id": "bbd84ce312",
