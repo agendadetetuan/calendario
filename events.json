@@ -130,6 +130,18 @@
     "created_at": "2026-09-02T15:20:44.391864+00:00"
   },
   {
+    "id": "f3e2c29137",
+    "title": "TALLER DE TEATRO JUVENIL",
+    "datetime": "2026-10-06T00:00:00",
+    "end_datetime": null,
+    "location": "Avenida del Doctor Federico Rubio y Galí, 73, Madrid",
+    "description": "CLASE DE PRUEBA GRATUITA EL 6 DE OCTUBRE",
+    "image_url": null,
+    "image_hash": null,
+    "source_id": "img_5178_2",
+    "created_at": "2026-09-28T07:14:16.569885+00:00"
+  },
+  {
     "id": "manual-1789736900607",
     "title": "Club de lectura",
     "datetime": "2026-10-07T17:00:00.000Z",
