@@ -24,18 +24,6 @@
     "created_at": "2026-09-02T15:38:41.626852+00:00"
   },
   {
-    "id": "b95a25cdb0",
-    "title": "Lamentamos comunicar que en el día de hoy ha fallecido Maricarmen. El pasado 23 de septiembre, como todas sabéis, se produjo su desahucio y desde entonces ha permanecido hospitalizada. Si bien se consiguió un acuerdo histórico que le habría permitido volver a su vivienda, esta solución ha llegado demasiado tarde. Una situación absolutamente evitable tras un proceso torturante.",
-    "datetime": "2026-09-23T00:00:00",
-    "end_datetime": null,
-    "location": null,
-    "description": "Lamentamos comunicar que en el día de hoy ha fallecido Maricarmen. El pasado 23 de septiembre, como todas sabéis, se produjo su desahucio y desde entonces ha permanecido hospitalizada. Si bien se consiguió un acuerdo histórico que le habría permitido volver a su vivienda, esta solución ha llegado demasiado tarde. Una situación absolutamente evitable tras un proceso torturante.\n\nLos acontecimientos desencadenados ante la injusticia de su desahucio sin duda suponen un antes y un después en la historia de este país: manifestaciones multitudinarias, acampadas en las plazas, adelanto electoral y convocatoria de una huelga general. El debate de la vivienda está en el centro, pero el coste para llegar hasta aquí ha sido demasiado alto.\n\nAhora, tras su partida, nos quedamos con el ejemplo de lucha y el legado que ha dejado Maricarmen. Y, sobre todo, cumpliremos lo que ella siempre nos pedía: \"luchad, seguid luchando por lo que es vuestro\".",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/b95a25cdb0.jpg",
-    "image_hash": "5b1461aef17ffacf58b91ae63fcce0c3",
-    "source_id": "img_5196_0",
-    "created_at": "2026-10-07T19:21:44.335369+00:00"
-  },
-  {
     "id": "e8ad25feb1",
     "title": "Exposición temporal Vecinos nocturnos",
     "datetime": "2026-09-30T22:00:00.000Z",
@@ -46,17 +34,6 @@
     "image_hash": null,
     "source_id": "img_5118_9",
     "created_at": "2026-09-02T15:21:12.773108+00:00"
-  },
-  {
-    "id": "manual-1789736900607",
-    "title": "Club de lectura",
-    "datetime": "2026-10-07T17:00:00.000Z",
-    "end_datetime": null,
-    "location": "Ateneo de Tetuán. Calle Torrijos 15, Madrid",
-    "description": "",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1789736900607.jpg",
-    "source_id": "manual",
-    "created_at": "2026-09-18T13:08:27.607Z"
   },
   {
     "id": "dc343e7a31",
