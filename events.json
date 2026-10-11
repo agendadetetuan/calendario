@@ -24,18 +24,6 @@
     "created_at": "2026-09-02T15:38:41.626852+00:00"
   },
   {
-    "id": "edbcaa0d91",
-    "title": "Programa de radio Almenara - Denuncias del Barrio del Pilar",
-    "datetime": "2026-09-30T18:00:00",
-    "end_datetime": "2026-09-30T19:00:00",
-    "location": "Radio Almenara",
-    "description": "Programa de radio Almenara acogiendo la denuncia de colectivos del barrio del Pilar sobre 'excesos policiales' y acoso en las casetas vecinales. Conexiones con la puerta del Sol. Música en directo con Andrés Pla de la Yapa Banda. Disponible en Ivoox: https://go.ivoox.com/rf/181980928 y Archive: https://archive.org/details/8oct-26-bdt-andres-polienfiestas-desde-sol-edit",
-    "image_url": null,
-    "image_hash": null,
-    "source_id": "5201_0",
-    "created_at": "2026-10-10T17:48:43.882818+00:00"
-  },
-  {
     "id": "e8ad25feb1",
     "title": "Exposición temporal Vecinos nocturnos",
     "datetime": "2026-09-30T22:00:00.000Z",
@@ -46,18 +34,6 @@
     "image_hash": null,
     "source_id": "img_5118_9",
     "created_at": "2026-09-02T15:21:12.773108+00:00"
-  },
-  {
-    "id": "b2af71efe0",
-    "title": "Reutilizando materiales. Taller de papel reciclado con estampación botánica",
-    "datetime": "2026-10-10T09:00:00.000Z",
-    "end_datetime": null,
-    "location": "CIEA Dehesa de la Villa, C/ Francos Rodriguez, prox. 81 28039 Madrid",
-    "description": "Para inscribiros a cualquiera de nuestras actividades podéis llamar ☎️ al  914 80 21 41 o escribir un correo a infodehesa@madrid.es  📩\n  \n📌 Recordad  que abrimos inscripciones con un mes de antelación a la fecha prevista de cada actividad, a partir de las 00:00h, vía mail, facilitando nombre completo, edad y teléfono de contacto.",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/b2af71efe0-edit.jpg",
-    "image_hash": null,
-    "source_id": "img_5118_2",
-    "created_at": "2026-09-02T15:20:47.713807+00:00"
   },
   {
     "id": "671ea58c53",
