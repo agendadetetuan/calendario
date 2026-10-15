@@ -60,6 +60,18 @@
     "created_at": "2026-09-02T15:20:55.038328+00:00"
   },
   {
+    "id": "0a144a8a47",
+    "title": "FERIA DE ENTIDADES",
+    "datetime": "2026-10-17T11:00:00",
+    "end_datetime": "2026-10-17T14:00:00",
+    "location": "Plaza de la Remonta, Madrid",
+    "description": "TETUÁN 2026 PLAZA DE LA REMONTA 17 OCTUBRE 11:00-14:00",
+    "image_url": "https://agendadetetuan.github.io/calendario/images/0a144a8a47.jpg",
+    "image_hash": "4eddea2f754e7b39263382de15587170",
+    "source_id": "img_5214_0",
+    "created_at": "2026-10-15T16:58:25.284767+00:00"
+  },
+  {
     "id": "346ad1ccc8",
     "title": "VEN A CREAR CON NOSOTROS *EL ALTAR DE* Día de Muertos",
     "datetime": "2026-10-17T17:00:00",
