@@ -60,6 +60,18 @@
     "created_at": "2026-09-02T15:20:55.038328+00:00"
   },
   {
+    "id": "346ad1ccc8",
+    "title": "VEN A CREAR CON NOSOTROS *EL ALTAR DE* Día de Muertos",
+    "datetime": "2026-10-17T17:00:00",
+    "end_datetime": "2026-10-17T19:30:00",
+    "location": "Espacio Lorenzana, Calle Lorenzana 2, Tetuán, Madrid",
+    "description": "Una tarde entre flores, papel picado, calaveritas y memoria compartida para construir juntos el altar de Día de Muertos de Lorenzana",
+    "image_url": "https://agendadetetuan.github.io/calendario/images/346ad1ccc8.jpg",
+    "image_hash": "36c6fabf6c53c0d1fe2542dcefc60973",
+    "source_id": "img_5210_0",
+    "created_at": "2026-10-15T16:24:24.852166+00:00"
+  },
+  {
     "id": "771be0136d",
     "title": "Pedaleando de verde. Arroyos de Madrid (lineal aprox. 11 km.)",
     "datetime": "2026-10-18T09:00:00.000Z",
