@@ -36,6 +36,18 @@
     "created_at": "2026-09-02T15:21:12.773108+00:00"
   },
   {
+    "id": "2ae642818f",
+    "title": "Feria de Entidades de Tetuán en La Remonta",
+    "datetime": "2026-10-03T11:00:00",
+    "end_datetime": null,
+    "location": "La Remonta, Tetuán, Madrid",
+    "description": "¡Este sábado a partir de las 11 de la mañana ven a la Remonta! Estaremos las entidades de Tetuán para darnos a conocer. Somos muchas y con múltiples intereses sociales, colectivos, comunitarios. La feria la dinámiza el Proceso de Desarrollo de Tetuán y lleva un montón de currele detrás. ¡No nos la perdamos!",
+    "image_url": null,
+    "image_hash": null,
+    "source_id": "5215_0",
+    "created_at": "2026-10-15T16:58:36.389385+00:00"
+  },
+  {
     "id": "0866843723",
     "title": "Reunión PRESENCIAL de Bienvenida",
     "datetime": "2026-10-16T18:30:00",
