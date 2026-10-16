@@ -108,6 +108,17 @@
     "created_at": "2026-09-02T15:20:58.568895+00:00"
   },
   {
+    "id": "manual-1792173047176",
+    "title": "Cine",
+    "datetime": "2026-10-18T17:00:00.000Z",
+    "end_datetime": null,
+    "location": "Torrijos 15, Madrid",
+    "description": "",
+    "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1792173047176.jpg",
+    "source_id": "manual",
+    "created_at": "2026-10-16T17:50:53.194Z"
+  },
+  {
     "id": "078f359df1",
     "title": "¡Empezamos los actos conmemorativos del 50 aniversario de  la Asociación Cuatro Caminos - Tetuán !",
     "datetime": "2026-10-19T00:00:00",
