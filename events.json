@@ -204,17 +204,6 @@
     "created_at": "2026-09-02T15:21:05.664436+00:00"
   },
   {
-    "id": "manual-1789408970933",
-    "title": "Lorencine. Cinefórum en el barrio",
-    "datetime": "2026-10-30T18:30:00.000Z",
-    "end_datetime": null,
-    "location": "Lorencine. Cinefórum en el barrio, Madrid",
-    "description": "",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1789408970933.jpg",
-    "source_id": "manual",
-    "created_at": "2026-09-14T18:02:57.530Z"
-  },
-  {
     "id": "71ff3135e4",
     "title": "Presentando su libro",
     "datetime": "2026-10-30T19:00:00",
@@ -225,6 +214,17 @@
     "image_hash": "392f79cebaf64f7506d547dd887091b8",
     "source_id": "img_5230_0",
     "created_at": "2026-10-21T12:44:00.180417+00:00"
+  },
+  {
+    "id": "manual-1789408970933",
+    "title": "Lorencine. Cinefórum en el barrio",
+    "datetime": "2026-10-30T18:30:00.000Z",
+    "end_datetime": null,
+    "location": "Lorencine. Cinefórum en el barrio, Madrid",
+    "description": "",
+    "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1789408970933.jpg",
+    "source_id": "manual",
+    "created_at": "2026-09-14T18:02:57.530Z"
   },
   {
     "id": "manual-1788363664976",
@@ -284,6 +284,17 @@
     "image_hash": "ffe15d6735c1b0bbd57ff77c8b16b6ec",
     "source_id": "img_5224_0",
     "created_at": "2026-10-19T12:33:26.461764+00:00"
+  },
+  {
+    "id": "manual-1792586808497",
+    "title": "Club de lectura",
+    "datetime": "2026-11-12T18:00:00.000Z",
+    "end_datetime": null,
+    "location": "Calle Torrijos 15, Madrid",
+    "description": "",
+    "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1792586808497.jpg",
+    "source_id": "manual",
+    "created_at": "2026-10-21T12:46:54.904Z"
   },
   {
     "id": "manual-1787760515304",
