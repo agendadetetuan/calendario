@@ -24,54 +24,6 @@
     "created_at": "2026-09-02T15:38:41.626852+00:00"
   },
   {
-    "id": "1221f7bbfc",
-    "title": "Sindicato de Vivienda de Chamberí",
-    "datetime": "2026-09-30T00:00:00",
-    "end_datetime": null,
-    "location": "https://www.instagram.com/svchamberi/",
-    "description": "Hoy nacen tres sindicatos de vivienda nuevos en la zona norte de Madrid. Seguimos creando herramientas de lucha para la clase trabajadora. Tres sindicatos que apuestan por la lucha sindical y la organización de clase para defender nuestros intereses frente a los rentistas y sus gobiernos. Adelante compañeras 🗝️❤️‍🔥",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/1221f7bbfc.jpg",
-    "image_hash": "60d8c137a584af5dfaeb75cc1a31df9f",
-    "source_id": "img_5228_0",
-    "created_at": "2026-10-20T08:26:59.795243+00:00"
-  },
-  {
-    "id": "1f67286acd",
-    "title": "Sindicato de Vivienda de Fuencarral-Barrio del Pilar",
-    "datetime": "2026-09-30T00:00:00",
-    "end_datetime": null,
-    "location": "https://www.instagram.com/svfuencarralbdp/",
-    "description": "Hoy nacen tres sindicatos de vivienda nuevos en la zona norte de Madrid. Seguimos creando herramientas de lucha para la clase trabajadora. Tres sindicatos que apuestan por la lucha sindical y la organización de clase para defender nuestros intereses frente a los rentistas y sus gobiernos. Adelante compañeras 🗝️❤️‍🔥",
-    "image_url": null,
-    "image_hash": null,
-    "source_id": "img_5228_1",
-    "created_at": "2026-10-20T08:27:04.761348+00:00"
-  },
-  {
-    "id": "76df9442b6",
-    "title": "Sindicato de Vivienda de Ciudades del Norte",
-    "datetime": "2026-09-30T00:00:00",
-    "end_datetime": null,
-    "location": "https://www.instagram.com/svciudadesnorte/",
-    "description": "Hoy nacen tres sindicatos de vivienda nuevos en la zona norte de Madrid. Seguimos creando herramientas de lucha para la clase trabajadora. Tres sindicatos que apuestan por la lucha sindical y la organización de clase para defender nuestros intereses frente a los rentistas y sus gobiernos. Adelante compañeras 🗝️❤️‍🔥",
-    "image_url": null,
-    "image_hash": null,
-    "source_id": "img_5228_2",
-    "created_at": "2026-10-20T08:27:10.623782+00:00"
-  },
-  {
-    "id": "6edcadf28b",
-    "title": "Hugo 24",
-    "datetime": "2026-09-30T18:00:00",
-    "end_datetime": null,
-    "location": "Centro Sociocultural José de Espronceda, Tetuan, Madrid",
-    "description": "Esta tarde proyectamos Hugo 24, película rodada en nuestro distrito el año pasado\n\nCentro Sociocultural José de Espronceda . 18h\n\n¡Entrada libre !\n\n#50AniversarioAsoiacionCuatroCaminosTetuan",
-    "image_url": null,
-    "image_hash": null,
-    "source_id": "5227_0",
-    "created_at": "2026-10-20T07:01:17.670328+00:00"
-  },
-  {
     "id": "e8ad25feb1",
     "title": "Exposición temporal Vecinos nocturnos",
     "datetime": "2026-09-30T22:00:00.000Z",
@@ -82,18 +34,6 @@
     "image_hash": null,
     "source_id": "img_5118_9",
     "created_at": "2026-09-02T15:21:12.773108+00:00"
-  },
-  {
-    "id": "035d3e77dc",
-    "title": "SESIÓN DE CINE",
-    "datetime": "2026-10-20T18:00:00",
-    "end_datetime": null,
-    "location": "Centro Cultural Espronceda, Madrid",
-    "description": "Se proyectará una película relacionada con el distrito y el movimiento vecinal. Después habrá una pequeña tertulia sobre la película.",
-    "image_url": null,
-    "image_hash": null,
-    "source_id": "img_5164_1",
-    "created_at": "2026-09-21T21:47:33.514056+00:00"
   },
   {
     "id": "e4c3c0d303",
