@@ -216,6 +216,18 @@
     "created_at": "2026-09-02T15:21:05.664436+00:00"
   },
   {
+    "id": "3b6e2b0165",
+    "title": "CINEFÓRUM EDUCACIÓN",
+    "datetime": "2026-10-28T18:30:00",
+    "end_datetime": null,
+    "location": "Ateneo de Tetuán, C/ Torrijos 15, Tetuán, Madrid",
+    "description": "Un cinefórum sobre EDUCACIÓN en torno a una película fascinante: La Ola. 🎟️ Una juventud deseosa de aprender, un experimento inusual, unas consecuencias inesperadas. El coloquio estará dinamizado por José Angel Quintana, profesor del IES Almudena. Sera el miércoles 28 en el Ateneo de Tetuán C/ Torrijos 15. < Metro Valdeacederas > 👉🏽 Si no la has visto ¡te volará la cabeza!",
+    "image_url": "https://agendadetetuan.github.io/calendario/images/3b6e2b0165.jpg",
+    "image_hash": "c29a6ffbc51b034cc585427a7f530bf0",
+    "source_id": "img_5236_0",
+    "created_at": "2026-10-22T10:17:30.992669+00:00"
+  },
+  {
     "id": "manual-1789408970933",
     "title": "Lorencine. Cinefórum en el barrio",
     "datetime": "2026-10-30T18:30:00.000Z",
