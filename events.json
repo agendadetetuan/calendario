@@ -192,6 +192,18 @@
     "created_at": "2026-09-02T15:21:02.087414+00:00"
   },
   {
+    "id": "fa467189e9",
+    "title": "Lorenzana TALLER INFANTIL CREA TU ALTAR MINIATURA",
+    "datetime": "2026-10-24T12:30:00",
+    "end_datetime": "2026-10-24T13:30:00",
+    "location": "Lorenzana, Madrid",
+    "description": "¡Entre flores, colores y recuerdos, descubre los secretos del Día de Muertos y dale vida a tu propio mini altar!",
+    "image_url": "https://agendadetetuan.github.io/calendario/images/fa467189e9.jpg",
+    "image_hash": "9652ea62e334c03a5ef9a824b027e66e",
+    "source_id": "img_5238_0",
+    "created_at": "2026-10-22T15:32:16.838107+00:00"
+  },
+  {
     "id": "6e87c9f83d",
     "title": "VEN A CREAR CON NOSOTROS *EL ALTAR DE* Día de Muertos",
     "datetime": "2026-10-24T17:00:00",
