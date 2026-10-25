@@ -36,54 +36,6 @@
     "created_at": "2026-09-02T15:21:12.773108+00:00"
   },
   {
-    "id": "a854e3fcf9",
-    "title": "Taller de huerta de otoño",
-    "datetime": "2026-10-24T09:00:00.000Z",
-    "end_datetime": null,
-    "location": "CIEA Dehesa de la Villa, C/ Francos Rodriguez, prox. 81 28039 Madrid",
-    "description": "Para inscribiros a cualquiera de nuestras actividades podéis llamar ☎️ al  914 80 21 41 o escribir un correo a infodehesa@madrid.es  📩\n  \n📌 Recordad  que abrimos inscripciones con un mes de antelación a la fecha prevista de cada actividad, a partir de las 00:00h, vía mail, facilitando nombre completo, edad y teléfono de contacto.",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/a854e3fcf9-edit.jpg",
-    "image_hash": null,
-    "source_id": "img_5118_6",
-    "created_at": "2026-09-02T15:21:02.087414+00:00"
-  },
-  {
-    "id": "62d8445852",
-    "title": "🌼💀 *¡Este sábado tenemos talleres infantiles de Día de Muertos en Lorenzana",
-    "datetime": "2026-10-24T11:00:00",
-    "end_datetime": null,
-    "location": "Espacio Lorenzana, Madrid",
-    "description": "🌼💀 *¡Este sábado tenemos talleres infantiles de Día de Muertos en Lorenzana  \n\n🐾 ¡MANOS AL ALTAR DE DÍA DE MUERTOS!\nDe 7 a 10 años | 11:00–12:00 h | 10 €\n\nCrearemos juntos una ofrenda dedicada a nuestras mascotas y animalitos queridos. ¡Para recordar con cariño a nuestros compañeros de cuatro patas, alas o aletas!\n\n🎨 ¡CREA TU ALTAR EN MINIATURA!\nDe 10 a 14 años | 12:30–13:45 h | 15 €\nCada participante descubrirá los símbolos del Día de Muertos y construirá su propio altar en miniatura para llevar a casa.\n\nInformación general:\n📅 Sábado 24 de octubre de 2026.\n📍 Espacio Lorenzana · C. de Lorenzana, 2, Bajo · Tetuán, Madrid.\n\nLos talleres son independientes, incluyen todos los materiales y tienen plazas limitadas. Rogamos llegar 10 minutos antes. Un adulto deberá permanecer en el recinto durante la actividad.\n\n¡Aforo limitado!, reserva tu plaza en:\nhttps://eventarium.org/lorenzana\nTe contactaremos directamente para completar la inscripción al taller.\nIndícanos el nombre y la edad del participante y el taller elegido. Te responderemos para confirmar la disponibilidad y explicarte cómo formalizar la reserva.\n\n📱 611 874 634\n📩 diademuertoslorenzana@gmail.com\n\n¡Nos vemos para descubrir, crear y celebrar nuestras historias!\n\nConsulta la programación del ciclo:\nhttps://diademuertoslorenzana.my.canva.site/",
-    "image_url": null,
-    "image_hash": null,
-    "source_id": "5241_0",
-    "created_at": "2026-10-22T15:33:05.472568+00:00"
-  },
-  {
-    "id": "fa467189e9",
-    "title": "Lorenzana TALLER INFANTIL CREA TU ALTAR MINIATURA",
-    "datetime": "2026-10-24T12:30:00",
-    "end_datetime": "2026-10-24T13:30:00",
-    "location": "Lorenzana, Madrid",
-    "description": "¡Entre flores, colores y recuerdos, descubre los secretos del Día de Muertos y dale vida a tu propio mini altar!",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/fa467189e9.jpg",
-    "image_hash": "9652ea62e334c03a5ef9a824b027e66e",
-    "source_id": "img_5238_0",
-    "created_at": "2026-10-22T15:32:16.838107+00:00"
-  },
-  {
-    "id": "6e87c9f83d",
-    "title": "VEN A CREAR CON NOSOTROS *EL ALTAR DE* Día de Muertos",
-    "datetime": "2026-10-24T17:00:00",
-    "end_datetime": "2026-10-24T19:30:00",
-    "location": "Espacio Lorenzana, Calle Lorenzana 2, Tetuán, Madrid",
-    "description": "Una tarde entre flores, papel picado, calaveritas y memoria compartida para construir juntos el altar de Día de Muertos de Lorenzana",
-    "image_url": null,
-    "image_hash": null,
-    "source_id": "img_5210_1",
-    "created_at": "2026-10-15T16:24:29.994707+00:00"
-  },
-  {
     "id": "b63c12f970",
     "title": "Itinerario botánico. La vuelta al mundo en 80 plantas.",
     "datetime": "2026-10-25T10:00:00.000Z",
