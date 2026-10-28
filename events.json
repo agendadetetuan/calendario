@@ -200,6 +200,18 @@
     "created_at": "2026-10-21T12:46:54.904Z"
   },
   {
+    "id": "283172d6d1",
+    "title": "Taller en Madrid para pequeños detectives con Carlos G. Gurpegui",
+    "datetime": "2026-11-21T12:00:00",
+    "end_datetime": null,
+    "location": "Librería Remedios, Calle del Dr. Santero, 11, Tetuán, Madrid",
+    "description": "Taller/presentación con el autor de 'Abre el misterio, el robo de las croquetas' para lectores a partir de 9 años. 21 de noviembre a las 12h en Librería Remedios, Calle del Dr. Santero, 11, Tetuán.",
+    "image_url": "https://agendadetetuan.github.io/calendario/images/283172d6d1.jpg",
+    "image_hash": "b4c5a2e818cf9c641f3c7fff438b2c1f",
+    "source_id": "img_5253_0",
+    "created_at": "2026-10-28T17:10:45.694894+00:00"
+  },
+  {
     "id": "43d17714a6",
     "title": "MADRID FUEGO NORTE",
     "datetime": "2026-11-21T20:00:00",
