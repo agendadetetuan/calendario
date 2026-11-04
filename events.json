@@ -186,6 +186,17 @@
     "created_at": "2026-10-28T17:10:45.694894+00:00"
   },
   {
+    "id": "manual-1793818378323",
+    "title": "💃🏽 Festival de flamenco",
+    "datetime": "2026-11-21T18:00:00.000Z",
+    "end_datetime": null,
+    "location": "Centro cultural Eduardo Úrculo, Madrid",
+    "description": "",
+    "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1793818378323.jpg",
+    "source_id": "manual",
+    "created_at": "2026-11-04T18:53:04.109Z"
+  },
+  {
     "id": "43d17714a6",
     "title": "MADRID FUEGO NORTE",
     "datetime": "2026-11-21T20:00:00",
