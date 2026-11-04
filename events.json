@@ -130,6 +130,17 @@
     "created_at": "2026-11-02T09:15:35.040247+00:00"
   },
   {
+    "id": "manual-1793811017092",
+    "title": "Mi primer festival de cine",
+    "datetime": "2026-11-14T16:00:00.000Z",
+    "end_datetime": null,
+    "location": "Centro cultural Eduardo Úrculo, Madrid",
+    "description": "",
+    "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1793811017092.jpg",
+    "source_id": "manual",
+    "created_at": "2026-11-04T16:50:24.117Z"
+  },
+  {
     "id": "283172d6d1",
     "title": "Taller en Madrid para pequeños detectives con Carlos G. Gurpegui",
     "datetime": "2026-11-21T12:00:00",
