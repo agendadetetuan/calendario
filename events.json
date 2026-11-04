@@ -152,6 +152,17 @@
     "created_at": "2026-11-04T16:50:24.117Z"
   },
   {
+    "id": "manual-1793811167504",
+    "title": "Cine",
+    "datetime": "2026-11-15T17:00:00.000Z",
+    "end_datetime": null,
+    "location": "Centro cultural Eduardo Úrculo, Madrid",
+    "description": "",
+    "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1793811167504.jpg",
+    "source_id": "manual",
+    "created_at": "2026-11-04T16:52:53.759Z"
+  },
+  {
     "id": "283172d6d1",
     "title": "Taller en Madrid para pequeños detectives con Carlos G. Gurpegui",
     "datetime": "2026-11-21T12:00:00",
