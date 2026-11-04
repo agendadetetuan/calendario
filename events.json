@@ -209,6 +209,17 @@
     "created_at": "2026-10-23T15:37:52.226156+00:00"
   },
   {
+    "id": "manual-1793818423069",
+    "title": "💃🏽 Festival de flamenco",
+    "datetime": "2026-11-22T11:00:00.000Z",
+    "end_datetime": null,
+    "location": "Plaza de la Remonta, Madrid",
+    "description": "",
+    "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1793818423069.jpg",
+    "source_id": "manual",
+    "created_at": "2026-11-04T18:53:49.167Z"
+  },
+  {
     "id": "manual-1793811217528",
     "title": "Cine",
     "datetime": "2026-11-22T17:00:00.000Z",
