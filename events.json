@@ -175,6 +175,18 @@
     "created_at": "2026-11-04T16:52:53.759Z"
   },
   {
+    "id": "a499d52c0a",
+    "title": "IMAGINAR EL INFIERNO",
+    "datetime": "2026-11-19T18:30:00",
+    "end_datetime": null,
+    "location": "Fundación Canal, Madrid",
+    "description": "19 NOVIEMBRE 2026 | 18:30 h Chiara Cappuccio Profesora de Literatura Italiana Universidad Complutense de Madrid",
+    "image_url": "https://agendadetetuan.github.io/calendario/images/a499d52c0a.jpg",
+    "image_hash": "2171fdb8008e65493b58e1d458696c12",
+    "source_id": "img_5279_0",
+    "created_at": "2026-11-06T13:49:51.592969+00:00"
+  },
+  {
     "id": "manual-1793818240206",
     "title": "Festival flamenco",
     "datetime": "2026-11-20T18:00:00.000Z",
