@@ -36,16 +36,16 @@
     "created_at": "2026-10-18T19:36:57.958996+00:00"
   },
   {
-    "id": "0e6d94cb77",
-    "title": "HUELGA GENERAL POR LA VIVIENDA",
-    "datetime": "2026-11-11T00:00:00",
+    "id": "0e5dfb4f7b",
+    "title": "¡A LA HUELGA!",
+    "datetime": "2026-11-10T22:00:00",
     "end_datetime": null,
-    "location": "SVTetuan, Madrid",
-    "description": "💥 HUELGA GENERAL POR LA VIVIENDA 💥\n\nEste 11 de noviembre iremos a la huelga general contra el rentismo y sus gobiernos exigiendo:\n\n1) Expropiar a los especuladores.\n2) Prohibir el uso especulativo de la vivienda.\n3) Organizar el uso de la vivienda en función de la necesidad de la clase trabajadora: garantizando la calidad y accesibilidad.\n\nA la huelga, compañera! 🗝️❤️‍🔥\n\nHUELGA GENERAL POR LA VIVIENDA\nCONTRA EL RENTISMO Y SUS GOBIERNOS\nEXPROPIEMOS A LOS CULPABLES\n\nIg: https://www.instagram.com/p/Deqy0REiLi5/\n\nX: https://x.com/SVTetuan/status/2112152974201848290",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/0e6d94cb77.jpg",
-    "image_hash": "ffe15d6735c1b0bbd57ff77c8b16b6ec",
-    "source_id": "img_5224_0",
-    "created_at": "2026-10-19T12:33:26.461764+00:00"
+    "location": "Calle Azucenas esquina con Calle Ceuta, Madrid",
+    "description": "¡A LA HUELGA!\n\nEsta huelga general arranca en Tetuán con una reclama nocturna el día anterior, 10 de noviembre, a las 22h.\n\nTETUÁN A LA HUELGA\n\n🗓️10 Nov, 22h\n📍 Calle Azucenas esquina con Calle Ceuta",
+    "image_url": "https://agendadetetuan.github.io/calendario/images/0e5dfb4f7b.jpg",
+    "image_hash": "bad59b3c91169815a89ba7308ec1f4ba",
+    "source_id": "img_5287_0",
+    "created_at": "2026-11-09T19:01:30.123402+00:00"
   },
   {
     "id": "manual-1794213149633",
@@ -57,6 +57,18 @@
     "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1794213149633.jpg",
     "source_id": "manual",
     "created_at": "2026-11-09T08:32:35.111Z"
+  },
+  {
+    "id": "0e6d94cb77",
+    "title": "HUELGA GENERAL POR LA VIVIENDA",
+    "datetime": "2026-11-11T00:00:00",
+    "end_datetime": null,
+    "location": "SVTetuan, Madrid",
+    "description": "💥 HUELGA GENERAL POR LA VIVIENDA 💥\n\nEste 11 de noviembre iremos a la huelga general contra el rentismo y sus gobiernos exigiendo:\n\n1) Expropiar a los especuladores.\n2) Prohibir el uso especulativo de la vivienda.\n3) Organizar el uso de la vivienda en función de la necesidad de la clase trabajadora: garantizando la calidad y accesibilidad.\n\nA la huelga, compañera! 🗝️❤️‍🔥\n\nHUELGA GENERAL POR LA VIVIENDA\nCONTRA EL RENTISMO Y SUS GOBIERNOS\nEXPROPIEMOS A LOS CULPABLES\n\nIg: https://www.instagram.com/p/Deqy0REiLi5/\n\nX: https://x.com/SVTetuan/status/2112152974201848290",
+    "image_url": "https://agendadetetuan.github.io/calendario/images/0e6d94cb77.jpg",
+    "image_hash": "ffe15d6735c1b0bbd57ff77c8b16b6ec",
+    "source_id": "img_5224_0",
+    "created_at": "2026-10-19T12:33:26.461764+00:00"
   },
   {
     "id": "d3b59ed26d",
