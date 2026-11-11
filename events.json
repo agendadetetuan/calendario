@@ -12,18 +12,6 @@
     "created_at": "2026-06-06T18:47:39.142102+00:00"
   },
   {
-    "id": "a9cbeb12e7",
-    "title": "REKLAMA NOCTURNA 11N",
-    "datetime": "2026-09-30T00:00:00",
-    "end_datetime": null,
-    "location": "Plaza de las palomas, Madrid",
-    "description": "TETUÁN FEMINISTA CONTRA FONDOS Y RENTISTAS",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/a9cbeb12e7.jpg",
-    "image_hash": "5c31898ec2a8549728fba5c83120b041",
-    "source_id": "img_5294_0",
-    "created_at": "2026-11-10T17:17:47.326910+00:00"
-  },
-  {
     "id": "e8ad25feb1",
     "title": "Exposición temporal Vecinos nocturnos",
     "datetime": "2026-09-30T22:00:00.000Z",
@@ -34,53 +22,6 @@
     "image_hash": null,
     "source_id": "img_5118_9",
     "created_at": "2026-09-02T15:21:12.773108+00:00"
-  },
-  {
-    "id": "0e5dfb4f7b",
-    "title": "¡A LA HUELGA!",
-    "datetime": "2026-11-10T22:00:00",
-    "end_datetime": null,
-    "location": "Calle Azucenas esquina con Calle Ceuta, Madrid",
-    "description": "¡A LA HUELGA!\n\nEsta huelga general arranca en Tetuán con una reclama nocturna el día anterior, 10 de noviembre, a las 22h.\n\nTETUÁN A LA HUELGA\n\n🗓️10 Nov, 22h\n📍 Calle Azucenas esquina con Calle Ceuta",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/0e5dfb4f7b.jpg",
-    "image_hash": "bad59b3c91169815a89ba7308ec1f4ba",
-    "source_id": "img_5287_0",
-    "created_at": "2026-11-09T19:01:30.123402+00:00"
-  },
-  {
-    "id": "ecd9d9a579",
-    "title": "Hacia la Huelga General 11N - Reclama Nocturna Barrio Tetuan",
-    "datetime": "2026-11-10T22:00:00",
-    "end_datetime": null,
-    "location": "Calle Azucenas con Calle Ceuta, Tetuán, Madrid",
-    "description": "❤️‍🔥 *Tetuán hacia la Huelga General*\n\nEsta noche salimos a las calles de Tetuán para calentar motores de cara al 11N.\n\n📢 Nos vemos a las 22:00 en la calle Azucenas con calle Ceuta para hacer una reclama nocturna y animar al barrio a sumarse a la huelga.\n\n¡Que se escuche en cada calle y en cada balcón!\n\n👉🏽 ¡Ven, únete y difunde! ¡El 11N paramos todo!\n\nHACIA LA HUELGA GENERAL 11N BARRIO TETUÁN RECLAMA NOCTURNA 10 nov / 22:00 c/ Azucenas con c/ Ceuta ¡VEN Y ÚNETE! Comité de Huelga Tetuán",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/ecd9d9a579.jpg",
-    "image_hash": "b96f95d3a2950f9b2a988a2f9c1c0ddc",
-    "source_id": "img_5290_0",
-    "created_at": "2026-11-10T11:21:33.236502+00:00"
-  },
-  {
-    "id": "manual-1794213149633",
-    "title": "11N. Reklama nocturna",
-    "datetime": "2026-11-10T23:00:00.000Z",
-    "end_datetime": null,
-    "location": "Plaza de las palomas, Madrid",
-    "description": "",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1794213149633.jpg",
-    "source_id": "manual",
-    "created_at": "2026-11-09T08:32:35.111Z"
-  },
-  {
-    "id": "0e6d94cb77",
-    "title": "HUELGA GENERAL POR LA VIVIENDA",
-    "datetime": "2026-11-11T00:00:00",
-    "end_datetime": null,
-    "location": "SVTetuan, Madrid",
-    "description": "💥 HUELGA GENERAL POR LA VIVIENDA 💥\n\nEste 11 de noviembre iremos a la huelga general contra el rentismo y sus gobiernos exigiendo:\n\n1) Expropiar a los especuladores.\n2) Prohibir el uso especulativo de la vivienda.\n3) Organizar el uso de la vivienda en función de la necesidad de la clase trabajadora: garantizando la calidad y accesibilidad.\n\nA la huelga, compañera! 🗝️❤️‍🔥\n\nHUELGA GENERAL POR LA VIVIENDA\nCONTRA EL RENTISMO Y SUS GOBIERNOS\nEXPROPIEMOS A LOS CULPABLES\n\nIg: https://www.instagram.com/p/Deqy0REiLi5/\n\nX: https://x.com/SVTetuan/status/2112152974201848290",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/0e6d94cb77.jpg",
-    "image_hash": "ffe15d6735c1b0bbd57ff77c8b16b6ec",
-    "source_id": "img_5224_0",
-    "created_at": "2026-10-19T12:33:26.461764+00:00"
   },
   {
     "id": "d3b59ed26d",
