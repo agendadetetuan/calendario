@@ -106,6 +106,17 @@
     "created_at": "2026-11-13T08:59:56.869486+00:00"
   },
   {
+    "id": "manual-1794639776537",
+    "title": "Documental \"La memoria es nuestra\"",
+    "datetime": "2026-11-19T18:00:00.000Z",
+    "end_datetime": null,
+    "location": "Geranios 22, Madrid",
+    "description": "",
+    "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1794639776537-edit.jpg",
+    "source_id": "manual",
+    "created_at": "2026-11-14T07:03:02.058Z"
+  },
+  {
     "id": "a499d52c0a",
     "title": "IMAGINAR EL INFIERNO",
     "datetime": "2026-11-19T18:30:00",
@@ -118,17 +129,6 @@
     "created_at": "2026-11-06T13:49:51.592969+00:00"
   },
   {
-    "id": "manual-1794639776537",
-    "title": "Documental \"La memoria es nuestra\"",
-    "datetime": "2026-11-19T18:00:00.000Z",
-    "end_datetime": null,
-    "location": "Geranios 22, Madrid",
-    "description": "",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1794639776537-edit.jpg",
-    "source_id": "manual",
-    "created_at": "2026-11-14T07:03:02.058Z"
-  },
-  {
     "id": "manual-1793818240206",
     "title": "Festival flamenco",
     "datetime": "2026-11-20T18:00:00.000Z",
@@ -138,6 +138,18 @@
     "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1793818240206.jpg",
     "source_id": "manual",
     "created_at": "2026-11-04T18:50:46.182Z"
+  },
+  {
+    "id": "d69b245ce6",
+    "title": "Presentación + Charla CALENDARIO DE FRUTAS Y HORTALIZAS 2027",
+    "datetime": "2026-11-20T19:00:00",
+    "end_datetime": null,
+    "location": "Librería Remedios, C:/Doctor Santero 11, Madrid",
+    "description": "Presentación + Charla. CALENDARIO DE FRUTAS Y HORTALIZAS 2027. De Iranzu Duarte y La Pera Ediciones. En Librería Remedios C:/Doctor Santero 11. Una conversación entre Iranzu Duarte y Ana Plaza.",
+    "image_url": "https://agendadetetuan.github.io/calendario/images/d69b245ce6.jpg",
+    "image_hash": "8dc63108442f41913d1872dce740d505",
+    "source_id": "img_5308_0",
+    "created_at": "2026-11-14T07:07:34.676474+00:00"
   },
   {
     "id": "283172d6d1",
