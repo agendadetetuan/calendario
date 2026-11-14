@@ -106,6 +106,17 @@
     "created_at": "2026-11-13T08:59:56.869486+00:00"
   },
   {
+    "id": "manual-1794639776537",
+    "title": "Documental \"La memoria es nuestra\"",
+    "datetime": "2026-11-19T18:00:00.000Z",
+    "end_datetime": null,
+    "location": "Geranios 22, Madrid",
+    "description": "",
+    "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1794639776537.jpg",
+    "source_id": "manual",
+    "created_at": "2026-11-14T07:03:02.058Z"
+  },
+  {
     "id": "a499d52c0a",
     "title": "IMAGINAR EL INFIERNO",
     "datetime": "2026-11-19T18:30:00",
@@ -118,15 +129,16 @@
     "created_at": "2026-11-06T13:49:51.592969+00:00"
   },
   {
-    "id": "manual-1794639776537",
-    "title": "Documental \"La memoria es nuestra\"",
-    "datetime": "2026-11-19T18:00:00.000Z",
-    "end_datetime": null,
-    "location": "Geranios 22, Madrid",
-    "description": "",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1794639776537.jpg",
-    "source_id": "manual",
-    "created_at": "2026-11-14T07:03:02.058Z"
+    "id": "7732dccdaf",
+    "title": "ANTIFASCISMO DESDE CEUTA",
+    "datetime": "2026-11-20T18:00:00",
+    "end_datetime": "2026-11-20T21:00:00",
+    "location": "C/ CORUÑA, 5, Madrid",
+    "description": "18H. MESA REDONDA Y CHARLAS:\nCON LAS INTERVENCIONES DE:\nBRIGADAS DE APOYO MUTUO,\nKAMAL AHMED ABDULKARIM,\nILYAS,\nALE VELASCO\nTIMA AGGUEDOUR\n20H. PROYECCIÓN\nDEL DOCUMENTAL\nDEL COLECTIVO\nCADRE CAGOULE\n21H. CENITA RICA\n+ PINTXADA",
+    "image_url": "https://agendadetetuan.github.io/calendario/images/7732dccdaf.jpg",
+    "image_hash": "2467b3513c1c9d0717e3bfbba078acf9",
+    "source_id": "img_5307_0",
+    "created_at": "2026-11-14T07:04:38.378967+00:00"
   },
   {
     "id": "manual-1793818240206",
