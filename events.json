@@ -282,6 +282,18 @@
     "created_at": "2026-11-16T15:00:19.028222+00:00"
   },
   {
+    "id": "0b9afe7ff7",
+    "title": "ConversaCiencia: Cazando fantasmas",
+    "datetime": "2026-11-25T18:30:00",
+    "end_datetime": null,
+    "location": "Biblioteca Pública Municipal Manuel Vázquez Montalbán, Calle de Francos Rodríguez 67, Madrid",
+    "description": "ConversaCiencia. Diálogos sobre ciencia en bibliotecas. Cazando fantasmas: Adéntrate en los secretos de los neutrinos, unas de las partículas más abundantes y enigmáticas del universo. Clara Cuesta Soria, Unidad CIEMAT - Física de Partículas. Modera: Lorena Sánchez (The Conversation). 25 de noviembre de 2026, 18:30. Biblioteca Pública Municipal Manuel Vázquez Montalbán, C. de Francos Rodríguez, 67 - Madrid. #elCIEMATentubarrio. Info: https://divulgacion.ciemat.es/conversaciencia",
+    "image_url": "https://agendadetetuan.github.io/calendario/images/0b9afe7ff7.jpg",
+    "image_hash": "501e823aa9a2dd3bb77c7b3d9d4c1b65",
+    "source_id": "img_5325_0",
+    "created_at": "2026-11-18T16:11:55.549651+00:00"
+  },
+  {
     "id": "b34c53514b",
     "title": "¡Maratón! de Radio Almenara",
     "datetime": "2026-11-27T18:00:00",
