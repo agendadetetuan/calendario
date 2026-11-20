@@ -24,52 +24,6 @@
     "created_at": "2026-09-02T15:21:12.773108+00:00"
   },
   {
-    "id": "972a9551a5",
-    "title": "📣📣 El próximo jueves 1️⃣9️⃣ de noviembre tenemos una nueva sesión de Bebecuentos para los y las más peques 👶🏻. *Aurora Redondo* vendrá a contarnos  *_Con mis manitas_* 👐🏾🤲 y pasaremos un rato de lo más divertido 😹 . No lo dudes e inscríbete cuanto antes para no quedarte sin plaza.",
-    "datetime": "2026-11-19T17:30:00",
-    "end_datetime": null,
-    "location": null,
-    "description": "📣📣 El próximo jueves 1️⃣9️⃣ de noviembre tenemos una nueva sesión de Bebecuentos para los y las más peques 👶🏻. *Aurora Redondo* vendrá a contarnos  *_Con mis manitas_* 👐🏾🤲 y pasaremos un rato de lo más divertido 😹 . No lo dudes e inscríbete cuanto antes para no quedarte sin plaza.\nInscripciones: 👉 https://forms.office.com/e/cM9diywP8r\n📆Jueves, 19 de noviembre\n⏰ Dos sesiones: *17:30 y 18:00* \n😊De *0 a 24 meses*                                                                                                          📍Aforo máximo: 8 bebés acompañados por una persona adulta.",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/972a9551a5.jpg",
-    "image_hash": "ea597d69954752432505ef397a42ac5d",
-    "source_id": "img_5295_0",
-    "created_at": "2026-11-13T08:59:56.869486+00:00"
-  },
-  {
-    "id": "manual-1794639776537",
-    "title": "Documental \"La memoria es nuestra\"",
-    "datetime": "2026-11-19T18:00:00.000Z",
-    "end_datetime": null,
-    "location": "Geranios 22, Madrid",
-    "description": "",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1794639776537-edit.jpg",
-    "source_id": "manual",
-    "created_at": "2026-11-14T07:03:02.058Z"
-  },
-  {
-    "id": "manual-1794818785279",
-    "title": "Asamblea de vivienda",
-    "datetime": "2026-11-19T18:00:00.000Z",
-    "end_datetime": null,
-    "location": "Calle Coruña 5, Madrid",
-    "description": "",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1794818785279.jpg",
-    "source_id": "manual",
-    "created_at": "2026-11-16T08:46:30.839Z"
-  },
-  {
-    "id": "a499d52c0a",
-    "title": "IMAGINAR EL INFIERNO",
-    "datetime": "2026-11-19T18:30:00",
-    "end_datetime": null,
-    "location": "Fundación Canal, Madrid",
-    "description": "19 NOVIEMBRE 2026 | 18:30 h Chiara Cappuccio Profesora de Literatura Italiana Universidad Complutense de Madrid",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/a499d52c0a.jpg",
-    "image_hash": "2171fdb8008e65493b58e1d458696c12",
-    "source_id": "img_5279_0",
-    "created_at": "2026-11-06T13:49:51.592969+00:00"
-  },
-  {
     "id": "3a54dcab4a",
     "title": "El próximo viernes 20 de noviembre, a partir de las 16:30h, continuaremos trabajando en la huerta de la Dehesa de la Villa",
     "datetime": "2026-11-20T16:30:00",
