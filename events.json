@@ -24,65 +24,6 @@
     "created_at": "2026-09-02T15:21:12.773108+00:00"
   },
   {
-    "id": "3a54dcab4a",
-    "title": "El próximo viernes 20 de noviembre, a partir de las 16:30h, continuaremos trabajando en la huerta de la Dehesa de la Villa",
-    "datetime": "2026-11-20T16:30:00",
-    "end_datetime": null,
-    "location": "Huerta de la Dehesa de la Villa, Dehesa de la Villa, Madrid",
-    "description": "🍄🍂El próximo viernes 20 de noviembre, a partir de las 16:30h, continuaremos trabajando en la huerta de la Dehesa de la Villa👩‍🌾🙌\n\n🥕🌰Cosecharemos los últimos cultivos veraniegos y trabajaremos la tierra para conseguir abono verde 🌱🌿🌾🥦\n\n¡Os esperamos!🍂🍄\n\nhttps://t.me/AgendaCIEADehesaDeLaVilla",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/3a54dcab4a.jpg",
-    "image_hash": "551a47ce0d91efac3c72d0800308a023",
-    "source_id": "img_5322_0",
-    "created_at": "2026-11-18T10:10:02.199151+00:00"
-  },
-  {
-    "id": "5e339130d3",
-    "title": "Taller gratuito de ilustración y lenguaje visual",
-    "datetime": "2026-11-20T17:00:00",
-    "end_datetime": "2026-11-20T19:00:00",
-    "location": "Espacio Bellas Vistas, Calle Adrián Pulido 8, Bellas Vistas, Madrid",
-    "description": "Una introducción a la ilustración y la narrativa visual mediante técnicas accesibles. Trabajaremos la observación, la composición y la creación de imágenes propias, fomentando la participación equitativa, el aprendizaje colectivo y el acceso a herramientas culturales. Es una actividad divertida y que despierta tu lado más creativo. Está pensada para personas adultas pero te puede acompañar tu peque. Es necesario inscribirse previamente en el formulario: https://docs.google.com/forms/d/e/1FAIpQLSdSOB0yDiE9iWu-R-TWRRzXrZfAdVWnABO3wNXRCLPv5vt5tA/viewform. ¡Ven a crear y compartir con el barrio! ¡Te esperamos en EnRedArte!",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/5e339130d3.jpg",
-    "image_hash": "7c8c726f2980e84ddccdbc779b2ec97f",
-    "source_id": "img_5319_0",
-    "created_at": "2026-11-16T15:28:46.877776+00:00"
-  },
-  {
-    "id": "a190291c30",
-    "title": "ANTIFASCISMO DESDE CEUTA",
-    "datetime": "2026-11-20T18:00:00",
-    "end_datetime": null,
-    "location": "La Enre, C/ Coruña, 5, Madrid",
-    "description": "20 NOV. La Enre, C/ Coruña, 5. ANTIFASCISMO DESDE CEUTA. 18H. MESA REDONDA Y CHARLAS: CON LAS INTERVENCIONES DE BRIGADAS DE APOYO MUTUO, KAMAL AHMED ABDULKARIM, ILYAS, ALE VELASCO, TIMA AGGUEDOUR. 20H. PROYECCIÓN DEL DOCUMENTAL DEL COLECTIVO CADRE CAGOULE. 21H. CENITA RICA + PINTXADA. ABAJO LAS FRONTERAS.",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/a190291c30.jpg",
-    "image_hash": "48c2f9f6f57957cc4112413a0e4b230b",
-    "source_id": "img_5310_0",
-    "created_at": "2026-11-15T10:37:23.524501+00:00"
-  },
-  {
-    "id": "manual-1793818240206",
-    "title": "Festival flamenco",
-    "datetime": "2026-11-20T18:00:00.000Z",
-    "end_datetime": null,
-    "location": "Centro cultural Eduardo Úrculo, Madrid",
-    "description": "",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1793818240206.jpg",
-    "source_id": "manual",
-    "created_at": "2026-11-04T18:50:46.182Z"
-  },
-  {
-    "id": "d69b245ce6",
-    "title": "Presentación + Charla CALENDARIO DE FRUTAS Y HORTALIZAS 2027",
-    "datetime": "2026-11-20T19:00:00",
-    "end_datetime": null,
-    "location": "Librería Remedios, C:/Doctor Santero 11, Madrid",
-    "description": "Presentación + Charla. CALENDARIO DE FRUTAS Y HORTALIZAS 2027. De Iranzu Duarte y La Pera Ediciones. En Librería Remedios C:/Doctor Santero 11. Una conversación entre Iranzu Duarte y Ana Plaza.",
-    "image_url": "https://agendadetetuan.github.io/calendario/images/d69b245ce6.jpg",
-    "image_hash": "8dc63108442f41913d1872dce740d505",
-    "source_id": "img_5308_0",
-    "created_at": "2026-11-14T07:07:34.676474+00:00"
-  },
-  {
     "id": "a29d8bc5d0",
     "title": "CUENTOS EN KAMISHIBAI",
     "datetime": "2026-11-21T11:30:00",
