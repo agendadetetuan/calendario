@@ -139,5 +139,16 @@
     "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1787760515304-edit.jpg",
     "source_id": "manual",
     "created_at": "2026-08-26T16:08:35.304Z"
+  },
+  {
+    "id": "manual-1795379325468",
+    "title": "Presentación de \"La defensa de Madrid en la Dehesa de la Villa\"",
+    "datetime": "2026-12-03T18:00:00.000Z",
+    "end_datetime": null,
+    "location": "Torrijos 15, Madrid",
+    "description": "",
+    "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1795379325468.jpg",
+    "source_id": "manual",
+    "created_at": "2026-11-22T20:28:51.854Z"
   }
 ]
