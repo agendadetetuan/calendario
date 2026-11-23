@@ -72,6 +72,18 @@
     "created_at": "2026-11-21T08:45:31.972188+00:00"
   },
   {
+    "id": "b3ccc40b22",
+    "title": "Taller de arte acrílico",
+    "datetime": "2026-11-25T19:00:00",
+    "end_datetime": null,
+    "location": "El Ateneo de Tetuán, Calle Torrijos 15, Tetuán, Madrid",
+    "description": "¡CAMBIO DE DÍA! Se pasa para el miércoles. Inicia: Miércoles 25 de Noviembre. Hora: 19:00 hs. Julieta Acosta. Abierto a todo público. ¡También para niños! Contribución voluntaria. Argentina Soberana Madrid. El Ateneo de Tetuán. TORRIJOS 15.",
+    "image_url": "https://agendadetetuan.github.io/calendario/images/b3ccc40b22.jpg",
+    "image_hash": "f82c78a45bb816d102d3d52a3a2a5644",
+    "source_id": "img_5335_0",
+    "created_at": "2026-11-23T13:46:47.090341+00:00"
+  },
+  {
     "id": "b34c53514b",
     "title": "¡Maratón! de Radio Almenara",
     "datetime": "2026-11-27T18:00:00",
