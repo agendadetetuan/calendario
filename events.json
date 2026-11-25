@@ -152,5 +152,17 @@
     "image_url": "https://agendadetetuan.github.io/calendario/images/manual-1795379325468.jpg",
     "source_id": "manual",
     "created_at": "2026-11-22T20:28:51.854Z"
+  },
+  {
+    "id": "9be870604c",
+    "title": "PATRIA, LABUENA",
+    "datetime": "2026-12-05T12:30:00",
+    "end_datetime": null,
+    "location": "C/ Doctor Santero, 11, Tetuán, Madrid",
+    "description": "¡Presentación en Remedios de editorial AUTSAIDER! Patria, la buena de Ricardo Gómez, en conversación con Elena Cabrera. Entrada libre",
+    "image_url": "https://agendadetetuan.github.io/calendario/images/9be870604c.jpg",
+    "image_hash": "e8448edf9387db71fcd0b6c490d031b1",
+    "source_id": "img_5341_0",
+    "created_at": "2026-11-25T09:47:08.232052+00:00"
   }
 ]
