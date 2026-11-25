@@ -132,6 +132,18 @@
     "created_at": "2026-11-24T10:24:44.169053+00:00"
   },
   {
+    "id": "062722910b",
+    "title": "¡AQUÍ NO SE TIRA NADA!",
+    "datetime": "2026-11-28T18:00:00",
+    "end_datetime": "2026-11-28T20:00:00",
+    "location": "Makespace Madrid, Calle Ruiz de Palacios 7, Tetuán, Madrid",
+    "description": "SÁBADO 28 DE NOVIEMBRE DE 18:00 A 20:00\nTALLER DE REPARACIÓN DE OBJETOS COTIDIANOS ELÉCTRICOS/ELECTRÓNICOS\nDISFRUTA REPARANDO Y REDUCIENDO RESIDUOS\nMAKESPACE MADRID\nREPAIR CAFÉ MADRID",
+    "image_url": "https://agendadetetuan.github.io/calendario/images/062722910b.jpg",
+    "image_hash": "5344334985078a7b8cacd1eb675968f8",
+    "source_id": "img_5347_0",
+    "created_at": "2026-11-25T21:44:56.754229+00:00"
+  },
+  {
     "id": "0854006316",
     "title": "Día de la solidaridad con el pueblo palestino en el Espacio Bellas Vistas",
     "datetime": "2026-11-29T17:00:00",
