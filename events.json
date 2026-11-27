@@ -164,5 +164,17 @@
     "image_hash": "e8448edf9387db71fcd0b6c490d031b1",
     "source_id": "img_5341_0",
     "created_at": "2026-11-25T09:47:08.232052+00:00"
+  },
+  {
+    "id": "444af8138a",
+    "title": "Pasear y pensar lo cotidiano",
+    "datetime": "2026-12-16T19:00:00",
+    "end_datetime": null,
+    "location": "Librería Remedios, Madrid",
+    "description": "Una conversación entre Blanca Lacasa y Adriana Herreros. Entrada libre.",
+    "image_url": "https://agendadetetuan.github.io/calendario/images/444af8138a.jpg",
+    "image_hash": "967f14b4cbf123a96bb264a12a51da9b",
+    "source_id": "img_5350_0",
+    "created_at": "2026-11-27T10:27:02.165644+00:00"
   }
 ]
